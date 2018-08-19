@@ -239,7 +239,7 @@ class Entity:
 		articles = entrez_api.esummary(uid_list)
 		self._articles = articles
 
-
+			
 
 
 

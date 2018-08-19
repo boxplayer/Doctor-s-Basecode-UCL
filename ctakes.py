@@ -1,5 +1,4 @@
-# import xml.etree.ElementTree as ET
-# import io
+## IMPORTS
 import requests
 import json
 from functools import partial
@@ -10,6 +9,8 @@ from package.apis.entrez_api import *
 
 from package.classes.entity_class import Entity
 from package.classes.summary_class import Summary
+
+
 
 def check_key(annotation, key):
 	try:
@@ -59,8 +60,8 @@ def main():
 	# json_file.close()
 
 	# open text to be parsed
-	med_text = open("package/medtext.txt", "r")
-	med_text = med_text.read()
+	input_file = open("package/inputs.txt", "r")
+	input_file = input_file.read()
 
 
 	# sample texts
@@ -76,7 +77,7 @@ def main():
 	port = '80'
 
 	# call ctakes-server
-	req = requests.get("http://{}:{}/ctakes?text={}".format(virtualmachine_ip, port, med_text))
+	req = requests.get("http://{}:{}/ctakes?text={}".format(virtualmachine_ip, port, input_file))
 
 	# convert the request json into list
 	req_list = req.json()
@@ -242,31 +243,12 @@ def main():
 		# create simple entity
 		# ent = Entity(name, subject, snomed_code, typ)
 
-
-		# if(typ == "medicine"):
-		# 	ent = Entity(name, subject, snomed_code, typ, med_route, med_allergy, med_strength, med_frequency, med_duration, med_dosage)
-		
-		# elif(typ == "symptom"):
-		# 	ent = Entity(name, subject, snomed_code, typ, sym_body_laterality, sym_history, sym_duration, sym_start_time, sym_severity, sym_body_location)
-		
-		# elif(typ == "anatomy"):
-		# 	ent = Entity(name, subject, snomed_code, typ, ana_body_laterality, ana_body_side)
-		
-		# elif(typ == "procedure"):
-		# 	ent = Entity(name, subject, snomed_code, typ, pro_duration, pro_method, pro_start_time, pro_end_time, pro_body_location, pro_device)
-		
-		# elif(typ == "disease"):
-		# 	ent = Entity(name, subject, snomed_code, typ, dis_course, dis_start_time, dis_end_time, dis_associated_symptom, dis_body_location, dis_severity, dis_alleviating_factor, dis_exacerbating_factor)
-		
-		# else:
-		# 	print("BIG FAT ERROR!")
-
 		# create complex entity
 		ent = Entity(name, subject, snomed_code, typ, med_route, med_allergy, med_strength, med_frequency, med_duration, med_dosage, sym_body_laterality, sym_history, sym_duration, sym_start_time, sym_severity, sym_body_location, ana_body_laterality, ana_body_side, pro_duration, pro_method, pro_start_time, pro_end_time, pro_body_location, pro_device, dis_course, dis_start_time, dis_end_time, dis_associated_symptom, dis_body_location, dis_severity, dis_alleviating_factor, dis_exacerbating_factor)
 
 
 		# get PUBMED articles
-		ent.get_articles()
+		# ent.get_articles()
 
 		# print articles
 		# ent.printArticles()

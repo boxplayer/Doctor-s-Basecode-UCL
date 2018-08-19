@@ -49,6 +49,7 @@ class Summary:
 	def toJSON(self):
 		#create directory
 		now = datetime.datetime.now()
+		now = now.replace(microsecond=0)
 
 		try:
 			os.makedirs(os.path.dirname("package/data/{}/".format(now)))
