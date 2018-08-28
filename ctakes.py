@@ -1,14 +1,20 @@
 ## IMPORTS
+import sys
 import requests
 import json
 from functools import partial
 
+import cloudconvert
+
 import package.apis.snomed_api
 import package.apis.wikipedia_api
 from package.apis.entrez_api import *
+import package.apis.cloudconvert_api as cc
 
 from package.classes.entity_class import Entity
 from package.classes.summary_class import Summary
+
+from PyQt5.QtWidgets import (QFileDialog, QPushButton, QWidget, QLineEdit, QApplication, QVBoxLayout, QLabel)
 
 
 
@@ -23,46 +29,92 @@ def check_key(annotation, key):
 def print_dict(o):
 	for x in o: print(f'{x}: {o[x]}')
 
+
+class Button(QPushButton):
+  
+	def __init__(self, title, parent):
+		super().__init__(title, parent)
+		
+
+class Exit(QPushButton):
+  
+	def __init__(self, title, parent):
+		super().__init__(title, parent)
+		
+
+class UploadWindow(QWidget):
+  
+	def __init__(self):
+		super().__init__()
+		
+		self.initUI()
+		
+		
+	def initUI(self):
+
+		edit = QLineEdit('', self)
+		edit.setDragEnabled(True)
+		edit.move(30, 65)
+
+		button = Button("Button", self)
+		button.move(190, 65)
+		button.clicked.connect(self.upload_pdf)
+
+		button2 = Button("Exit", self)
+		button2.move(190, 85)
+		button2.clicked.connect(self.exit)
+		
+		self.setWindowTitle('cTAKES Program')
+		self.setGeometry(300, 300, 300, 150)
+
+	def exit(self):
+		self.close()
+		# sys.exit(app.exec_())
+    
+
+	def upload_pdf(self):
+		dialog = QFileDialog()
+		fname = dialog.getOpenFileName(None, "Import PDF", "", "PDF data file (*.pdf)")
+		print("FNAME PRINT: ", fname[0])
+		self.fname = fname[0]
+
+
 def main():
 
 	print("########################")
 
+	app = QApplication(sys.argv)
+	ex = UploadWindow()
+	ex.show()
+	app.exec_()  
 
-	# uid_list = esearch("aspirin")
-	# print(uid_list)
+	print("BEFORE EXIT")
 
-	# print("#")
-	# print("#")
-	# print("#")
+	print(ex.fname)
 
-	# summary_list = esummary(uid_list)
-
-	# print(len(summary_list))
-
-	# print("#")
-	# print("#")
-	# print("#")
+	print("AFTER EXIT")
 
 
-	# # SNOMED API CHECK
-	# # print(snomed_api.getConceptById('679406011'))
-	# print(snomed_api.getConceptById('229070002'))
-	# print("")
-	# print("")
-	# thing = snomed_api.getDescriptionById('679406011')
-	# # print(snomed_api.getDescriptionsByString('heart attack'))
-	# print("")
-	# print("")
+	# import sys
+	# from PyQt5.QtWidgets import QApplication, QWidget
+	
+	# app = QApplication(sys.argv)
 
-	# # open new file in directory and save the data as json
-	# json_file = open('data_snomed.json', 'w')
-	# json_file.write(json.dumps(thing))
-	# json_file.close()
+	# w = QWidget()
+	# w.resize(250, 150)
+	# w.move(300, 300)
+	# w.setWindowTitle('Simple')
+	# w.show()
+	# sys.exit(app.exec_())
+
+
+	# pass the pdf to the cloud converter
+	cc.main(ex.fname)
 
 	# open text to be parsed
-	input_file = open("package/inputs.txt", "r")
+	input_file = open("package/output.txt", "r")
 	input_file = input_file.read()
-
+	
 
 	# sample texts
 	text01 = "Patient took an aspirin for knee pain."
@@ -73,7 +125,7 @@ def main():
 	text06 = "Paracetamol. Pain. Knee. Stretching. Down syndrome."
 
 	# set the virtual machine IP address, port is 80
-	virtualmachine_ip = '52.151.82.165'
+	virtualmachine_ip = '51.140.141.203'
 	port = '80'
 
 	# call ctakes-server
@@ -371,7 +423,8 @@ def main():
 	# print("")
 
 
-	# VISUAL DEBUG
+
+	## VISUAL DEBUG ##
 
 	print("")
 	print("#################SUMMARY")
@@ -405,6 +458,39 @@ def main():
 		print(">",thing.name())
 
 	print("")
+
+
+	# # TODO: When you have your own Client ID and secret, put down their values here:
+	# clientId = "FREE_TRIAL_ACCOUNT"
+	# clientSecret = "PUBLIC_SECRET"
+
+	# # TODO: Specify the URL of your small PDF document (less than 1MB and 10 pages)
+	# # To extract text from bigger PDf document, you need to use the async method.
+	# url = "http://www.better-fundraising-ideas.com/support-files/the-best-snail-jokes.pdf"
+
+	# headers = {
+	#     'X-WM-CLIENT-ID': clientId, 
+	#     'X-WM-CLIENT-SECRET': clientSecret
+	# }
+
+	# r = requests.get('https://api.whatsmate.net/v1/pdf/extract?url=' + url, 
+	#     headers=headers)
+
+	# print("Status code: " + str(r.status_code))
+	# print("Extracted Text: \n")
+	# print(str(r.content))
+
+	# api = cloudconvert.Api('X0LnpbqjPzPCKTWJAh50nMORz0olrqfJHHJ9gYFaQRfBuwv7QaEmmUPpwftXiAuY')
+
+	# process = api.convert({
+	#     'inputformat': 'pdf',
+	#     'outputformat': 'txt',
+	#     'input': 'upload',
+	#     'file': open('package/input.pdf', 'rb')
+	# })
+	# process.wait() # wait until conversion finished
+	# process.download("package/output.txt") # download output file
+
 	
 if __name__ == "__main__":
 	main()
