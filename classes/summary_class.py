@@ -33,7 +33,7 @@ class Summary:
 	def get_medicine_list(self):
 		return self._medicine_list
 
-	def get_symtpom_list(self):
+	def get_symptom_list(self):
 		return self._symptom_list
 
 	def get_anatomy_list(self):

@@ -4,7 +4,7 @@ from package.classes.entity_class import Entity
 class TestEntity(unittest.TestCase):
 
 	def test_entity(self):
-		ent_1 = Entity("Aspirin", "Patient", "391788009", "medicine")
+		ent_1 = Entity("Aspirin", "Patient", "391788009", "medicine", None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
 		self.assertEqual(ent_1.snomed_code(), "391788009")
 
 		wiki = ent_1.wikipedia_description()

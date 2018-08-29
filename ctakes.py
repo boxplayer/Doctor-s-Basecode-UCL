@@ -3,6 +3,7 @@ import sys
 import requests
 import json
 from functools import partial
+import os
 
 import cloudconvert
 
@@ -15,6 +16,7 @@ from package.classes.entity_class import Entity
 from package.classes.summary_class import Summary
 
 from PyQt5.QtWidgets import (QFileDialog, QPushButton, QWidget, QLineEdit, QApplication, QVBoxLayout, QLabel)
+from package.gui import (Button, UploadWindow, DisplayWindow)
 
 
 
@@ -30,86 +32,22 @@ def print_dict(o):
 	for x in o: print(f'{x}: {o[x]}')
 
 
-class Button(QPushButton):
-  
-	def __init__(self, title, parent):
-		super().__init__(title, parent)
-		
-
-class Exit(QPushButton):
-  
-	def __init__(self, title, parent):
-		super().__init__(title, parent)
-		
-
-class UploadWindow(QWidget):
-  
-	def __init__(self):
-		super().__init__()
-		
-		self.initUI()
-		
-		
-	def initUI(self):
-
-		edit = QLineEdit('', self)
-		edit.setDragEnabled(True)
-		edit.move(30, 65)
-
-		button = Button("Button", self)
-		button.move(190, 65)
-		button.clicked.connect(self.upload_pdf)
-
-		button2 = Button("Exit", self)
-		button2.move(190, 85)
-		button2.clicked.connect(self.exit)
-		
-		self.setWindowTitle('cTAKES Program')
-		self.setGeometry(300, 300, 300, 150)
-
-	def exit(self):
-		self.close()
-		# sys.exit(app.exec_())
-    
-
-	def upload_pdf(self):
-		dialog = QFileDialog()
-		fname = dialog.getOpenFileName(None, "Import PDF", "", "PDF data file (*.pdf)")
-		print("FNAME PRINT: ", fname[0])
-		self.fname = fname[0]
-
-
 def main():
 
 	print("########################")
 
+	# open main app window
 	app = QApplication(sys.argv)
 	ex = UploadWindow()
 	ex.show()
 	app.exec_()  
 
-	print("BEFORE EXIT")
-
-	print(ex.fname)
-
-	print("AFTER EXIT")
+	# get input filename
+	filename = os.path.basename(ex.fname)
 
 
-	# import sys
-	# from PyQt5.QtWidgets import QApplication, QWidget
-	
-	# app = QApplication(sys.argv)
-
-	# w = QWidget()
-	# w.resize(250, 150)
-	# w.move(300, 300)
-	# w.setWindowTitle('Simple')
-	# w.show()
-	# sys.exit(app.exec_())
-
-
-	# pass the pdf to the cloud converter
-	cc.main(ex.fname)
+	# pass the pdf to the cloud converter (RAN OUT OF FREE CONVERSIONS)
+	# cc.main(ex.fname)
 
 	# open text to be parsed
 	input_file = open("package/output.txt", "r")
@@ -125,7 +63,8 @@ def main():
 	text06 = "Paracetamol. Pain. Knee. Stretching. Down syndrome."
 
 	# set the virtual machine IP address, port is 80
-	virtualmachine_ip = '51.140.141.203'
+	# virtualmachine_ip = '51.140.141.203'
+	virtualmachine_ip = '52.151.90.8'
 	port = '80'
 
 	# call ctakes-server
@@ -458,6 +397,17 @@ def main():
 		print(">",thing.name())
 
 	print("")
+
+	# open display gui to show information
+	ex = DisplayWindow(summary, filename)
+	ex.show()
+	app.exec_()  
+
+	# exit app
+	print("EXITING")
+	# sys.exit(app.exec_())
+	app.close()
+
 
 
 	# # TODO: When you have your own Client ID and secret, put down their values here:
