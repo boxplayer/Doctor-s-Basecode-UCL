@@ -5,18 +5,15 @@ import json
 from functools import partial
 import os
 
-import cloudconvert
-
 import package.apis.snomed_api
 import package.apis.wikipedia_api
-from package.apis.entrez_api import *
+import package.apis.entrez_api
 import package.apis.cloudconvert_api as cc
 
 from package.classes.entity_class import Entity
 from package.classes.summary_class import Summary
 
-from PyQt5.QtWidgets import (QFileDialog, QPushButton, QWidget, QLineEdit, QApplication, QVBoxLayout, QLabel)
-from package.gui import (Button, UploadWindow, DisplayWindow)
+from package.gui import (UploadWindow, DisplayWindow)
 
 
 
