@@ -13,7 +13,8 @@ import package.apis.cloudconvert_api as cc
 from package.classes.entity_class import Entity
 from package.classes.summary_class import Summary
 
-from package.gui import (UploadWindow, DisplayWindow)
+from PyQt5.QtWidgets import (QFileDialog, QPushButton, QWidget, QApplication, QVBoxLayout, QLabel)
+from package.gui import (Button, UploadWindow, DisplayWindow)
 
 
 
@@ -44,7 +45,7 @@ def main():
 
 
 	# pass the pdf to the cloud converter (RAN OUT OF FREE CONVERSIONS)
-	# cc.main(ex.fname)
+	cc.main(ex.fname)
 
 	# open text to be parsed
 	input_file = open("package/output.txt", "r")
@@ -206,7 +207,7 @@ def main():
 			dis_course = check_key(annotation, "course")
 			dis_start_time = check_key(annotation, "startTime")
 			dis_end_time = check_key(annotation, "endTime")
-			dis_history = check_key(annotation, "historyOf")
+			# dis_history = check_key(annotation, "historyOf")
 			dis_associated_symptom = check_key(annotation, "associatedSignSymptom")
 			dis_body_location = check_key(annotation, "bodyLocation")
 			dis_severity = check_key(annotation, "severity")
@@ -405,38 +406,6 @@ def main():
 	# sys.exit(app.exec_())
 	app.close()
 
-
-
-	# # TODO: When you have your own Client ID and secret, put down their values here:
-	# clientId = "FREE_TRIAL_ACCOUNT"
-	# clientSecret = "PUBLIC_SECRET"
-
-	# # TODO: Specify the URL of your small PDF document (less than 1MB and 10 pages)
-	# # To extract text from bigger PDf document, you need to use the async method.
-	# url = "http://www.better-fundraising-ideas.com/support-files/the-best-snail-jokes.pdf"
-
-	# headers = {
-	#     'X-WM-CLIENT-ID': clientId, 
-	#     'X-WM-CLIENT-SECRET': clientSecret
-	# }
-
-	# r = requests.get('https://api.whatsmate.net/v1/pdf/extract?url=' + url, 
-	#     headers=headers)
-
-	# print("Status code: " + str(r.status_code))
-	# print("Extracted Text: \n")
-	# print(str(r.content))
-
-	# api = cloudconvert.Api('X0LnpbqjPzPCKTWJAh50nMORz0olrqfJHHJ9gYFaQRfBuwv7QaEmmUPpwftXiAuY')
-
-	# process = api.convert({
-	#     'inputformat': 'pdf',
-	#     'outputformat': 'txt',
-	#     'input': 'upload',
-	#     'file': open('package/input.pdf', 'rb')
-	# })
-	# process.wait() # wait until conversion finished
-	# process.download("package/output.txt") # download output file
 
 	
 if __name__ == "__main__":

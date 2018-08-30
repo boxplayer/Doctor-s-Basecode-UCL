@@ -67,5 +67,24 @@ class Summary:
 		json_file.close()
 		print("JSON saved!")
 
+	def to_txt(self):
+		try:
+			os.makedirs(os.path.dirname("package/data/{}/pubmed_articles/".format(now)))
+		except OSError as exc:
+			if exc.errno != errno.EEXIST:
+				raise
 
-# 	def getTopArticles(self):
+		pubmed_articles = open("package/data/{}/pubmed_articles/".format(now), "w+")
+
+		pubmed_articles.write()
+
+
+
+
+
+
+
+
+
+
+
