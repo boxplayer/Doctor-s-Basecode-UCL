@@ -21,6 +21,7 @@ import requests
 import json
 from functools import partial
 import os
+import datetime
 
 import package.apis.snomed_api
 import package.apis.wikipedia_api
@@ -61,7 +62,7 @@ def main():
 	filename = os.path.basename(ex.fname)
 
 
-	# pass the pdf to the cloud converter (RAN OUT OF FREE CONVERSIONS)
+	# pass the pdf to the cloud converter (20 conversions per day)
 	cc.main(ex.fname)
 
 	# open text to be parsed
@@ -84,6 +85,9 @@ def main():
 
 	# call ctakes-server
 	req = requests.get("http://{}:{}/ctakes?text={}".format(virtualmachine_ip, port, input_file))
+
+	# debug
+	print(req)
 
 	# convert the request json into list
 	req_list = req.json()
@@ -149,7 +153,7 @@ def main():
 		if name == None:
 			return
 
-		## empty variables
+		## create empty variables
 		med_route = None
 		med_allergy = None
 		med_strength = None
@@ -253,8 +257,9 @@ def main():
 		ent = Entity(name, subject, snomed_code, typ, med_route, med_allergy, med_strength, med_frequency, med_duration, med_dosage, sym_body_laterality, sym_history, sym_duration, sym_start_time, sym_severity, sym_body_location, ana_body_laterality, ana_body_side, pro_duration, pro_method, pro_start_time, pro_end_time, pro_body_location, pro_device, dis_course, dis_start_time, dis_end_time, dis_associated_symptom, dis_body_location, dis_severity, dis_alleviating_factor, dis_exacerbating_factor)
 
 
-		# get PUBMED articles
-		# ent.get_articles()
+		# get PUBMED articles (NOTE: takes a while longer)
+		if(ex.articles_checked == True):
+			ent.get_articles()
 
 		# print articles
 		# ent.printArticles()
@@ -262,23 +267,16 @@ def main():
 		# get SNOMED term from SNOMED database
 		# ent.get_snomed_term()
 
-		# get 2 sentence wikipedia description (NOTE: takes a while)
-		# ent.get_wikipedia_description(2)
+		if(ex.wikipedia_checked == True):
+			# get 2 sentence wikipedia description (NOTE: takes a while longer)
+			ent.get_wikipedia_description(3)
 
-		# get image of entity
+		# get image of entity from wikipedia
 		# ent.get_image()
 
 
-		# print all available information on entity to console
-		ent.printAll()
-
-		# json = ent.toJSON()
-
-		# print("Writing to JSON file....")
-		# json_file = open('package/data/ENTITY.json', 'w')
-		# json_file.write(json)
-		# json_file.close()
-		# print("JSON file saved!")
+		# # print all available information on entity to console
+		# ent.printAll()
 
 	
 		
@@ -370,11 +368,19 @@ def main():
 	# create summary object
 	summary = Summary(medicine_list, symptom_list, anatomy_list, procedure_list, disease_list)
 
-	summary.toJSON()
-	# print quick stats
-	# print("")
-	# print_dict(summary.quick_stats())
-	# print("")
+
+	# create timestamp for folder name
+	now = datetime.datetime.now()
+	now = now.replace(microsecond=0)
+
+	# output data to json file
+	summary.toJSON(now)
+	print(summary.quick_stats())
+
+
+	if(ex.articles_checked == True):
+		# output article data to txt files
+		summary.to_txt(now)
 
 
 

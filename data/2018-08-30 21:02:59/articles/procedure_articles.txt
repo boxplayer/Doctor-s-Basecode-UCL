@@ -1,0 +1,181 @@
+---PUBMED ARTICLES: Alcohol measurement 
+ 
+ --UID: 30145476 
+--Date: 2018 Aug 17 
+--Last Author: Alvarado ME 
+--Title: Impulsivity facets and substance use initiation: A comparison of two models of impulsivity. 
+--UID: 30144114 
+--Date: 2018 Aug 24 
+--Last Author: Fujimiya T 
+--Title: Effect of Alcohol Sensitivity in Healthy Young Adults on Breath Pharmacokinetics of Acetaldehyde after Mouth Washing with Alcohol. 
+--UID: 30143174 
+--Date: 2018 Nov 1 
+--Last Author: Jongrungruangchok S 
+--Title: Structure-antioxidant activity relationship of β-cyclodextrin inclusion complexes with olive tyrosol, hydroxytyrosol and oleuropein: Deep insights from X-ray analysis, DFT calculation and DPPH assay. 
+--UID: 30139901 
+--Date: 2018 Aug 23 
+--Last Author: Ran H 
+--Title: Diagnostic accuracy of point shear wave elastography and transient elastography for staging hepatic fibrosis in patients with non-alcoholic fatty liver disease: a meta-analysis. 
+--UID: 30139384 
+--Date: 2018 Aug 23 
+--Last Author: Searles A 
+--Title: Systematic review of economic evaluations of interventions for high risk young people. 
+--UID: 30138446 
+--Date: 2018 Aug 
+--Last Author: Jamieson AM 
+--Title: Pulmonary influenza A virus infection leads to suppression of the innate immune response to dermal injury. 
+--UID: 30121625 
+--Date: 2018 Aug 18 
+--Last Author: Gao B 
+--Title: Alcohol inhibits T-cell glucose metabolism and hepatitis in ALDH2-deficient mice and humans: roles of acetaldehyde and glucocorticoids. 
+--UID: 30118733 
+--Date: 2018 Aug 15 
+--Last Author: Lê AD 
+--Title: Behavioural sensitization to alcohol: Bridging the gap between preclinical research and human models. 
+--UID: 30118357 
+--Date: 2018 Aug 23 
+--Last Author: Forrest EE 
+--Title: Assessment of Key Health and Wellness Indicators Among North Carolina Emergency Medical Service Providers. 
+--UID: 30117735 
+--Date: 2018 Aug 17 
+--Last Author: Ricco AJ 
+--Title: Obtaining Chemical Selectivity from a Single, Non-Selective Sensing Film: Two-Stage Adaptive Estimation Scheme with Multiparameter Measurement to Quantify Mixture Components and Interferents. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Rehabilitation therapy 
+ 
+ --UID: 30157554 
+--Date: 2018 Aug 20 
+--Last Author: Zhang DD 
+--Title: [Effects of hydrotherapy with traditional Chinese medicine and magnetotherapy on treatment of scars after healing of deep partial-thickness burn wounds in children]. 
+--UID: 30157552 
+--Date: 2018 Aug 20 
+--Last Author: Song JH 
+--Title: [Characteristics of scar hyperplasia after burn and the rehabilitation treatment in children]. 
+--UID: 30157411 
+--Date: 2018 Aug 3 
+--Last Author: Walker R 
+--Title: Low value care and inpatient rehabilitation after total knee replacement. 
+--UID: 30157396 
+--Date: 2018 Aug 30 
+--Last Author: Valente KD 
+--Title: Epilepsy Profile in Infants with Congenital Zika Virus Infection. 
+--UID: 30157366 
+--Date: 2018 Janurary 
+--Last Author: Wang ZP 
+--Title: [Low-intensity shock wave therapy for erectile dysfunction: Progression in application]. 
+--UID: 30157264 
+--Date: 2018 
+--Last Author: Mercier C 
+--Title: Motor and sensory disturbances induced by sensorimotor conflicts during passive and active movements in healthy participants. 
+--UID: 30157245 
+--Date: 2018 
+--Last Author: Bethea JR 
+--Title: Effects of ursolic acid on sub-lesional muscle pathology in a contusion model of spinal cord injury. 
+--UID: 30157177 
+--Date: 2018 
+--Last Author: Kohrman DC 
+--Title: Grxcr2 is required for stereocilia morphogenesis in the cochlea. 
+--UID: 30157138 
+--Date: 2018 Aug 27 
+--Last Author: Wang HL 
+--Title: Analysis of Forces Applied During Transalveolar Sinus Lift: A Preliminary Clinical Study. 
+--UID: 30157104 
+--Date: 2018 Aug 28 
+--Last Author: Rantalainen T 
+--Title: Beneficial Intervertebral Disc and Muscle Adaptations. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Administration procedure 
+ 
+ --UID: 30157507 
+--Date: 2018 Aug 
+--Last Author: Berner ES 
+--Title: Findings from 2017 on Health Information Managemen. 
+--UID: 30157497 
+--Date: 2018 Aug 29 
+--Last Author: Bührer C 
+--Title: Communication in The Clinical Routine of Neonatologists. 
+--UID: 30157365 
+--Date: 2018 Janurary 
+--Last Author: Jiang HH 
+--Title: [Ningmitai Capsules relieve lower urinary tract symptoms in patients with benign prostatic hyperplasia : A short-term clinical observation]. 
+--UID: 30157357 
+--Date: 2018 Janurary 
+--Last Author: Jiang H 
+--Title: [L-carnitine combined with coenzyme Q10 for idiopathic oligoasthenozoospermia: A double-blind randomized controlled trial]. 
+--UID: 30157275 
+--Date: 2018 
+--Last Author: Mikasa K 
+--Title: Molecular epidemiology and clinical features of extended-spectrum beta-lactamase- or carbapenemase-producing Escherichia coli bacteremia in Japan. 
+--UID: 30157225 
+--Date: 2018 
+--Last Author: López-Olvera JR 
+--Title: Stochastic assessment of management strategies for a Mediterranean peri-urban wild boar population. 
+--UID: 30157193 
+--Date: 2018 
+--Last Author: Amnie AG 
+--Title: An impact evaluation of two rounds of mass drug administration on the prevalence of active trachoma: A clustered cross sectional survey. 
+--UID: 30156867 
+--Date: 2018 Aug 29 
+--Last Author: Wang W 
+--Title: Magnetic Resonance Imaging of Ménière's Disease After Intravenous Administration of Gadolinium. 
+--UID: 30156618 
+--Date: 2018 Sep-Oct 
+--Last Author: Garcia-Perdomo H 
+--Title: Effectiveness of acyclovir in the treatment of pityriasis rosea. A systematic review and meta-analysis. 
+--UID: 30156477 
+--Date: 2018 Aug 29 
+--Last Author: Chen Q 
+--Title: Resveratrol attenuates brain damage in permanent focal cerebral ischemia via activation of PI3K/Akt signaling pathway in rats. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Laboratory Procedures 
+ 
+ --UID: 30157576 
+--Date: 2018 Sep 1 
+--Last Author: Xu GL 
+--Title: [Influential factors for failure of enhanced recovery after surgery from hepatectomy for hepatocellular carcinoma and the establishment of risk prediction model]. 
+--UID: 30157531 
+--Date: 2018 Aug 29 
+--Last Author: Lammert A 
+--Title: Dietary Intervention with Oatmeal in Patients with uncontrolled Type 2 Diabetes Mellitus - A Crossover Study. 
+--UID: 30157516 
+--Date: 2018 Aug 
+--Last Author: Vreeman DJ 
+--Title: Recent Developments in Clinical Terminologies - SNOMED CT, LOINC, and RxNorm. 
+--UID: 30157482 
+--Date: 2018 Aug 29 
+--Last Author: Saussez S 
+--Title: The Effect of the Speech Task Characteristics on Perceptual Judgment of Mild to Moderate Dysphonia: A Methodological Study. 
+--UID: 30157477 
+--Date: 2018 Aug 29 
+--Last Author: Liu H 
+--Title: Dipeptide (Methionyl-Methionine) Transport and Its Effect on β-Casein Synthesis in Bovine Mammary Epithelial Cells. 
+--UID: 30157391 
+--Date: 2018 Aug 30 
+--Last Author: Alland D 
+--Title: Bacterial Factors That Predict Relapse after Tuberculosis Therapy. 
+--UID: 30157389 
+--Date: 2018 Aug 30 
+--Last Author: Kruse-Jarres R 
+--Title: Emicizumab Prophylaxis in Patients Who Have Hemophilia A without Inhibitors. 
+--UID: 30157358 
+--Date: 2018 Janurary 
+--Last Author: Liu XD 
+--Title: [Pre-implantation genetic screening in intracytoplasmic sperm injection for infertile patients with high sperm DNA fragmentation index]. 
+--UID: 30157353 
+--Date: 2018 Janurary 
+--Last Author: Cui YG 
+--Title: [Differentiation of embryonic stem cells from the embryos of the couples with male asthenozoospermia and Robertsonian translocation into germ cells]. 
+--UID: 30157275 
+--Date: 2018 
+--Last Author: Mikasa K 
+--Title: Molecular epidemiology and clinical features of extended-spectrum beta-lactamase- or carbapenemase-producing Escherichia coli bacteremia in Japan. 
+ 
+ 
+ 
+ 

@@ -74,8 +74,6 @@ def esummary(uids):
 
 	## retrieves a summary of articles by UIDs ##
 
-
-
 	# database to retrieve articles from
 	db = "pubmed"
 
