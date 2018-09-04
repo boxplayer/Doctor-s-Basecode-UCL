@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>de.dfki.lt</groupId>
+    <artifactId>ctakes-server</artifactId>
+    <version>0.1</version>
+
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <scala.majorVersion>2.11</scala.majorVersion>
+        <scala.minorVersion>.7</scala.minorVersion>
+        <scalatest.version>2.2.2</scalatest.version>
+        <junit.version>4.10</junit.version>
+        <ctakes.version>3.2.2</ctakes.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.ctakes</groupId>
+            <artifactId>ctakes-clinical-pipeline</artifactId>
+            <version>${ctakes.version}</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>net.sourceforge.ctakesresources</groupId>
+                    <artifactId>ctakes-resources-lvg2008</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.ctakes</groupId>
+            <artifactId>ctakes-ytex</artifactId>
+            <version>${ctakes.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.ctakes</groupId>
+            <artifactId>ctakes-assertion-zoner</artifactId>
+            <version>${ctakes.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>net.sf.mastif</groupId>
+            <artifactId>mastif-i2b2</artifactId>
+            <version>1.4</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.mitre</groupId>
+                    <artifactId>jcarafe-core_2.9.1</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+
+        <!--dependency>
+            <groupId>net.sf.carafe.jcarafe</groupId>
+            <artifactId>jcarafe-core_2.9.1</artifactId>
+            <version>0.9.8.3.RC4</version>
+        </dependency-->
+
+
+        <dependency>
+            <groupId>xml-apis</groupId>
+            <artifactId>xml-apis</artifactId>
+            <version>1.4.01</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.ctakes</groupId>
+            <artifactId>ctakes-constituency-parser</artifactId>
+            <version>${ctakes.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.cleartk</groupId>
+            <artifactId>cleartk-ml</artifactId>
+            <version>2.0.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.cleartk</groupId>
+            <artifactId>cleartk-ml-liblinear</artifactId>
+            <version>2.0.0</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>io.spray</groupId>
+            <artifactId>spray-routing_2.11</artifactId>
+            <version>1.3.3</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.spray</groupId>
+            <artifactId>spray-json_2.11</artifactId>
+            <version>1.3.2</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.spray</groupId>
+            <artifactId>spray-can_2.11</artifactId>
+            <version>1.3.3</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.typesafe.akka</groupId>
+            <artifactId>akka-actor_2.11</artifactId>
+            <version>2.3.7</version>
+        </dependency>
+    </dependencies>
+
+    <repositories>
+        <repository>
+            <id>akka-repo</id>
+            <name>Akka Repository</name>
+            <url>http://repo.akka.io/releases/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>net.alchim31.maven</groupId>
+                <artifactId>scala-maven-plugin</artifactId>
+                <version>3.2.0</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>compile</goal>
+                            <goal>testCompile</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <recompileMode>incremental</recompileMode>
+                    <useZincServer>true</useZincServer>
+                    <scalaVersion>${scala.majorVersion}${scala.minorVersion}</scalaVersion>
+                    <jvmArgs>
+                        <jvmArg>-Xms64m</jvmArg>
+                        <jvmArg>-Xmx5g</jvmArg>
+                    </jvmArgs>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-dependency-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>copy-dependencies</id>
+                        <phase>prepare-package</phase>
+                        <goals>
+                            <goal>copy-dependencies</goal>
+                        </goals>
+                        <configuration>
+                            <outputDirectory>${project.build.directory}/lib</outputDirectory>
+                            <overWriteReleases>false</overWriteReleases>
+                            <overWriteSnapshots>false</overWriteSnapshots>
+                            <overWriteIfNewer>true</overWriteIfNewer>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-shade-plugin</artifactId>
+                <version>2.4.1</version>
+                <configuration>
+                    <transformers>
+                        <transformer
+                                implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
+                            <resource>reference.conf</resource>
+                        </transformer>
+                        <transformer
+                                implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                            <manifestEntries>
+                                <Main-Class>akka.Main</Main-Class>
+                            </manifestEntries>
+                        </transformer>
+                        <transformer implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
+                            <resource>META-INF/spring.handlers</resource>
+                        </transformer>
+                        <transformer implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
+                            <resource>META-INF/spring.schemas</resource>
+                        </transformer>
+                    </transformers>
+                </configuration>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>shade</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+</project>
