@@ -1,0 +1,181 @@
+---PUBMED ARTICLES: Methamphetamine 
+ 
+ --UID: 30173086 
+--Date: 2018 Aug 22 
+--Last Author: Cameron J 
+--Title: Pharmacotherapy for amphetamine dependence: A systematic review. 
+--UID: 30173042 
+--Date: 2018 Aug 25 
+--Last Author: Lu C 
+--Title: Associations of childhood maltreatment with subsequent illicit drug use among Chinese adolescents: The moderating role of the child's sex. 
+--UID: 30172872 
+--Date: 2018 Aug 25 
+--Last Author: Askari F 
+--Title: Design and photophysical insights on graphene quantum dots for use as nanosensor in differentiating methamphetamine and morphine in solution. 
+--UID: 30168551 
+--Date: 2018 Aug 31 
+--Last Author: Zhou L 
+--Title: An up-converting phosphor technology-based lateral flow assay for point-of-collection detection of morphine and methamphetamine in saliva. 
+--UID: 30159275 
+--Date: 2018 
+--Last Author: Ghazarian M 
+--Title: Bayesian Zero- Inflated Poisson model for prognosis of demographic factors associated with using crystal meth in Tehran population. 
+--UID: 30158644 
+--Date: 2018 Aug 29 
+--Last Author: Ozaki N 
+--Title: Genetic and animal model analyses reveal the pathogenic role of a novel deletion of RELN in schizophrenia. 
+--UID: 30158258 
+--Date: 2018 Aug 29 
+--Last Author: Tagan D 
+--Title: SIADH and water intoxication related to ecstasy. 
+--UID: 30156433 
+--Date: 2018 Aug 29 
+--Last Author: McPherson SM 
+--Title: Contingency management intervention targeting co-addiction of alcohol and drugs among American Indian adults: Design, methodology, and baseline data. 
+--UID: 30154290 
+--Date: 2018 Jan 28 
+--Last Author: Kou Z 
+--Title: [Change of brain structure imaging of long-term withdrawal of methamphetamine-dependent patients]. 
+--UID: 30153607 
+--Date: 2018 Aug 22 
+--Last Author: Dietze P 
+--Title: Analysis of time of drug use according to needle and syringe program operating hours in Melbourne, Australia: Effects on individual-level needle and syringe coverage. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Alcohols 
+ 
+ --UID: 30172179 
+--Date: 2018 Aug 18 
+--Last Author: Ruan R 
+--Title: Production of bio-oil from agricultural waste by using a continuous fast microwave pyrolysis system. 
+--UID: 30171007 
+--Date: 2018 Aug 31 
+--Last Author: Shimizu M 
+--Title: Biochemical Characterization of CYP505D6, a Self-Sufficient Cytochrome P450 from the White-Rot Fungus &lt;i&gt;Phanerochaete chrysosporium&lt;/i&gt;. 
+--UID: 30168722 
+--Date: 2018 Aug 31 
+--Last Author: Takemoto Y 
+--Title: Oxidative Decarboxylation Enables Chemoselective, Racemization-Free Esterification: Coupling of α-Ketoacids and Alcohols Mediated by Hypervalent Iodine(III). 
+--UID: 30168555 
+--Date: 2018 Aug 31 
+--Last Author: Kunishima M 
+--Title: Development of triazine-based esterifying reagents containing pyridines as a nucleophilic catalyst. 
+--UID: 30168540 
+--Date: 2018 Aug 31 
+--Last Author: Caminati W 
+--Title: Interactions between azines and alcohols: a rotational study of pyridine-tert-butyl alcohol. 
+--UID: 30168212 
+--Date: 2018 Aug 30 
+--Last Author: Li S 
+--Title: "Inverse" Frustrated Lewis Pairs - An Inverse FLP Approach to the Catalytic Metal Free Hydrogenation of Ketones. 
+--UID: 30167623 
+--Date: 2018 Aug 31 
+--Last Author: Srimani D 
+--Title: Phosphine free Mn-complex catalysed dehydrogenative C-C and C-heteroatom bond formation: a sustainable approach to synthesize quinoxaline, pyrazine, benzothiazole and quinoline derivatives. 
+--UID: 30166195 
+--Date: 2018 Dec 
+--Last Author: Cocolin L 
+--Title: Microbiota dynamics and volatilome profile during stink bean fermentation (Sataw-Dong) with Lactobacillus plantarum KJ03 as a starter culture. 
+--UID: 30166178 
+--Date: 2018 Dec 
+--Last Author: Lv XC 
+--Title: Exploring core functional microbiota responsible for the production of volatile flavour during the traditional brewing of Wuyi Hong Qu glutinous rice wine. 
+--UID: 30166153 
+--Date: 2018 Dec 
+--Last Author: Mouret JR 
+--Title: Impact of the timing and the nature of nitrogen additions on the production kinetics of fermentative aromas by Saccharomyces cerevisiae during winemaking fermentation in synthetic media. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Lithium 
+ 
+ --UID: 30173069 
+--Date: 2018 Aug 21 
+--Last Author: Zhang Y 
+--Title: Load-bearing capacity of lithium disilicate and ultra-translucent zirconias. 
+--UID: 30173059 
+--Date: 2018 Aug 23 
+--Last Author: Benabarre A 
+--Title: Association between completed suicide and bipolar disorder: A systematic review of the literature. 
+--UID: 30172770 
+--Date: 2018 Aug 27 
+--Last Author: Wang H 
+--Title: Construction of three-dimensional ordered porous carbon bulk networks for high performance lithium-sulfur batteries. 
+--UID: 30171184 
+--Date: 2018 Aug 31 
+--Last Author: Mudge AW 
+--Title: Lithium and fluoxetine regulate the rate of phosphoinositide synthesis in neurons: a new view of their mechanisms of action in bipolar disorder. 
+--UID: 30169968 
+--Date: 2018 Aug 31 
+--Last Author: Balhorn MC 
+--Title: New monoclonal antibodies specific for mammalian protamines P1 and P2. 
+--UID: 30169960 
+--Date: 2018 Aug 31 
+--Last Author: Mahmoud KA 
+--Title: Effect of Synthesis on Performance of MXene/Iron Oxide Anode Material for Lithium-Ion Batteries. 
+--UID: 30169958 
+--Date: 2018 Aug 31 
+--Last Author: Yang Y 
+--Title: PVDF/ Palygorskite Nanowire Composite Electrolyte for 4V Rechargeable Lithium Batteries with High Energy Density. 
+--UID: 30167069 
+--Date: 2018 
+--Last Author: Wey PF 
+--Title: [Treatment of foreign bodies in the upper third of the esophagus without endoscopy: is it a challenge for practitioners working in isolation?] 
+--UID: 30165930 
+--Date: 2018 Nov 1 
+--Last Author: Yang J 
+--Title: Effect of Added Mullite Whisker on Properties of Lithium Aluminosilicate (LAS) Glass-Ceramics Prepared for Dental Restoration. 
+--UID: 30160969 
+--Date: 2018 Aug 30 
+--Last Author: Blumel R 
+--Title: Star Atoms. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Lead 
+ 
+ --UID: 30173464 
+--Date: 2018 Jun 
+--Last Author: Zhang XS 
+--Title: [Nanos2 in the male reproductive system: Progress in studies]. 
+--UID: 30173403 
+--Date: 2018 Sep 1 
+--Last Author: Xia H 
+--Title: Establishing a dual knock-out cell line by lentivirus based combined CRISPR/Cas9 and Loxp/Cre system. 
+--UID: 30173365 
+--Date: 2018 Sep 1 
+--Last Author: Lazar F 
+--Title: Indocyanine green fluorescence angiography: a new ERAS item. 
+--UID: 30173354 
+--Date: 2018 Sep 1 
+--Last Author: Zeliadt SB 
+--Title: Challenges to Educating Smokers About Lung Cancer Screening: a Qualitative Study of Decision Making Experiences in Primary Care. 
+--UID: 30173351 
+--Date: 2018 Sep 1 
+--Last Author: Kiely J 
+--Title: What Should We Do About Habitual Caffeine Use in Athletes? 
+--UID: 30173279 
+--Date: 2018 Sep 1 
+--Last Author: Thompson RL 
+--Title: Less imageable words lead to more looks to blank locations during memory retrieval. 
+--UID: 30173268 
+--Date: 2018 
+--Last Author: Bălănescu AR 
+--Title: Diagnostic challenges in a patient with calciphylaxia - a case report. 
+--UID: 30173265 
+--Date: 2018 
+--Last Author: Rotaru I 
+--Title: Indication of total parathyroidectomy for an Epstein syndrome patient with end-stage renal disease. 
+--UID: 30173261 
+--Date: 2018 
+--Last Author: Vere CC 
+--Title: Left gluteal metastasis from a hepatocellular carcinoma - an unusual finding. 
+--UID: 30173247 
+--Date: 2018 
+--Last Author: Nica AE 
+--Title: Emerging concepts and latest advances regarding the etiopathogenesis, morphology and immunophenotype of basal cell carcinoma. 
+ 
+ 
+ 
+ 

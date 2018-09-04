@@ -1,0 +1,1504 @@
+---PUBMED ARTICLES: Social and personal history 
+ 
+ --UID: 30156947 
+--Date: 2018 Aug 
+--Last Author: Oriá MOB 
+--Title: Knowledge, Beliefs, and Attitudes About Breast Cancer Screening in Latin America and the Caribbean: An In-Depth Narrative Review. 
+--UID: 30152868 
+--Date: 2018 Aug 28 
+--Last Author: Carey KB 
+--Title: Distinctions in Alcohol-Induced Memory Impairment: A Mixed Methods Study of En Bloc Versus Fragmentary Blackouts. 
+--UID: 30143660 
+--Date: 2018 Aug 24 
+--Last Author: Grammatopoulos DK 
+--Title: Modelling of psychosocial and lifestyle predictors of peripartum depressive symptoms associated with distinct risk trajectories: a prospective cohort study. 
+--UID: 30135920 
+--Date: 2018 
+--Last Author: van Aswegen H 
+--Title: Changes in biopsychosocial outcomes for a mixed cohort of ICU survivors. 
+--UID: 30112416 
+--Date: 2018 
+--Last Author: Lundin-Olsson L 
+--Title: Gender Perspective on Older People's Exercise Preferences and Motivators in the Context of Falls Prevention: A Qualitative Study. 
+--UID: 30107977 
+--Date: 2018 Jul 6 
+--Last Author: Cortot AB 
+--Title: Current and Former Smokers: Who Wants To Be Screened? 
+--UID: 30083551 
+--Date: 2018 Jul 
+--Last Author: Moy ML 
+--Title: Determinants and outcomes of change in physical activity in COPD. 
+--UID: 30062705 
+--Date: 2018 Jul 30 
+--Last Author: Pothecary JC 
+--Title: Implementing and delivering personalised budgets for drug and alcohol users: A narrative systematic review. 
+--UID: 30053841 
+--Date: 2018 Jul 27 
+--Last Author: Guseman EH 
+--Title: What can family medicine providers learn about concussion non-disclosure from former collegiate athletes? 
+--UID: 30048872 
+--Date: 2018 Sep 1 
+--Last Author: Alati R 
+--Title: Frequent experience of discrimination among people who inject drugs: Links with health and wellbeing. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Medical History 
+ 
+ --UID: 30170285 
+--Date: 2018 Aug 21 
+--Last Author: Lv L 
+--Title: Sodium nitroprusside treatment for psychotic symptoms and cognitive deficits of schizophrenia: A randomized, double-blind, placebo-controlled trial. 
+--UID: 30170135 
+--Date: 2018 Aug 28 
+--Last Author: Raoult D 
+--Title: Towards the risk of Yellow Fever transmission in Europe. 
+--UID: 30169991 
+--Date: 2018 Aug 31 
+--Last Author: Nygård M 
+--Title: Low proportion of unreported cervical treatments in the cancer registry of Norway between 1998 and 2013. 
+--UID: 30169969 
+--Date: 2018 Aug 31 
+--Last Author: Gertz MA 
+--Title: Hereditary transthyretin amyloidosis: baseline characteristics of patients in the NEURO-TTR trial. 
+--UID: 30169897 
+--Date: 2018 Aug 31 
+--Last Author: McMillan CT 
+--Title: Modifiable Vascular Risk Factors, White Matter Disease, and Cognition in Early Parkinson's Disease. 
+--UID: 30169881 
+--Date: 2018 Aug 31 
+--Last Author: Bezdrobna L 
+--Title: BIOLOGICAL MARKERS OF EXTERNAL AND INTERNAL EXPOSURE IN SHELTER CONSTRUCTION WORKERS: A 13-YEAR EXPERIENCE. 
+--UID: 30169866 
+--Date: 2018 Aug 30 
+--Last Author: Bambakidis NC 
+--Title: Resection of a Lumbar Intradural Extramedullary Schwannoma: 3-Dimensional Operative Video. 
+--UID: 30169790 
+--Date: 2018 Aug 30 
+--Last Author: Pollina J 
+--Title: Robotic Guidance for the Insertion of Posterior Pedicle Screws: 2-Dimensional Operative Video. 
+--UID: 30169787 
+--Date: 2018 Aug 30 
+--Last Author: Sankararam S 
+--Title: A comprehensive map of genetic variation in the world's largest ethnic group - Han Chinese. 
+--UID: 30169657 
+--Date: 2018 Aug 28 
+--Last Author: Sotoodehnia N 
+--Title: A comprehensive evaluation of the genetic architecture of sudden cardiac arrest. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Male gender 
+ 
+ --UID: 30170306 
+--Date: 2018 Jun 19 
+--Last Author: Tsuduki T 
+--Title: Effects of Japanese diet in combination with exercise on visceral fat accumulation. 
+--UID: 30170297 
+--Date: 2018 Aug 10 
+--Last Author: Cintina I 
+--Title: Fracking and risky behaviors: Evidence from Pennsylvania. 
+--UID: 30170259 
+--Date: 2018 Aug 28 
+--Last Author: Dehpour AR 
+--Title: Acute foot-shock stress decreased seizure susceptibility against pentylenetetrazole-induced seizures in mice: Interaction between endogenous opioids and cannabinoids. 
+--UID: 30170221 
+--Date: 2018 Aug 17 
+--Last Author: Golledge J 
+--Title: A diet enriched with tree nuts reduces severity of atherosclerosis but not abdominal aneurysm in angiotensin II-infused apolipoprotein E deficient mice. 
+--UID: 30170187 
+--Date: 2018 Aug 28 
+--Last Author: Yan J 
+--Title: The purinergic mechanism of the central nucleus of amygdala is involved in the modulation of salt intake in sodium-depleted rats. 
+--UID: 30170177 
+--Date: 2018 Jun 22 
+--Last Author: Carrero JJ 
+--Title: Dyskalemias and adverse events associated with discharge potassium in acute myocardial infarction. 
+--UID: 30170162 
+--Date: 2018 Aug 28 
+--Last Author: Wang TN 
+--Title: Gender-specific asthma phenotypes, inflammatory patterns and asthma control in a cluster analysis. 
+--UID: 30170159 
+--Date: 2018 Aug 28 
+--Last Author: Rosenkranz JA 
+--Title: Effects of Peripheral Immune Challenge on In Vivo Firing of Basolateral Amygdala Neurons in Adult Male Rats. 
+--UID: 30170156 
+--Date: 2018 Aug 28 
+--Last Author: Chen PC 
+--Title: Sex differences in common childhood infections in Taiwan. 
+--UID: 30170091 
+--Date: 2018 Aug 28 
+--Last Author: Brandes S 
+--Title: Population Analysis of Male Urethral Stricture Management and Urethroplasty Success in the United States. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Victim of abuse finding 
+ 
+ --UID: 30151548 
+--Date: 2018 Jul-Aug 
+--Last Author: Margari F 
+--Title: Awareness of the offense and perception of the victim among juvenile sex offenders. 
+--UID: 30018068 
+--Date: 2018 Aug 
+--Last Author: Finlay F 
+--Title: Children who abuse animals: when should you be concerned about child abuse? A review of the literature. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Anger 
+ 
+ --UID: 30169439 
+--Date: 2018 Aug 30 
+--Last Author: Belger A 
+--Title: Cognitive Rehabilitation With Mobile Technology and Social Support for Veterans With TBI and PTSD: A Randomized Clinical Trial. 
+--UID: 30168845 
+--Date: 2018 Aug 31 
+--Last Author: Dozier M 
+--Title: Attachment Disorganization in Infancy: A Developmental Precursor to Maladaptive Social Information Processing at Age 8. 
+--UID: 30167865 
+--Date: 2018 Aug 24 
+--Last Author: Kohn N 
+--Title: Sex differences in the neural correlates of aggression. 
+--UID: 30166392 
+--Date: 2018 Sep 
+--Last Author: Blane D 
+--Title: Books: &lt;i&gt;Poverty Safari: Understanding the Anger of Britain's Underclass&lt;/i&gt;: Structure Versus Agency. 
+--UID: 30166276 
+--Date: 2018 Aug 30 
+--Last Author: Clynes M 
+--Title: Recognition of Emotions Conveyed by Touch Through Force-Sensitive Screens: Observational Study of Humans and Machine Learning Techniques. 
+--UID: 30161234 
+--Date: 2018 
+--Last Author: Sarma KM 
+--Title: The female spouse: A process of separation when a husband 'comes out' as gay. 
+--UID: 30161166 
+--Date: 2018 
+--Last Author: Dooley B 
+--Title: Dissociable psychosocial profiles of adolescent substance users. 
+--UID: 30158458 
+--Date: 2018 Aug 29 
+--Last Author: Jiménez L 
+--Title: The Role of Psychosocial Stress on a Family-Based Treatment for Adolescents with Problematic Behaviors. 
+--UID: 30153878 
+--Date: 2018 Aug 29 
+--Last Author: Ma A 
+--Title: Prepartum and Postpartum Mothers' and Fathers' Unwanted, Intrusive Thoughts in Response to Infant Crying. 
+--UID: 30151299 
+--Date: 2018 Mar 
+--Last Author: Cho SH 
+--Title: The efficacy and safety of a Huanglian-jie-du decoction on Hwa-byung patients: A study protocol for a randomized controlled trial. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Homelessness 
+ 
+ --UID: 30161255 
+--Date: 2018 
+--Last Author: Munjattu JF 
+--Title: "They don't like us….": Barriers to antiretroviral and opioid substitution therapy among homeless HIV positive people who inject drugs in Delhi: A mixed method study. 
+--UID: 30157413 
+--Date: 2018 Aug 3 
+--Last Author: Wood LJ 
+--Title: Homeless health care: meeting the challenges of providing primary care. 
+--UID: 30153546 
+--Date: 2018 Aug 13 
+--Last Author: Kempf MC 
+--Title: The effect of unstable housing on HIV treatment biomarkers: An instrumental variables approach. 
+--UID: 30153497 
+--Date: 2018 Aug 25 
+--Last Author: Boyer L 
+--Title: Prescription of potentially inappropriate psychotropic drugs in homeless people with schizophrenia and bipolar disorders. Results from the French Housing First (FHF) program. 
+--UID: 30152168 
+--Date: 2018 Aug 27 
+--Last Author: Ford PJ 
+--Title: Evaluation of a community based dental clinic for youth experiencing homelessness in Brisbane. 
+--UID: 30151996 
+--Date: 2018 Aug 27 
+--Last Author: O'Toole TP 
+--Title: Dual Use and Hospital Admissions among Veterans Enrolled in the VA's Homeless Patient Aligned Care Team. 
+--UID: 30148580 
+--Date: 2018 Jul 11 
+--Last Author:  
+--Title:  
+--UID: 30147826 
+--Date: 2018 
+--Last Author: Tarleton HP 
+--Title: Musculoskeletal Flexibility and Quality of Life: A Feasibility Study of Homeless Young Adults in Los Angeles County. 
+--UID: 30146371 
+--Date: 2018 Jul 21 
+--Last Author: Byers AL 
+--Title: Increased Risk of Suicide Attempts and Unintended Death Among Those Transitioning From Prison to Community in Later Life. 
+--UID: 30146090 
+--Date: 2018 Aug 23 
+--Last Author: Jaffee SR 
+--Title: Comparing cumulative index and factor analytic approaches to measuring maltreatment in the National Longitudinal Study of Adolescent to Adult Health. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Sore to touch 
+ 
+  
+ 
+ 
+ ---PUBMED ARTICLES: Memory 
+ 
+ --UID: 30170326 
+--Date: 2018 Aug 31 
+--Last Author: Simpson RL 
+--Title: The Untold Story of the First Hand Transplant: Dedicated to the Memory of one of the Great Minds of the Ecuadorian Medical Community and the World. 
+--UID: 30170246 
+--Date: 2018 Aug 28 
+--Last Author: Lervåg A 
+--Title: Exploring factors underlying children's acquisition and retrieval of sound-symbol association skills. 
+--UID: 30170239 
+--Date: 2018 Aug 23 
+--Last Author: McNally RJ 
+--Title: Exploring behavioral pattern separation and risk for emotional disorders. 
+--UID: 30170157 
+--Date: 2018 Aug 28 
+--Last Author: Dimitrov E 
+--Title: The central amygdala corticotropin-releasing hormone (CRH) neurons modulation of anxiety-like behavior and hippocampus-dependent memory in mice. 
+--UID: 30170081 
+--Date: 2018 Aug 28 
+--Last Author: Xu C 
+--Title: Morphine regulates adult neurogenesis and contextual memory extinction via the PKCε/Prox1 pathway. 
+--UID: 30170031 
+--Date: 2018 Aug 28 
+--Last Author: Tian X 
+--Title: Information Transmission in HPC-PFC Network for Spatial Working Memory in Rat. 
+--UID: 30169897 
+--Date: 2018 Aug 31 
+--Last Author: McMillan CT 
+--Title: Modifiable Vascular Risk Factors, White Matter Disease, and Cognition in Early Parkinson's Disease. 
+--UID: 30169703 
+--Date: 2018 Aug 29 
+--Last Author: Anderson C 
+--Title: The wake maintenance zone shows task dependent changes in cognitive function following one night without sleep. 
+--UID: 30169690 
+--Date: 2018 Aug 29 
+--Last Author: Zhao H 
+--Title: Maternal Deprivation Enhances Contextual Fear Memory via Epigenetically Programming Second-hit Stress-induced Reelin Expression in Adult Rats. 
+--UID: 30169668 
+--Date: 2018 Aug 29 
+--Last Author: Guest JD 
+--Title: Method and Apparatus for the Automated Delivery of Continuous Neural Stem Cell Trails Into the Spinal Cord of Small and Large Animals. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Physical findings 
+ 
+ --UID: 30170303 
+--Date: 2018 Jun 19 
+--Last Author: Voltarelli FA 
+--Title: Effects of exercise training and supplementation with selenium nanoparticle on T-helper 1 and 2 and cytokine levels in tumor tissue of mice bearing the 4 T1 mammary carcinoma. 
+--UID: 30170238 
+--Date: 2018 Aug 23 
+--Last Author: Swann C 
+--Title: Sedentary behaviour and risk of anxiety: A systematic review and meta-analysis. 
+--UID: 30170237 
+--Date: 2018 Aug 11 
+--Last Author: Chen YH 
+--Title: High risk of depression, anxiety, and poor quality of life among experienced fathers, but not mothers: A prospective longitudinal study. 
+--UID: 30170234 
+--Date: 2018 Aug 9 
+--Last Author: Orgeta V 
+--Title: Sense of coherence, burden and mental health in caregiving: A systematic review and meta-analysis. 
+--UID: 30170159 
+--Date: 2018 Aug 28 
+--Last Author: Rosenkranz JA 
+--Title: Effects of Peripheral Immune Challenge on In Vivo Firing of Basolateral Amygdala Neurons in Adult Male Rats. 
+--UID: 30170096 
+--Date: 2018 Aug 28 
+--Last Author: Bo P 
+--Title: Central galanin receptor 2 mediates galanin action to promote systemic glucose metabolism of type 2 diabetic rats. 
+--UID: 30170002 
+--Date: 2018 Aug 28 
+--Last Author: Pace DT 
+--Title: Diagnosis and Treatment of Genitourinary Syndrome of Menopause. 
+--UID: 30169811 
+--Date: 2018 Aug 30 
+--Last Author: Brydges CR 
+--Title: Can Intraindividual Variability in Cognitive Speed be Reduced by Physical Exercise? Results from the LIFE Study. 
+--UID: 30169804 
+--Date: 2018 Sep 1 
+--Last Author:  
+--Title: Update on Bioelectric Impedance Analysis for Upper-Quadrant Lymphedema From the Authors of "Diagnosis of Upper Quadrant Lymphedema Secondary to Cancer: Clinical Practice Guideline from the Oncology Section of the American Physical Therapy Association," Levenhagen K, Davies C, Perdomo M, Ryans K, Gilchrist L. Phys Ther. 2017;97:729-745. 
+--UID: 30169527 
+--Date: 2018 
+--Last Author: Pastre CM 
+--Title: Test-retest reliability of knee extensors endurance test with elastic resistance. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Impaired health 
+ 
+ --UID: 30170299 
+--Date: 2018 Aug 18 
+--Last Author: Torun YA 
+--Title: Left ventricular myocardial deformation abnormalities in seizure-free children with epilepsy. 
+--UID: 30170184 
+--Date: 2018 Aug 24 
+--Last Author: Zebeli Q 
+--Title: Diet-induced inflammation: From gut to metabolic organs and the consequences for the health and longevity of ruminants. 
+--UID: 30170085 
+--Date: 2018 Aug 28 
+--Last Author: Gould TJ 
+--Title: Nicotine modulates contextual fear extinction through changes in ventral hippocampal GABAergic function. 
+--UID: 30170066 
+--Date: 2018 Aug 28 
+--Last Author: Zhang Y 
+--Title: MicroRNA-17 impairs glucose metabolism in insulin-resistant skeletal muscle via repressing glucose transporter 4 expression. 
+--UID: 30170020 
+--Date: 2018 Aug 28 
+--Last Author: Maden O 
+--Title: The Association between Cardiac Resynchronization Therapy response and sexual activity in patients with Heart Failure. 
+--UID: 30169884 
+--Date: 2018 Aug 30 
+--Last Author: Turner JA 
+--Title: Salience-Default Mode Functional Network Connectivity Linked to Positive and Negative Symptoms of Schizophrenia. 
+--UID: 30169878 
+--Date: 2018 Aug 29 
+--Last Author: Germain A 
+--Title: Posttraumatic Stress Disorder Diagnosis is Associated with Reduced Parasympathetic Activity during Sleep in United States Veterans and Military Service Members of the Iraq and Afghanistan Wars. 
+--UID: 30169703 
+--Date: 2018 Aug 29 
+--Last Author: Anderson C 
+--Title: The wake maintenance zone shows task dependent changes in cognitive function following one night without sleep. 
+--UID: 30169632 
+--Date: 2018 Aug 29 
+--Last Author: Ma Y 
+--Title: Exogenous CXCL4 Infusion Inhibits Macrophage Phagocytosis by Limiting CD36 Signaling to Enhance Post-myocardial Infarction Cardiac Dilation and Mortality. 
+--UID: 30169628 
+--Date: 2018 Aug 29 
+--Last Author: Su YA 
+--Title: Prenatal Exposure to Antipsychotics Disrupts the Plasticity of Dentate Neurons and Memory in Adult Male Mice. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Mood (psychological function) 
+ 
+ --UID: 30160554 
+--Date: 2018 Aug 30 
+--Last Author: Mujika I 
+--Title: Case Study: Long-Term Low Carbohydrate, High Fat Diet Impairs Performance and Subjective Wellbeing in a World-Class Vegetarian Long-Distance Triathlete. 
+--UID: 30157911 
+--Date: 2018 Aug 29 
+--Last Author: Sluka KA 
+--Title: Physical activity is related to function and fatigue but not pain in women with fibromyalgia: baseline analyses from the Fibromyalgia Activity Study with TENS (FAST). 
+--UID: 30157771 
+--Date: 2018 Aug 29 
+--Last Author: Takayama T 
+--Title: The influence of various distractions prior to upper gastrointestinal endoscopy: a prospective randomized controlled study. 
+--UID: 30156373 
+--Date: 2018 Aug 29 
+--Last Author: Ichihara K 
+--Title: Psychological and physiological effects of laughter yoga sessions in Japan: A pilot study. 
+--UID: 30156201 
+--Date: 2018 Sep 
+--Last Author: Golkari A 
+--Title: Impact of oral clefts on the oral health-related quality of life of preschool children and their parents. 
+--UID: 30155606 
+--Date: 2018 Aug 28 
+--Last Author: ElSheemy MS 
+--Title: Serum vitamin D level may be a novel potential risk factor for premature ejaculation: a comparative study. 
+--UID: 30151188 
+--Date: 2018 
+--Last Author: Chalmers JD 
+--Title: Why, when and how to investigate primary ciliary dyskinesia in adult patients with bronchiectasis. 
+--UID: 30143334 
+--Date: 2018 Aug 4 
+--Last Author: Buvanendran A 
+--Title: Predictive Factors for Developing Chronic Pain After Total Knee Arthroplasty. 
+--UID: 30129665 
+--Date: 2018 Aug 21 
+--Last Author: Manly T 
+--Title: Anticipated and imagined futures: prospective cognition and depressed mood following brain injury. 
+--UID: 30123316 
+--Date: 2018 
+--Last Author: Kumano H 
+--Title: The reliability and validity for Japanese type 2 diabetes patients of the Japanese version of the acceptance and action diabetes questionnaire. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Anxiety 
+ 
+ --UID: 30170329 
+--Date: 2018 Aug 31 
+--Last Author: Kasper S 
+--Title: Efficacy of Add-on Pregabalin in the Treatment of Patients with Generalized Anxiety Disorder and Unipolar Major Depression With an Early Nonresponse to Escitalopram: A Double-Blind Placebo-Controlled Study. 
+--UID: 30170282 
+--Date: 2018 Aug 28 
+--Last Author: Fang Y 
+--Title: The clinical correlates of comorbid anxiety symptoms and syndromal anxiety in patients with major depressive disorder. 
+--UID: 30170239 
+--Date: 2018 Aug 23 
+--Last Author: McNally RJ 
+--Title: Exploring behavioral pattern separation and risk for emotional disorders. 
+--UID: 30170238 
+--Date: 2018 Aug 23 
+--Last Author: Swann C 
+--Title: Sedentary behaviour and risk of anxiety: A systematic review and meta-analysis. 
+--UID: 30170237 
+--Date: 2018 Aug 11 
+--Last Author: Chen YH 
+--Title: High risk of depression, anxiety, and poor quality of life among experienced fathers, but not mothers: A prospective longitudinal study. 
+--UID: 30170234 
+--Date: 2018 Aug 9 
+--Last Author: Orgeta V 
+--Title: Sense of coherence, burden and mental health in caregiving: A systematic review and meta-analysis. 
+--UID: 30170200 
+--Date: 2018 Aug 23 
+--Last Author: Almasyhur AF 
+--Title: Translation and validation study of the prodromal questionnaire brief version into Indonesian language. 
+--UID: 30170199 
+--Date: 2018 Aug 18 
+--Last Author: Mei S 
+--Title: Prevalence of and factors related to anxiety and depression symptoms among married patients with gynecological malignancies in China. 
+--UID: 30170198 
+--Date: 2018 Aug 19 
+--Last Author: Chachar YS 
+--Title: Maternal depression: A major risk factor for psychosocial wellbeing among preschoolers. 
+--UID: 30170157 
+--Date: 2018 Aug 28 
+--Last Author: Dimitrov E 
+--Title: The central amygdala corticotropin-releasing hormone (CRH) neurons modulation of anxiety-like behavior and hippocampus-dependent memory in mice. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Diagnosis 
+ 
+ --UID: 30170330 
+--Date: 2018 Aug 31 
+--Last Author: Saade GR 
+--Title: Impact of the New American Hypertension Guidelines on the Prevalence of Postpartum Hypertension. 
+--UID: 30170248 
+--Date: 2018 Aug 17 
+--Last Author: Wang Z 
+--Title: A three-dimensional graphene-based ratiometric signal amplification aptasensor for MUC1 detection. 
+--UID: 30170228 
+--Date: 2018 Aug 28 
+--Last Author: Wilde AAM 
+--Title: Linking the Heart and the Brain: Neurodevelopmental Disorders In Patients With Catecholaminergic Polymorphic Ventricular Tachycardia. 
+--UID: 30170200 
+--Date: 2018 Aug 23 
+--Last Author: Almasyhur AF 
+--Title: Translation and validation study of the prodromal questionnaire brief version into Indonesian language. 
+--UID: 30170197 
+--Date: 2018 Aug 9 
+--Last Author: Zhang Y 
+--Title: [&lt;sup&gt;99m&lt;/sup&gt;Tc]duramycin, a potential molecular probe for early prediction of tumor response after chemotherapy. 
+--UID: 30170188 
+--Date: 2018 Aug 28 
+--Last Author: Kabwa-PierreLuabeya M 
+--Title: Neurocysticercosis and epilepsy in sub-Saharan Africa. 
+--UID: 30170160 
+--Date: 2018 Aug 28 
+--Last Author: Elmarsafy AM 
+--Title: MHC-II deficiency among Egyptians: novel mutations and unique phenotypes. 
+--UID: 30170154 
+--Date: 2018 Aug 28 
+--Last Author: Palacio F 
+--Title: M. abscessus subspecies massiliense Infection after Skin Graft and Cholecystectomy in a Burn Patient. 
+--UID: 30170145 
+--Date: 2018 Aug 28 
+--Last Author: Duffau H 
+--Title: The analysis of legal, cultural and socio-economic parameters in low-grade glioma management: variability across countries and implications for awake surgery. 
+--UID: 30170128 
+--Date: 2018 Aug 28 
+--Last Author: Cowan MJ 
+--Title: Advances Series, Advances and Highlights In Primary Immunodeficiencies 2017. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Ecstasy - emotion 
+ 
+  
+ 
+ 
+ ---PUBMED ARTICLES: Occasional drinker 
+ 
+ --UID: 30063272 
+--Date: 2018 Jul 31 
+--Last Author: Rodríguez-Artalejo F 
+--Title: Alcohol consumption and all-cause mortality in older adults in Spain: an analysis accounting for the main methodological issues. 
+--UID: 30063267 
+--Date: 2018 Jul 31 
+--Last Author: Maisto SA 
+--Title: Profiles of recovery from alcohol use disorder at three years following treatment: can the definition of recovery be extended to include high functioning heavy drinkers? 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Street address 
+ 
+ --UID: 30170239 
+--Date: 2018 Aug 23 
+--Last Author: McNally RJ 
+--Title: Exploring behavioral pattern separation and risk for emotional disorders. 
+--UID: 30170236 
+--Date: 2018 Aug 18 
+--Last Author: Holsen LM 
+--Title: Divergent associations between ghrelin and neural responsivity to palatable food in hyperphagic and hypophagic depression. 
+--UID: 30170229 
+--Date: 2018 Aug 28 
+--Last Author: Boyett MR 
+--Title: Circadian rhythm of cardiac electrophysiology, arrhythmogenesis and the underlying mechanisms. 
+--UID: 30170199 
+--Date: 2018 Aug 18 
+--Last Author: Mei S 
+--Title: Prevalence of and factors related to anxiety and depression symptoms among married patients with gynecological malignancies in China. 
+--UID: 30170172 
+--Date: 2018 Aug 28 
+--Last Author: Nguyen KP 
+--Title: Two new triterpenoids from the roots of Phyllanthus emblica. 
+--UID: 30170114 
+--Date: 2018 Aug 28 
+--Last Author: Sawa A 
+--Title: Treatment resistant schizophrenia: Clinical, biological, and therapeutic perspectives. 
+--UID: 30170084 
+--Date: 2018 Aug 28 
+--Last Author: Lasoń W 
+--Title: New evidences for a role of mGluR7 in astrocyte survival: Possible implications for neuroprotection. 
+--UID: 30170065 
+--Date: 2018 Aug 28 
+--Last Author: Kennedy C 
+--Title: Comparison of signalling mechanisms underlying UTP-evoked vasoconstriction of rat pulmonary and tail arteries. 
+--UID: 30170060 
+--Date: 2018 Aug 28 
+--Last Author: Zhang TZ 
+--Title: Down-regulated miR-187 promotes oxidative stress-induced retinal cell apoptosis through P2X7 receptor. 
+--UID: 30170043 
+--Date: 2018 Aug 28 
+--Last Author: Volpert V 
+--Title: Interplay between reaction and diffusion processes in governing the dynamics of virus infections. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Family history 
+ 
+ --UID: 30169657 
+--Date: 2018 Aug 28 
+--Last Author: Sotoodehnia N 
+--Title: A comprehensive evaluation of the genetic architecture of sudden cardiac arrest. 
+--UID: 30169419 
+--Date: 2018 Aug 30 
+--Last Author: Camacho-Gonzalez AF 
+--Title: Prevalence of Anal Squamous Intraepithelial Lesions in HIV-1-Infected Young Men Who Have Sex With Men and Transwomen. 
+--UID: 30169388 
+--Date: 2018 Aug 29 
+--Last Author: Estimé SR 
+--Title: Navigating Goals of Care While Confronting an Urgent, Difficult Intubation: A Case Report. 
+--UID: 30168466 
+--Date: 2018 Sep-Oct 
+--Last Author: Gopalan R 
+--Title: An unusual cause of breathlessness and profuse micronodules. 
+--UID: 30168406 
+--Date: 2018 Aug 31 
+--Last Author: Van Jaarsveld CHM 
+--Title: Urine cultures and antibiotics for urinary tract infections in Dutch general practice. 
+--UID: 30168169 
+--Date: 2018 Aug 30 
+--Last Author: Torrelo A 
+--Title: Segmental Hailey-Hailey disease of the vulva. 
+--UID: 30167906 
+--Date: 2018 Aug 30 
+--Last Author: Solomon BD 
+--Title: Utility of Expedited Hereditary Cancer Testing in the Surgical Management of Patients with a New Breast Cancer Diagnosis. 
+--UID: 30167739 
+--Date: 2018 Aug 22 
+--Last Author: Baig MA 
+--Title: Burn first aid knowledge and its determinants among general population of Rawalpindi. 
+--UID: 30167650 
+--Date: 2018 Aug 29 
+--Last Author: Stein MB 
+--Title: Risk Factors Associated With Attempted Suicide Among US Army Soldiers Without a History of Mental Health Diagnosis. 
+--UID: 30166788 
+--Date: 2018 Sep 
+--Last Author: Darwish AM 
+--Title: House dust mites among allergic patients at the Allergy and Immunology Unit, Zagazig University: an immunologic and serologic study. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Cessation of life 
+ 
+ --UID: 30170336 
+--Date: 2018 Aug 31 
+--Last Author: Launay E 
+--Title: Vaccine-preventable severe morbidity and mortality caused by meningococcus and pneumococcus: A population-based study in France. 
+--UID: 30170332 
+--Date: 2018 Aug 31 
+--Last Author: Pusiol T 
+--Title: Neuropathology of Early Sudden Infant Death Syndrome-Hypoplasia of the Pontine Kolliker-Fuse Nucleus: A Possible Marker of Unexpected Collapse during Skin-to-Skin Care. 
+--UID: 30170330 
+--Date: 2018 Aug 31 
+--Last Author: Saade GR 
+--Title: Impact of the New American Hypertension Guidelines on the Prevalence of Postpartum Hypertension. 
+--UID: 30170272 
+--Date: 2018 Aug 17 
+--Last Author: Ojanperä I 
+--Title: High buprenorphine-related mortality is persistent in Finland. 
+--UID: 30170265 
+--Date: 2018 Aug 15 
+--Last Author: Pedraz-Marcos A 
+--Title: Midwives' experience of delivery care in late foetal death: A qualitative study. 
+--UID: 30170230 
+--Date: 2018 Aug 28 
+--Last Author: Bagnall RD 
+--Title: A balanced translocation disrupting SCN5A in a family with Brugada syndrome and sudden cardiac death. 
+--UID: 30170229 
+--Date: 2018 Aug 28 
+--Last Author: Boyett MR 
+--Title: Circadian rhythm of cardiac electrophysiology, arrhythmogenesis and the underlying mechanisms. 
+--UID: 30170228 
+--Date: 2018 Aug 28 
+--Last Author: Wilde AAM 
+--Title: Linking the Heart and the Brain: Neurodevelopmental Disorders In Patients With Catecholaminergic Polymorphic Ventricular Tachycardia. 
+--UID: 30170227 
+--Date: 2018 Aug 28 
+--Last Author: Atwater BD 
+--Title: Vectorcardiographic QRS Area is Associated with Long-Term Outcome Following Cardiac Resynchronization Therapy. 
+--UID: 30170177 
+--Date: 2018 Jun 22 
+--Last Author: Carrero JJ 
+--Title: Dyskalemias and adverse events associated with discharge potassium in acute myocardial infarction. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Death (finding) 
+ 
+ --UID: 30170332 
+--Date: 2018 Aug 31 
+--Last Author: Pusiol T 
+--Title: Neuropathology of Early Sudden Infant Death Syndrome-Hypoplasia of the Pontine Kolliker-Fuse Nucleus: A Possible Marker of Unexpected Collapse during Skin-to-Skin Care. 
+--UID: 30169281 
+--Date: 2018 Jun 
+--Last Author: Feavers I 
+--Title: Safety of multicomponent meningococcal group B vaccine (4CMenB) in routine infant immunisation in the UK: a prospective surveillance study. 
+--UID: 30167641 
+--Date: 2018 Aug 29 
+--Last Author: Wood GS 
+--Title: Analysis of the Effect of Gentian Violet on Apoptosis and Proliferation in Cutaneous T-Cell Lymphoma in an In Vitro Study. 
+--UID: 30166075 
+--Date: 2018 Aug 27 
+--Last Author: Lam WW 
+--Title: Anomalous Left Coronary Artery From the Right Sinus of Valsalva in a Patient Presenting with ST-Segment Elevation in Lead aVR: A Case Report. 
+--UID: 30165782 
+--Date: 2018 Aug 30 
+--Last Author: Dudley SC Jr 
+--Title: The role of the unfolded protein response in arrhythmias. 
+--UID: 30165487 
+--Date: 2018 Aug 27 
+--Last Author: Kappetein AP 
+--Title: Outcomes following surgical revascularization with single versus bilateral internal thoracic arterial grafts in patients with left main coronary artery disease undergoing coronary artery bypass grafting: insights from the EXCEL trial. 
+--UID: 30160519 
+--Date: 2018 Aug 30 
+--Last Author: Rapezzi C 
+--Title: Efficacy and safety of thrombus aspiration in ST-segment elevation myocardial infarction: an updated systematic review and meta-analysis of randomised clinical trials. 
+--UID: 30160179 
+--Date: 2018 Aug 30 
+--Last Author: Yamashita T 
+--Title: Prognostic value of the heart rate profile during exercise in patients with atrial fibrillation. 
+--UID: 30159656 
+--Date: 2018 Aug 29 
+--Last Author: Glavas D 
+--Title: The midrange left ventricular ejection fraction (LVEF) is associated with higher all-cause mortality during the 1-year follow-up compared to preserved LVEF among real-world patients with acute heart failure: a single-center propensity score-matched analysis. 
+--UID: 30157888 
+--Date: 2018 Aug 29 
+--Last Author: Rauwerdink C 
+--Title: Quality improvement program in radiation oncology: understanding patient hospitalizations, treatment breaks, and weight loss in patients receiving radiotherapy. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Services 
+ 
+ --UID: 30170336 
+--Date: 2018 Aug 31 
+--Last Author: Launay E 
+--Title: Vaccine-preventable severe morbidity and mortality caused by meningococcus and pneumococcus: A population-based study in France. 
+--UID: 30170309 
+--Date: 2018 Aug 28 
+--Last Author: Bergman Å 
+--Title: Current EU research activities on combined exposure to multiple chemicals. 
+--UID: 30170297 
+--Date: 2018 Aug 10 
+--Last Author: Cintina I 
+--Title: Fracking and risky behaviors: Evidence from Pennsylvania. 
+--UID: 30170262 
+--Date: 2018 Aug 9 
+--Last Author: MacArthur J 
+--Title: Midwifery continuity of carer: Developing a realist evaluation framework to evaluate the implementation of strategic change in Scotland. 
+--UID: 30170228 
+--Date: 2018 Aug 28 
+--Last Author: Wilde AAM 
+--Title: Linking the Heart and the Brain: Neurodevelopmental Disorders In Patients With Catecholaminergic Polymorphic Ventricular Tachycardia. 
+--UID: 30170219 
+--Date: 2018 Jul 27 
+--Last Author: Hsu CY 
+--Title: Renal dysfunction increases the risk of recurrent stroke in patients with acute ischemic stroke. 
+--UID: 30170164 
+--Date: 2018 Aug 28 
+--Last Author: Blakey JD 
+--Title: Antibiotic choice and duration associate with repeat prescriptions in infective asthma exacerbations. 
+--UID: 30170152 
+--Date: 2018 Aug 18 
+--Last Author: Kääriäinen M 
+--Title: Competence areas of health science teachers - A systematic review of quantitative studies. 
+--UID: 30170135 
+--Date: 2018 Aug 28 
+--Last Author: Raoult D 
+--Title: Towards the risk of Yellow Fever transmission in Europe. 
+--UID: 30170123 
+--Date: 2018 Aug 28 
+--Last Author: Snow AL 
+--Title: Hypomorphic CARD11 mutations associated with diverse immunologic phenotypes with or without atopic disease. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: On probation 
+ 
+ --UID: 30141709 
+--Date: 2018 Aug 2 
+--Last Author: Read S 
+--Title: Encountering offenders in community palliative care settings: challenges for care provision. 
+--UID: 30132174 
+--Date: 2018 Aug 21 
+--Last Author: Gelsthorpe L 
+--Title: Suicide and community justice. 
+--UID: 30107637 
+--Date: 2018 Aug 14 
+--Last Author: Gümüş E 
+--Title: Assessment of the results of a 3-Year Program for National Standardization and Quality Improvement of Medical Laboratories on Drug of Abuse Testing by the Ministry of Health in Turkey. 
+--UID: 30074749 
+--Date: 2018 Jul 
+--Last Author: Chen X 
+--Title: Parks After Dark Evaluation Brief. 
+--UID: 30070587 
+--Date: 2018 Aug 2 
+--Last Author: Mellow J 
+--Title: Exploring the Impact of an AVRS Curfew Program on Recidivism of Juvenile Probationers in Korea. 
+--UID: 30047290 
+--Date: 2018 Jul 26 
+--Last Author: O'Meara A 
+--Title: Learning Lessons From Implementing Enabling Environments Within Prison and Probation: Separating Standards From Process. 
+--UID: 30030685 
+--Date: 2018 Aug 
+--Last Author: Beckwith CG 
+--Title: Food Insecurity, Morbidities, and Substance Use in Adults on Probation in Rhode Island. 
+--UID: 30023441 
+--Date: 2018 Jun 
+--Last Author: Knight K 
+--Title: &lt;i&gt;StaySafe&lt;/i&gt;: A self-administered android tablet application for helping individuals on probation make better decisions pertaining to health risk behaviors. 
+--UID: 30014213 
+--Date: 2018 Aug 
+--Last Author: Redmond N 
+--Title: Assessment of Cardiovascular Health among Community-Dwelling Men with Incarceration History. 
+--UID: 29962252 
+--Date: 2018 Jun 1 
+--Last Author: Williamson H 
+--Title: Probation and Parole Officers' Compliance With Case Management Tools: Professional Discretion and Override. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: In prison (finding) 
+ 
+ --UID: 30070183 
+--Date: 2018 Aug 2 
+--Last Author: McKinnon I 
+--Title: Changes in the use of the Mental Health Act 1983 in England 1984/85 to 2015/16. 
+--UID: 30051520 
+--Date: 2018 Jul 26 
+--Last Author: Bowman J 
+--Title: 'Teabacco': Smoking of nicotine-infused tea as an unintended consequence of prison smoking bans. 
+--UID: 30031373 
+--Date: 2018 Jul 21 
+--Last Author: Ott K 
+--Title: Hepatitis C seropositivity among newly incarcerated prisoners in Estonia: data analysis of electronic health records from 2014 to 2015. 
+--UID: 30024493 
+--Date: 2018 Jul 17 
+--Last Author: Bur S 
+--Title: High Completion Rate for 12 Weekly Doses of Isoniazid and Rifapentine as Treatment for Latent Mycobacterium tuberculosis Infection in the Federal Bureau of Prisons. 
+--UID: 30024188 
+--Date: 2018 Aug 
+--Last Author: Billieux J 
+--Title: Technology-mediated addictive behaviors constitute a spectrum of related yet distinct conditions: A network perspective. 
+--UID: 30014765 
+--Date: 2018 Jul 1 
+--Last Author: Abrah PB 
+--Title: Labeling Theory and Life Stories of Juvenile Delinquents Transitioning Into Adulthood. 
+--UID: 29999425 
+--Date: 2018 Jan 1 
+--Last Author: Bell N 
+--Title: Finding meaningful work in difficult circumstances: A study of prison healthcare workers. 
+--UID: 29989199 
+--Date: 2018 Jul 10 
+--Last Author: Scerri J 
+--Title: The use of metaphors in non-Hodgkin's lymphoma patients undergoing chemotherapy. 
+--UID: 29978623 
+--Date: 2017 Nov 
+--Last Author: Siles B 
+--Title: High Court of Australia and HIV/AIDS Disease Criminalisation: Aubrey v The Queen and Zaburoni v The Queen. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Details of education 
+ 
+ --UID: 30167991 
+--Date: 2018 Aug 30 
+--Last Author: Pietrabissa A 
+--Title: The clinical use of 3D printing in surgery. 
+--UID: 30161286 
+--Date: 2018 Aug 30 
+--Last Author: Craig JC 
+--Title: Completeness of protocols for clinical trials in children submitted to ethics committees. 
+--UID: 30161111 
+--Date: 2018 Aug 31 
+--Last Author: Dennison EM 
+--Title: Healthcare-seeking behaviour of people with sexually transmitted infection symptoms attending a Sexual Health Clinic in New Zealand. 
+--UID: 30159625 
+--Date: 2018 Aug 29 
+--Last Author: Çalışkan S 
+--Title: Outbreak of Shiga toxin-producing Escherichia-coli-associated hemolytic uremic syndrome in Istanbul in 2015: outcome and experience with eculizumab. 
+--UID: 30158809 
+--Date: 2018 Apr-Jun 
+--Last Author: Abilash VG 
+--Title: Screening of Polymorphisms of Transcription Factor 7-like 2 Gene in Polycystic Ovary Syndrome using Polymerase Chain Reaction-restriction Fragment Length Polymorphism Analysis. 
+--UID: 30152432 
+--Date: 2018 Jul-Aug 
+--Last Author: Pandey R 
+--Title: Spectrum of renal allograft biopsy: A five-year experience at a tertiary care center of Eastern India. 
+--UID: 30147854 
+--Date: 2018 
+--Last Author: Subrahmanyam DK 
+--Title: Prevalence and Correlates of Common Mental Disorders among the Rural Elderly in Puducherry, South India: A Cross-sectional Community-based Study. 
+--UID: 30144059 
+--Date: 2018 Aug 24 
+--Last Author: Yu L 
+--Title: Spatial receptive field shift by preceding cross-modal stimulation in the cat superior colliculus. 
+--UID: 30136918 
+--Date: 2018 Aug 23 
+--Last Author: Ryan L 
+--Title: Evidence for Reduced Autobiographical Memory Episodic Specificity in Cognitively Normal Middle-Aged and Older Individuals at Increased Risk for Alzheimer's Disease Dementia. 
+--UID: 30133266 
+--Date: 2018 Aug 22 
+--Last Author: Åkermark B 
+--Title: Metal-Ligand Cooperation in Single-Site Ruthenium Water Oxidation Catalysts: A Combined Experimental and Quantum Chemical Approach. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Above average intellect 
+ 
+  
+ 
+ 
+ ---PUBMED ARTICLES: Average intellect 
+ 
+ --UID: 30027568 
+--Date: 2018 Sep 
+--Last Author: Zheng X 
+--Title: Rehabilitation service utilisation among adults with intellectual disabilities: Trends and socioeconomic disparities in China. 
+--UID: 30014564 
+--Date: 2018 Jul 16 
+--Last Author: Scotland J 
+--Title: The impact of contextual information on the emotion recognition of children with an intellectual disability. 
+--UID: 29993197 
+--Date: 2018 Jul 11 
+--Last Author: Maes B 
+--Title: Young children with significant developmental delay differentiate home observed attachment behaviour towards their parents. 
+--UID: 29993175 
+--Date: 2018 Jul 11 
+--Last Author: Hilgenkamp TIM 
+--Title: Physical activity levels of children and adolescents with moderate-to-severe intellectual disability. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Intelligence 
+ 
+ --UID: 30170285 
+--Date: 2018 Aug 21 
+--Last Author: Lv L 
+--Title: Sodium nitroprusside treatment for psychotic symptoms and cognitive deficits of schizophrenia: A randomized, double-blind, placebo-controlled trial. 
+--UID: 30170282 
+--Date: 2018 Aug 28 
+--Last Author: Fang Y 
+--Title: The clinical correlates of comorbid anxiety symptoms and syndromal anxiety in patients with major depressive disorder. 
+--UID: 30170101 
+--Date: 2018 Aug 28 
+--Last Author: Lambin P 
+--Title: A Deep Look into the Future of Quantitative Imaging in Oncology: A Statement of Working Principles and Proposal for Change. 
+--UID: 30169669 
+--Date: 2018 Aug 30 
+--Last Author: Kiely ME 
+--Title: Antenatal Vitamin D Status Is Not Associated with Standard Neurodevelopmental Assessments at Age 5 Years in a Well-Characterized Prospective Maternal-Infant Cohort. 
+--UID: 30169630 
+--Date: 2018 Aug 30 
+--Last Author: Morton CC 
+--Title: Loss of LDAH associated with prostate cancer and hearing loss. 
+--UID: 30169563 
+--Date: 2018 Aug 31 
+--Last Author: Brylinski M 
+--Title: Binding site matching in rational drug design: algorithms and applications. 
+--UID: 30169299 
+--Date: 2018 Apr 
+--Last Author: Tibboel D 
+--Title: Memory deficits following neonatal critical illness: a common neurodevelopmental pathway. 
+--UID: 30169233 
+--Date: 2018 Feb 
+--Last Author: Chin RF 
+--Title: Long-term prognosis after childhood convulsive status epilepticus: a prospective cohort study. 
+--UID: 30167965 
+--Date: 2018 Aug 30 
+--Last Author: Albertini DF 
+--Title: From artefactual to artificial intelligence-meeting the needs of ART patients and practitioners. 
+--UID: 30167812 
+--Date: 2018 Aug 30 
+--Last Author: Kilickesmez O 
+--Title: Clear Cell Renal Cell Carcinoma: Machine Learning-Based Quantitative Computed Tomography Texture Analysis for Prediction of Fuhrman Nuclear Grade. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Unemployment 
+ 
+ --UID: 30169358 
+--Date: 2018 Sep 
+--Last Author: Smith MT 
+--Title: Subjective and Objective Measures of Daytime Activity and Sleep Disturbance in Retinitis Pigmentosa. 
+--UID: 30169168 
+--Date: 2017 Nov 
+--Last Author: Patton GC 
+--Title: 20-year outcomes in adolescents who self-harm: a population-based cohort study. 
+--UID: 30167647 
+--Date: 2018 Aug 27 
+--Last Author: Chen LM 
+--Title: Association of Medication Nonadherence Among Adult Survivors of Stroke After Implementation of the US Affordable Care Act. 
+--UID: 30166261 
+--Date: 2018 Jul 20 
+--Last Author: Reche F 
+--Title: Bariatric surgery improves the employment rate in people with obesity: 2-year analysis. 
+--UID: 30160320 
+--Date: 2018 Aug 30 
+--Last Author: Barefoot KN 
+--Title: The Impact of Rurality on Likelihood of Drunk Driving and Riding With a Driver Under the Influence Among High School Students. 
+--UID: 30158219 
+--Date: 2018 Aug 29 
+--Last Author: König HH 
+--Title: Excess costs of alcohol-dependent patients in German psychiatric care compared with matched non-alcohol-dependent individuals from the general population: a secondary analysis of two datasets. 
+--UID: 30157180 
+--Date: 2018 
+--Last Author: Wood AM 
+--Title: The Great Recession and subjective well-being: How did the life satisfaction of people living in the United Kingdom change following the financial crisis? 
+--UID: 30155885 
+--Date: 2018 Aug 28 
+--Last Author: Smith C 
+--Title: Identifying demographic, social and clinical predictors of biologic therapy effectiveness in psoriasis: a multicentre longitudinal cohort study. 
+--UID: 30155289 
+--Date: 2018 
+--Last Author: Flensborg-Madsen T 
+--Title: Prospective Associations of the Short Form Health Survey Vitality Scale and Changes in Body Mass Index and Obesity Status. 
+--UID: 30154855 
+--Date: 2018 
+--Last Author: Dorner TE 
+--Title: Work Ability and Employment in Rheumatoid Arthritis: A Cross-Sectional Study on the Role of Muscle Strength and Lower Extremity Function. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Employed 
+ 
+ --UID: 30170296 
+--Date: 2018 Aug 13 
+--Last Author: Samaratunge R 
+--Title: The effects of chronic non-communicable diseases on labour force outcomes: Quasi experimental evidence from Sri Lanka. 
+--UID: 30170175 
+--Date: 2018 Aug 21 
+--Last Author: Chen Q 
+--Title: Synthesized Au NPs@silica composite as surface-enhanced Raman spectroscopy (SERS) substrate for fast sensing trace contaminant in milk. 
+--UID: 30170166 
+--Date: 2018 Aug 28 
+--Last Author: Xiong Y 
+--Title: High activity chimeric snake gamma-type phospholipase A&lt;sub&gt;2&lt;/sub&gt; inhibitor created by DNA shuffling. 
+--UID: 30170139 
+--Date: 2018 Aug 22 
+--Last Author: Lythgo N 
+--Title: The functional, spatio-temporal and satisfaction outcomes of transtibial amputees with a hydrocast socket following an extended usage period in an under-resourced environment. 
+--UID: 30170062 
+--Date: 2018 Aug 28 
+--Last Author: Meshkini A 
+--Title: Targeted delivery of adenosine 5'-triphosphate using chitosan-coated mesoporous hydroxyapatite: A theranostic pH-sensitive nanoplatform with enhanced anti-cancer effect. 
+--UID: 30169916 
+--Date: 2018 Aug 31 
+--Last Author: Zhang F 
+--Title: Investigation of the Predisposing Factor of Pemphigus and its clinical subtype through a Genome-wide association and next generation sequence analysis. 
+--UID: 30169838 
+--Date: 2018 Aug 30 
+--Last Author: Sekhar LN 
+--Title: Sternocleidomastoid Encephalomyosynangiosis for Treatment-Resistant Moyamoya Disease. 
+--UID: 30169818 
+--Date: 2018 Aug 31 
+--Last Author: Carromeu C 
+--Title: Functional and Mechanistic Neurotoxicity Profiling Using Human iPSC-Derived Neural 3D Cultures. 
+--UID: 30169788 
+--Date: 2018 Aug 28 
+--Last Author: Safa F 
+--Title: Atom-Type-Based AI Topological Indices for Artificial Neural Network Modeling of Retention Indices of Monomethylalkanes. 
+--UID: 30169747 
+--Date: 2018 Aug 31 
+--Last Author: Stamatakis A 
+--Title: Methods for Automatic Reference Trees and Multilevel Phylogenetic Placement. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Affect (mental function) 
+ 
+ --UID: 30157691 
+--Date: 2018 Aug 29 
+--Last Author: Mickuvienė N 
+--Title: Cognitive function in patients with coronary artery disease: A literature review. 
+--UID: 30142751 
+--Date: 2018 Aug 
+--Last Author: Cong M 
+--Title: Epidemiology of lower urinary tract symptoms in a cross-sectional, population-based study: The status in China. 
+--UID: 30142590 
+--Date: 2018 Aug 15 
+--Last Author: Haro JM 
+--Title: The association between socioeconomic status and depression among older adults in Finland, Poland and Spain: A comparative cross-sectional study of distinct measures and pathways. 
+--UID: 30142549 
+--Date: 2018 Jul 30 
+--Last Author: Hahn MK 
+--Title: Effects of acute olanzapine exposure on central insulin-mediated regulation of whole body fuel selection and feeding. 
+--UID: 30138866 
+--Date: 2018 Aug 15 
+--Last Author: Tuma F 
+--Title: Bilateral vertebral artery transection following blunt trauma. 
+--UID: 30134785 
+--Date: 2018 Mar 15 
+--Last Author: Nitsch L 
+--Title: Mitochondrial dysfunction in down syndrome: molecular mechanisms and therapeutic targets. 
+--UID: 30132420 
+--Date: 2018 Aug 22 
+--Last Author: Brantsaeter AL 
+--Title: Iodine intake is associated with thyroid function in mild- to moderately iodine deficient pregnant women. 
+--UID: 30124357 
+--Date: 2018 Aug 20 
+--Last Author: Davis SW 
+--Title: Excitatory TMS Modulates Memory Representations. 
+--UID: 30124217 
+--Date: 2018 Jul 28 
+--Last Author: Fang Z 
+--Title: [Comparative analysis for mental patients' life quality between developed and developing regions]. 
+--UID: 30118945 
+--Date: 2018 Aug 8 
+--Last Author: Lebel C 
+--Title: Prenatal maternal anxiety and children's brain structure and function: A systematic review of neuroimaging studies. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Feeling content 
+ 
+ --UID: 30167397 
+--Date: 2018 Jul-Sep 
+--Last Author: Aminshokravi F 
+--Title: "Ambivalence Perception" the Consequence of Exposure to Pregnancy in Iranian Adolescent Women: A Qualitative Study. 
+--UID: 30160542 
+--Date: 2018 Aug 30 
+--Last Author: Mørcke AM 
+--Title: Emotions and clinical learning in an interprofessional outpatient clinic: a focused ethnographic study. 
+--UID: 30160372 
+--Date: 2018 Aug 30 
+--Last Author: Parker A 
+--Title: The headspace Brief Interventions Clinic: Increasing timely access to effective treatments for young people with early signs of mental health problems. 
+--UID: 30156995 
+--Date: 2018 Dec 
+--Last Author: Batenburg R 
+--Title: Feeling happy and carefree: a qualitative study on the experiences of parents, medical clowns and healthcare professionals with medical clowns. 
+--UID: 30155339 
+--Date: 2018 
+--Last Author: Kanamoto I 
+--Title: Evaluation between the Usability and Physicochemical Property of Acyclovir Ointments. 
+--UID: 30155259 
+--Date: 2018 
+--Last Author: Sharp C 
+--Title: An evaluation of the construct of emotional sensitivity from the perspective of emotionally sensitive people. 
+--UID: 30153266 
+--Date: 2018 
+--Last Author: Berger A 
+--Title: Clinical relevance of activities meaningful to parents of preterm infants with very low birth weight: A focus group study. 
+--UID: 30152169 
+--Date: 2018 Aug 28 
+--Last Author: Munson MR 
+--Title: Mental health service use decision-making among young adults at clinical high risk for developing psychosis. 
+--UID: 30151674 
+--Date: 2018 Aug 27 
+--Last Author: Zunzunegui MV 
+--Title: Domains and determinants of a person-centered index of aging well in Canada: a mixed-methods study. 
+--UID: 30151076 
+--Date: 2018 
+--Last Author: Graham B 
+--Title: Conducting ethical internet-based research with vulnerable populations: a qualitative study of bereaved participants' experiences of online questionnaires. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Emotions 
+ 
+ --UID: 30169832 
+--Date: 2018 Aug 29 
+--Last Author: Liu D 
+--Title: Experienced Subjective Well-Being During Physically Active and Passive Leisure Time Activities Among Adults Aged 65 Years and Older. 
+--UID: 30168362 
+--Date: 2018 Aug 31 
+--Last Author: Ribbers GM 
+--Title: A study of the influence of cognitive complaints, cognitive performance and symptoms of anxiety and depression on self-efficacy in patients with acquired brain injury. 
+--UID: 30166676 
+--Date: 2018 Apr-Jun 
+--Last Author: Sharma R 
+--Title: Positive affect, psychotherapy, and depression. 
+--UID: 30166276 
+--Date: 2018 Aug 30 
+--Last Author: Clynes M 
+--Title: Recognition of Emotions Conveyed by Touch Through Force-Sensitive Screens: Observational Study of Humans and Machine Learning Techniques. 
+--UID: 30166005 
+--Date: 2018 Oct 
+--Last Author: Hopkins SJ 
+--Title: "It's what's behind the mask": Psychological diversity in compassionate patient care. 
+--UID: 30164241 
+--Date: 1860 Jan 
+--Last Author:  
+--Title: The Emotions and the Will. 
+--UID: 30160542 
+--Date: 2018 Aug 30 
+--Last Author: Mørcke AM 
+--Title: Emotions and clinical learning in an interprofessional outpatient clinic: a focused ethnographic study. 
+--UID: 30160538 
+--Date: 2018 Aug 30 
+--Last Author: Vierhaus M 
+--Title: The German Version of the Emotion Awareness Questionnaire for Children and Adolescents: Associations with Emotion Regulation and Psychosocial Adjustment. 
+--UID: 30160372 
+--Date: 2018 Aug 30 
+--Last Author: Parker A 
+--Title: The headspace Brief Interventions Clinic: Increasing timely access to effective treatments for young people with early signs of mental health problems. 
+--UID: 30157852 
+--Date: 2018 Aug 29 
+--Last Author: Cohen SA 
+--Title: Socioeconomic and demographic factors modify observed relationship between caregiving intensity and three dimensions of quality of life in informal adult children caregivers. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Speech 
+ 
+ --UID: 30170245 
+--Date: 2018 Aug 28 
+--Last Author: Sigman M 
+--Title: Language, gesture, and judgment: Children's paths to abstract geometry. 
+--UID: 30169884 
+--Date: 2018 Aug 30 
+--Last Author: Turner JA 
+--Title: Salience-Default Mode Functional Network Connectivity Linked to Positive and Negative Symptoms of Schizophrenia. 
+--UID: 30169630 
+--Date: 2018 Aug 30 
+--Last Author: Morton CC 
+--Title: Loss of LDAH associated with prostate cancer and hearing loss. 
+--UID: 30169523 
+--Date: 2018 Aug 31 
+--Last Author: Brainard MS 
+--Title: An automated approach to the quantitation of vocalizations and vocal learning in the songbird. 
+--UID: 30169463 
+--Date: 2018 Aug 30 
+--Last Author: Fitzpatrick DC 
+--Title: Residual Cochlear Function in Adults and Children Receiving Cochlear Implants: Correlations With Speech Perception Outcomes. 
+--UID: 30169437 
+--Date: 2018 Aug 30 
+--Last Author: Xiang H 
+--Title: Attending Follow-up Appointments After Pediatric Traumatic Brain Injury: Caregiver-Perceived Barriers and Facilitators. 
+--UID: 30169433 
+--Date: 2018 Aug 30 
+--Last Author: Beal DS 
+--Title: Cognitive Communication Impairments in Children With Traumatic Brain Injury: A Scoping Review. 
+--UID: 30169425 
+--Date: 2018 Aug 30 
+--Last Author: Conwell E 
+--Title: The use of acoustic information in lexical ambiguity resolution: an event-related potential study. 
+--UID: 30168869 
+--Date: 2018 Aug 31 
+--Last Author: Hadjikhani N 
+--Title: Effect of visual stimuli of pain on empathy brain network in people with and without Autism Spectrum Disorder. 
+--UID: 30168581 
+--Date: 2018 Aug 31 
+--Last Author: Mathieu E 
+--Title: Simulated versus traditional occupational therapy placements: A randomised controlled trial. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Skin appearance normal (finding) 
+ 
+  
+ 
+ 
+ ---PUBMED ARTICLES: Mental Processes 
+ 
+ --UID: 30169972 
+--Date: 2018 Aug 31 
+--Last Author: Wiese E 
+--Title: Using Tools to Help Us Think: Actual but Also Believed Reliability Modulates Cognitive Offloading. 
+--UID: 30169868 
+--Date: 2018 Aug 28 
+--Last Author: Arango C 
+--Title: Oxidative Stress and Inflammation in First-Episode Psychosis: A Systematic Review and Meta-analysis. 
+--UID: 30169559 
+--Date: 2018 Aug 28 
+--Last Author: Rawashdeh O 
+--Title: Coupling the circadian clock to homeostasis: the role of Period in timing physiology. 
+--UID: 30169236 
+--Date: 2018 Feb 
+--Last Author: Biggs BA 
+--Title: Neurological effects of iron supplementation in infancy: finding the balance between health and harm in iron-replete infants. 
+--UID: 30167997 
+--Date: 2018 Aug 31 
+--Last Author: Fan F 
+--Title: Posttraumatic Stress Disorder and Psychiatric Comorbidity among Adolescent Earthquake Survivors: a Longitudinal Cohort Study. 
+--UID: 30165335 
+--Date: 2018 Aug 2 
+--Last Author: Lis S 
+--Title: Lower self-positivity and its association with self-esteem in women with borderline personality disorder. 
+--UID: 30160581 
+--Date: 2018 Aug 30 
+--Last Author: Liggins J 
+--Title: Healing the heart of recovery. 
+--UID: 30160232 
+--Date: 2018 Aug 30 
+--Last Author: Bryant RA 
+--Title: Longitudinal association between trust, psychological symptoms and community engagement in resettled refugees. 
+--UID: 30159073 
+--Date: 2018 Aug 20 
+--Last Author: Yungareva I 
+--Title: Schizophrenia as Potential Trigger for Melanoma Development and Progression! The Psycho-Neuro-Endocrine-Oncology (P.N.E.O) Network! 
+--UID: 30158880 
+--Date: 2018 
+--Last Author: Smith HE 
+--Title: Cognitive Biases in Cannabis, Opioid, and Stimulant Disorders: A Systematic Review. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Thinking, function 
+ 
+ --UID: 30166943 
+--Date: 2018 
+--Last Author: Gulati S 
+--Title: Transforming primary care: scoping review of research and practice. 
+--UID: 30166709 
+--Date: 2018 
+--Last Author: Grum C 
+--Title: THE ELECTRONIC HEALTH RECORD AND DEVELOPMENT OF MEDICAL STUDENTS' MENTAL PATIENT MODELS. 
+--UID: 30166683 
+--Date: 2018 Apr-Jun 
+--Last Author: Rautela U 
+--Title: Indianizing psychiatry - A critique. 
+--UID: 30166422 
+--Date: 2018 Aug 30 
+--Last Author: Wang D 
+--Title: The effect of acute morphine on obstructive sleep apnoea: a randomised double-blind placebo-controlled crossover trial. 
+--UID: 30165785 
+--Date: 2018 Aug 30 
+--Last Author: Skowronski JJ 
+--Title: Thinking About a Past Group Inclusion Experience or a Past Group Exclusion Experience Affects Memory Task Performance. 
+--UID: 30160870 
+--Date: 2018 Aug 
+--Last Author: Calam R 
+--Title:  
+--UID: 30165558 
+--Date: 2018 Aug 25 
+--Last Author: Gott M 
+--Title: Caregivers for people at end of life in advanced age: knowing, doing and negotiating care. 
+--UID: 30160633 
+--Date: 2018 Aug 30 
+--Last Author: Stofer K 
+--Title: Finding the Gaps: An Assessment of Concepts, Skills, and Employer Expectations for Plant Pathology Foundational Courses. 
+--UID: 30159956 
+--Date: 2018 Aug 30 
+--Last Author: Buetow S 
+--Title: Treating real people: Science and humanity. 
+--UID: 30159672 
+--Date: 2018 Aug 25 
+--Last Author: Caruso EM 
+--Title: Do children and adolescents have a future-oriented bias? A developmental study of spontaneous and cued past and future thinking. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Insight 
+ 
+ --UID: 30170289 
+--Date: 2018 Aug 21 
+--Last Author: Ghassempour A 
+--Title: Development and modeling of two-dimensional fast protein liquid chromatography for producing nonstructural protein-free food-and-mouth diseases virus vaccine. 
+--UID: 30170267 
+--Date: 2018 Aug 6 
+--Last Author: Deleglise ASJ 
+--Title: Outcomes and treatment management of a French cohort suffering from multiple sclerosis: A retrospective epidemiological study. 
+--UID: 30170241 
+--Date: 2018 Aug 23 
+--Last Author: Cheng Z 
+--Title: The garlic allelochemical DADS influences cucumber root growth involved in regulating hormone levels and modulating cell cycling. 
+--UID: 30170235 
+--Date: 2018 Aug 19 
+--Last Author: Schoevers RA 
+--Title: Body attitude, body satisfaction and body awareness in a clinical group of depressed patients: An observational study on the associations with depression severity and the influence of treatment. 
+--UID: 30170201 
+--Date: 2018 Aug 23 
+--Last Author: Van Eeckhaut A 
+--Title: Sensitive targeted methods for brain metabolomic studies in microdialysis samples. 
+--UID: 30170140 
+--Date: 2018 Aug 13 
+--Last Author: van der Steen MC 
+--Title: Gait kinetics in children with clubfeet treated surgically or with the Ponseti method: A meta-analysis. 
+--UID: 30170116 
+--Date: 2018 Aug 28 
+--Last Author: Crowe JE Jr 
+--Title: Human Monoclonal Antibodies That Neutralize Pandemic GII.4 Noroviruses. 
+--UID: 30170082 
+--Date: 2018 Aug 28 
+--Last Author: Commons KG 
+--Title: Evidence for intact 5-HT&lt;sub&gt;1A&lt;/sub&gt; receptor-mediated feedback inhibition following sustained antidepressant treatment in a rat model of depression. 
+--UID: 30170078 
+--Date: 2018 Aug 28 
+--Last Author: Wang H 
+--Title: Naoxintong restores collateral blood flow in a murine model of hindlimb ischemia through PPARδ-dependent mechanism. 
+--UID: 30169961 
+--Date: 2018 Aug 31 
+--Last Author: Brock A 
+--Title: Control of lineage-specific gene expression by functionalized gRNA barcodes. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Smell Perception 
+ 
+ --UID: 30168865 
+--Date: 2018 Aug 31 
+--Last Author: Gudziol V 
+--Title: Gustatory pathway in humans: A review of models of taste perception and their potential lateralization. 
+--UID: 30168087 
+--Date: 2018 Aug 30 
+--Last Author: Assimakopoulos K 
+--Title: Gonadotropin-releasing hormone (GnRH) deficiency under treatment: psychological and sexual functioning impacts. 
+--UID: 30167837 
+--Date: 2018 Aug 30 
+--Last Author: Mattheis S 
+--Title: The influence of orbital decompression on objective nasal function in patients with graves' orbitopathy. 
+--UID: 30167457 
+--Date: 2018 Aug 
+--Last Author: Sharpee TO 
+--Title: Hyperbolic geometry of the olfactory space. 
+--UID: 30166653 
+--Date: 2018 Aug 
+--Last Author: Parida PK 
+--Title: Effect of anaesthetic agents on olfactory threshold and identification - A single blinded randomised controlled study. 
+--UID: 30159484 
+--Date: 2016 Dec 
+--Last Author: Zhu G 
+--Title: Resurrection of the genus &lt;i&gt;Botrydium&lt;/i&gt; Spach (Chenopodiaceae), with a description of four new species from China, Peru and Burundi. 
+--UID: 30165382 
+--Date: 2018 Aug 28 
+--Last Author: Okamura H 
+--Title: Alterations in emotional responses (pleasantness/unpleasantness) induced by sniffing food odors during chemotherapy in patients with lung cancer. 
+--UID: 30159922 
+--Date: 2018 Aug 29 
+--Last Author: Poggiogalle E 
+--Title: Are the therapeutic strategies in anorexia of ageing effective on nutritional status? A systematic review with meta-analysis. 
+--UID: 30154747 
+--Date: 2018 
+--Last Author: Thompson RL 
+--Title: Iconicity in Signed and Spoken Vocabulary: A Comparison Between American Sign Language, British Sign Language, English, and Spanish. 
+--UID: 30152557 
+--Date: 2018 Aug 28 
+--Last Author: Flórez Á 
+--Title: Topical carbocysteine: A new option for the treatment of ichthyosis. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Burning sensation 
+ 
+ --UID: 30154655 
+--Date: 2018 
+--Last Author: El Sayed SM 
+--Title: Enhancing anticancer effects, decreasing risks and solving practical problems facing 3-bromopyruvate in clinical oncology: 10 years of research experience. 
+--UID: 30150486 
+--Date: 2018 Aug 1 
+--Last Author: Patil S 
+--Title: New Directions for Oral Submucous Fibrosis Research: Whole Evaluation for Holistic Rehabilitation! 
+--UID: 30142723 
+--Date: 2018 Jun 15 
+--Last Author: Aslani FS 
+--Title: Crusted scabies masquerading as psoriasis plaques in a patient suffering from burn scars. 
+--UID: 30137814 
+--Date: 2018 Jan 
+--Last Author: Short RE 
+--Title: Burning Mouth Syndrome 
+--UID: 30122939 
+--Date: 2018 
+--Last Author: Liu X 
+--Title: Diagnostic value of oral "beefy red" patch in vitamin B12 deficiency. 
+--UID: 30091220 
+--Date: 2018 Aug 8 
+--Last Author: Kaplan DL 
+--Title: Human Corneal Tissue Model for Nociceptive Assessments. 
+--UID: 30068839 
+--Date: 2018 
+--Last Author: Matsumoto K 
+--Title: [Gastrointestinal Spice Sensors and Their Functions]. 
+--UID: 30064610 
+--Date: 2017 Dec 
+--Last Author: Calvieri S 
+--Title: Neurodystrophic Hand Dermatitis: Sannino Barduagni Syndrome. 
+--UID: 30059188 
+--Date: 2018 Jul 30 
+--Last Author: Gupta S 
+--Title: Comparison of therapeutic response of lycopene and curcumin in oral submucous fibrosis: A randomized controlled trial. 
+--UID: 30030157 
+--Date: 2018 Jul 17 
+--Last Author: Cook AD 
+--Title: The potential of transdermal nitric oxide treatment for diabetic peripheral neuropathy and diabetic foot ulcers. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Hearing examination finding 
+ 
+ --UID: 30167723 
+--Date: 2018 Aug 30 
+--Last Author: Dieterich M 
+--Title: [Neuro-otology: at the borders of ear and brain]. 
+--UID: 30153950 
+--Date: 2018 Jun 5 
+--Last Author: Otteson TD 
+--Title: Morphology and cochlear implantation in enlarged vestibular aqueduct. 
+--UID: 30135625 
+--Date: 2018 
+--Last Author: Siedlar M 
+--Title: Neurodegenerative changes detected by neuroimaging in a patient with contiguous X-chromosome deletion syndrome encompassing &lt;i&gt;BTK&lt;/i&gt; and &lt;i&gt;TIMM8A&lt;/i&gt; genes. 
+--UID: 30123180 
+--Date: 2018 
+--Last Author: Doi K 
+--Title: Recent and Frequent Vertigo Attacks Produce Negative Findings on Furosemide-Loading Vestibular Evoked Myogenic Potential Testing in Meniere's Disease. 
+--UID: 30117553 
+--Date: 2018 Aug 
+--Last Author: Oster KA 
+--Title: Perioperative Care of the Patient With Acoustic Neuroma. 
+--UID: 25719192 
+--Date: 1993 
+--Last Author: Collins MT 
+--Title: Fibrous Dysplasia/McCune-Albright Syndrome 
+--UID: 30055796 
+--Date: 2018 Jun 20 
+--Last Author: Babu S 
+--Title: Diagnostic yield of MRI of the brain and IAC in patients with neurotologic complaints. 
+--UID: 30019669 
+--Date: 2018 Jun 
+--Last Author: Jones SEM 
+--Title: Is the use of a bone conduction hearing device on a softband a useful tool in the pre-operative assessment of suitability for other hearing implants? 
+--UID: 30019666 
+--Date: 2018 Jun 
+--Last Author: Iyer A 
+--Title: Preliminary outcomes of endoscopic middle-ear surgery in 103 cases: a UK experience. 
+--UID: 29980486 
+--Date: 2018 Jul 2 
+--Last Author: Liu KT 
+--Title: Spontaneous pneumocephalus and subdural hemorrhage after sneezing. 
+ 
+ 
+ 
+ 

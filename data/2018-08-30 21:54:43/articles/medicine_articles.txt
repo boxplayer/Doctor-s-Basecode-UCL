@@ -1,0 +1,181 @@
+---PUBMED ARTICLES: Methamphetamine 
+ 
+ --UID: 30156433 
+--Date: 2018 Aug 29 
+--Last Author: McPherson SM 
+--Title: Contingency management intervention targeting co-addiction of alcohol and drugs among American Indian adults: Design, methodology, and baseline data. 
+--UID: 30154290 
+--Date: 2018 Jan 28 
+--Last Author: Kou Z 
+--Title: [Change of brain structure imaging of long-term withdrawal of methamphetamine-dependent patients]. 
+--UID: 30153607 
+--Date: 2018 Aug 22 
+--Last Author: Dietze P 
+--Title: Analysis of time of drug use according to needle and syringe program operating hours in Melbourne, Australia: Effects on individual-level needle and syringe coverage. 
+--UID: 30151340 
+--Date: 2018 Aug 10 
+--Last Author: Mandyam CD 
+--Title: The role of hippocampal adult neurogenesis in methamphetamine addiction. 
+--UID: 30150782 
+--Date: 2018 Aug 27 
+--Last Author: Harvey BH 
+--Title: Efavirenz exposure, alone and in combination with known drugs of abuse, engenders addictive-like bio-behavioural changes in rats. 
+--UID: 30148668 
+--Date: 2018 Aug 
+--Last Author: Fletcher JB 
+--Title: Elevated HIV and STI Prevalence and Incidence Among Methamphetamine-Using Men Who Have Sex With Men in Los Angeles County. 
+--UID: 30147655 
+--Date: 2018 
+--Last Author: Nitsche MA 
+--Title: Optimizing Electrode Montages of Transcranial Direct Current Stimulation for Attentional Bias Modification in Early Abstinent Methamphetamine Users. 
+--UID: 30146447 
+--Date: 2018 Aug 23 
+--Last Author: Musi M 
+--Title: Subarachnoid Mirage: A Case of Pseudosubarachnoid Hemorrhage. 
+--UID: 30143926 
+--Date: 2018 Aug 24 
+--Last Author: Zhao M 
+--Title: Variants in GABBR1 Gene Are Associated with Methamphetamine Dependence and Two Years' Relapse after Drug Rehabilitation. 
+--UID: 30143224 
+--Date: 2018 Nov 22 
+--Last Author: Luan T 
+--Title: Rapid and on-site analysis of amphetamine-type illicit drugs in whole blood and raw urine by slug-flow microextraction coupled with paper spray mass spectrometry. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Alcohols 
+ 
+ --UID: 30156850 
+--Date: 2018 Aug 29 
+--Last Author: Zhang Q 
+--Title: Copper-Catalyzed Cascade Aminoalkynylation-Oxidation of Propargylic Alcohols: Stereospecific Synthesis of ( Z)-2-Amino Conjugated Enynals/Enynones. 
+--UID: 30156404 
+--Date: 2018 Aug 29 
+--Last Author: Nagib DA 
+--Title: Catalytic Alkene Difunctionalization via Imidate Radicals. 
+--UID: 30155221 
+--Date: 2017 Jul 1 
+--Last Author: Lloret-Fillol J 
+--Title: Dual cobalt-copper light-driven catalytic reduction of aldehydes and aromatic ketones in aqueous media. 
+--UID: 30152147 
+--Date: 2018 Aug 27 
+--Last Author: Natalini B 
+--Title: Last ten years (2008-2018) of chiral ligand-exchange chromatography in HPLC: An updated review. 
+--UID: 30150797 
+--Date: 2018 Sep 
+--Last Author: Zhao S 
+--Title: Effects of drying methods on the nutritional aspects, flavor, and processing properties of Chinese chestnuts. 
+--UID: 30150578 
+--Date: 2018 Aug 27 
+--Last Author: Nuevo M 
+--Title: Monosaccharides and Their Derivatives in Carbonaceous Meteorites: A Scenario for Their Synthesis and Onset of Enantiomeric Excesses. 
+--UID: 30148643 
+--Date: 2018 Aug 27 
+--Last Author: Taylor MS 
+--Title: Borinic Acid-Catalyzed, Regioselective Ring Opening of 3,4-Epoxy Alcohols. 
+--UID: 30148602 
+--Date: 2018 Aug 27 
+--Last Author: Barbe JC 
+--Title: Static Headspace Analysis Using Low-Pressure Gas Chromatography and Mass Spectrometry, Application to Determining Multiple Partition Coefficients: A Practical Tool for Understanding Red Wine Fruity Volatile Perception and the Sensory Impact of Higher Alcohols. 
+--UID: 30148367 
+--Date: 2018 Aug 27 
+--Last Author: Ragains JR 
+--Title: Acid-Catalyzed O-Glycosylation with Stable Thioglycoside Donors. 
+--UID: 30148366 
+--Date: 2018 Aug 27 
+--Last Author: Ukaji Y 
+--Title: Low-Valent Titanium-Mediated Radical Conjugate Addition Using Benzyl Alcohols as Benzyl Radical Sources. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Lithium 
+ 
+ --UID: 30157373 
+--Date: 2018 Aug 29 
+--Last Author: Cho SJ 
+--Title: In-Situ Dendrite Suppression Study of Nanolayer Encapsulated Li Metal Enabled by Zirconia Atomic Layer Deposition. 
+--UID: 30156825 
+--Date: 2018 Aug 29 
+--Last Author: Huang Q 
+--Title: Self-Nitrogen-Doped Carbon from Plant Waste as an Oxygen Electrode Material with Exceptional Capacity and Cycling Stability for Lithium Oxygen Batteries. 
+--UID: 30156822 
+--Date: 2018 Aug 29 
+--Last Author: Qiao R 
+--Title: Solvate Ionic Liquids at Electrified Interfaces. 
+--UID: 30156564 
+--Date: 2018 Aug 29 
+--Last Author: Gao K 
+--Title: Graphitic carbon nitride as polysulfide anchor and barrier for improved lithium-sulfur batteries. 
+--UID: 30156407 
+--Date: 2018 Aug 29 
+--Last Author: Tarascon JM 
+--Title: Impact of Structural Polymorphism on Ionic Conductivity in Lithium Copper Pyroborate Li&lt;sub&gt;6&lt;/sub&gt;CuB&lt;sub&gt;4&lt;/sub&gt;O&lt;sub&gt;10&lt;/sub&gt;. 
+--UID: 30156349 
+--Date: 2018 Aug 29 
+--Last Author: Böttcher T 
+--Title: [4-(Ph3B)-2,6-Mes2Py]-: A Sterically Demanding Anionic Pyridine. 
+--UID: 30156247 
+--Date: 2018 Aug 29 
+--Last Author: Jiang K 
+--Title: Electrocatalysis of polysulfide conversion by conductive RuO&lt;sub&gt;2&lt;/sub&gt; nano dots for lithium-sulfur batteries. 
+--UID: 30155969 
+--Date: 2018 Aug 28 
+--Last Author: Lou XWD 
+--Title: Hollow Structures Based on Prussian Blue and Its Analogs for Electrochemical Energy Storage and Conversion. 
+--UID: 30155748 
+--Date: 2018 Aug 28 
+--Last Author: Cryan JF 
+--Title: Differential effects of psychotropic drugs on microbiome composition and gastrointestinal function. 
+--UID: 30155540 
+--Date: 2018 Aug 29 
+--Last Author: Xie X 
+--Title: In situ synthesis of porous Si dispersed in carbon nanotube intertwined expanded graphite for high-energy lithium-ion batteries. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Lead 
+ 
+ --UID: 30157563 
+--Date: 2018 Aug 20 
+--Last Author: Liu B 
+--Title: [One case of severely burned patient complicated by acute hemorrhagic necrotizing enteritis and fungal infection]. 
+--UID: 30157561 
+--Date: 2018 Aug 20 
+--Last Author: Ben DF 
+--Title: [Debridement combined with vacuum sealing drainage in the treatment of severe infection in abdominal wall due to allogeneic umbilical cord embedded in abdominal wall for immunotherapy]. 
+--UID: 30157547 
+--Date: 2018 Aug 29 
+--Last Author: Park J 
+--Title: RNA-Binding Proteins in Amyotrophic Lateral Sclerosis. 
+--UID: 30157529 
+--Date: 2018 Aug 29 
+--Last Author: Higuera CA 
+--Title: Is ICD-9 Coding of Morbid Obesity Reliable in Patients Undergoing Total Knee Arthroplasty? 
+--UID: 30157522 
+--Date: 2018 Aug 
+--Last Author: Uzuner Ö 
+--Title: Advancing the State of the Art in Clinical Natural Language Processing through Shared Tasks. 
+--UID: 30157514 
+--Date: 2018 Aug 
+--Last Author: Bates DW 
+--Title: Behavioral Economics Interventions in Clinical Decision Support Systems. 
+--UID: 30157512 
+--Date: 2018 Aug 
+--Last Author: Deserno TM 
+--Title: Deep Learning on 1-D Biosignals: a Taxonomy-based Survey. 
+--UID: 30157484 
+--Date: 2018 Aug 29 
+--Last Author: Gottfried C 
+--Title: Neuroimmune Alterations in Autism: A Translational Analysis Focusing on the Animal Model of Autism Induced by Prenatal Exposure to Valproic Acid. 
+--UID: 30157444 
+--Date: 2018 Aug 21 
+--Last Author: Bajwa BS 
+--Title: Investigation of bismuth borate glass system modified with barium for structural and gamma-ray shielding properties. 
+--UID: 30157428 
+--Date: 2018 Aug 28 
+--Last Author: Burstein E 
+--Title: Microbial Sensing by Intestinal Myeloid Cells Controls Carcinogenesis and Epithelial Differentiation. 
+ 
+ 
+ 
+ 

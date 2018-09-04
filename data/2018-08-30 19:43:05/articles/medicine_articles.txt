@@ -1,0 +1,136 @@
+---PUBMED ARTICLES: Cholesterol 
+ 
+ --UID: 30157268 
+--Date: 2018 
+--Last Author: Hoy JF 
+--Title: Changes in plasma lipidome following initiation of antiretroviral therapy. 
+--UID: 30157220 
+--Date: 2018 
+--Last Author: Flatt PR 
+--Title: Long-term treatment with acylated analogues of apelin-13 amide ameliorates diabetes and improves lipid profile of high-fat fed mice. 
+--UID: 30157214 
+--Date: 2018 
+--Last Author: Maciejewska-Skrendo A 
+--Title: The polymorphisms of the PPARD gene modify post-training body mass and biochemical parameter changes in women. 
+--UID: 30156966 
+--Date: 2018 Aug 29 
+--Last Author: Iseki S 
+--Title: The improvement of calvarial bone healing by durable nanogel-crosslinked materials. 
+--UID: 30156736 
+--Date: 2018 Aug 29 
+--Last Author: Deng WQ 
+--Title: A robust method to estimate regional polygenic correlation under misspecified linkage disequilibrium structure. 
+--UID: 30156672 
+--Date: 2018 Jul-Aug 
+--Last Author: Amendola F 
+--Title: Antihypertensive treatment adherence in workers of a General Hospital. 
+--UID: 30156605 
+--Date: 2018 Aug 23 
+--Last Author: Pereira AC 
+--Title: Predictors of Family Enrollment in a Genetic Cascade Screening Program for Familial Hypercholesterolemia. 
+--UID: 30156604 
+--Date: 2018 Aug 23 
+--Last Author: Pellanda LC 
+--Title: Secondary Dyslipidemia In Obese Children - Is There Evidence For Pharmacological Treatment? 
+--UID: 30156570 
+--Date: 2018 Oct 
+--Last Author: Ketelhuth DFJ 
+--Title: Lipid-driven immunometabolic responses in atherosclerosis. 
+--UID: 30156415 
+--Date: 2018 Aug 29 
+--Last Author: Klimov DK 
+--Title: Molecular Dynamics Investigation of Ternary Bilayer Formed by Saturated Phosphotidylcholine, Sphingomyelin, and Cholesterol. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Clotrimazole 
+ 
+ --UID: 30144857 
+--Date: 2018 Sep 
+--Last Author: Narasimhan SR 
+--Title: Prevention of Prematurity: Advances and Opportunities. 
+--UID: 30134530 
+--Date: 2018 Aug 21 
+--Last Author: Radini IAM 
+--Title: Design, Synthesis, and Antimicrobial Evaluation of Novel Pyrazoles and Pyrazolyl 1,3,4-Thiadiazine Derivatives. 
+--UID: 30130753 
+--Date: 2018 Aug 21 
+--Last Author: Boonme P 
+--Title: Antidermatophytic Activity and Skin Retention of Clotrimazole Microemulsion and Microemulsion-Based Gel in Comparison to Conventional Cream. 
+--UID: 30120865 
+--Date: 2018 Aug 18 
+--Last Author: Razonable R 
+--Title: Effects of Clotrimazole Troches on Tacrolimus Dosing in Heart Transplant Recipients. 
+--UID: 30092625 
+--Date: 2018 Aug 10 
+--Last Author: Kim SH 
+--Title: Imidazole Antifungal Drugs Inhibit the Cell Proliferation and Invasion of Human Breast Cancer Cells. 
+--UID: 30050821 
+--Date: 2018 Jul-Aug 
+--Last Author: Matthapan L 
+--Title: Efficacy and Safety of 1% Clotrimazole Cream Occlusion with the Mechanical Reduction as an Adjuvant Therapy for the Treatment of Onychomycosis. 
+--UID: 30044750 
+--Date: 2018 Jul 
+--Last Author: Koenig S 
+--Title: A 61-Year-Old Caribbean Man With Thrush and Acute Respiratory Failure. 
+--UID: 30000270 
+--Date: 2006 
+--Last Author:  
+--Title: Clotrimazole 
+--UID: 29991575 
+--Date: 2018 Sep 
+--Last Author: Scott EE 
+--Title: Comparison of Antifungal Azole Interactions with Adult Cytochrome P450 3A4 versus Neonatal Cytochrome P450 3A7. 
+--UID: 29974311 
+--Date: 2018 Jul 5 
+--Last Author: Manilal A 
+--Title: Effective synthesis of some novel pyrazolidine-3,5-dione derivatives via Mg(II) catalyzed in water medium and their anticancer and antimicrobial activities. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Calcium 
+ 
+ --UID: 30157434 
+--Date: 2018 Aug 28 
+--Last Author: Kessels MM 
+--Title: The Actin Nucleator Cobl Is Critical for Centriolar Positioning, Postnatal Planar Cell Polarity Refinement, and Function of the Cochlea. 
+--UID: 30157305 
+--Date: 2018 Aug 29 
+--Last Author: Lako M 
+--Title: CD200 expression marks a population of quiescent limbal epithelial stem cells with holoclone forming ability. 
+--UID: 30157263 
+--Date: 2018 
+--Last Author: Cunningham KA 
+--Title: Biophysical validation of serotonin 5-HT2A and 5-HT2C receptor interaction. 
+--UID: 30157199 
+--Date: 2018 
+--Last Author: Yang JR 
+--Title: Porcine induced pluripotent stem cell-derived osteoblast-like cells prevent glucocorticoid-induced bone loss in Lanyu pigs. 
+--UID: 30156851 
+--Date: 2018 Aug 29 
+--Last Author: Herrero-Martínez JM 
+--Title: Improving fractionation of human milk proteins through calcium phosphate co-precipitation and their rapid characterization by capillary electrophoresis. 
+--UID: 30156658 
+--Date: 2018 Oct-Dec 
+--Last Author: McIntyre RS 
+--Title: Coronary calcium score as an expression of multisystemic progression of bipolar disorder. 
+--UID: 30156423 
+--Date: 2018 Aug 29 
+--Last Author: Charoenphandhu N 
+--Title: Previous Adolescent Pregnancy and Breastfeeding Does Not Negatively Affect Bone Mineral Density at the Age of Peak Bone Mass. 
+--UID: 30156306 
+--Date: 2018 Aug 29 
+--Last Author: Stout KN 
+--Title: Calcium Chloride and Calcium Gluconate in Neonatal Parenteral Nutrition Solutions with Added Cysteine: Compatibility Studies Using Laser Light Obscuration Methodology. 
+--UID: 30156210 
+--Date: 2018 Sep 
+--Last Author: Savas HB 
+--Title: The effects of psychostimulants on oral health and saliva in children with attention deficit hyperactivity disorder: A case-control study. 
+--UID: 30156174 
+--Date: 2018 Aug 29 
+--Last Author: Assy J 
+--Title: Successful use of calcium channel blocker for management of arterio-venous malformations following Fontan procedure. 
+ 
+ 
+ 
+ 
