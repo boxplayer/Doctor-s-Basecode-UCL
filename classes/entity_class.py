@@ -1,6 +1,6 @@
-import package.apis.wikipedia_api as wikipedia_api
-import package.apis.snomed_api as snomed_api
-import package.apis.entrez_api as entrez_api
+import python_app.apis.wikipedia_api as wikipedia_api
+import python_app.apis.snomed_api as snomed_api
+import python_app.apis.entrez_api as entrez_api
 import json
 import os
 

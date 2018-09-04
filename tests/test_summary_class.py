@@ -1,5 +1,5 @@
 import unittest
-from package.classes.summary_class import Summary
+from python_app.classes.summary_class import Summary
 
 class TestSummary(unittest.TestCase):
 

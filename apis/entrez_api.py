@@ -53,7 +53,7 @@ def esearch(term, max_articles, max_article_age, output_format="json"):
 	req_list = request.json()
 
 	# open new file in directory and save the data as json
-	filename = "package/data/entrez/esearch_{}.json".format(term)
+	filename = "python_app/data/entrez/esearch_{}.json".format(term)
 	if not os.path.exists(os.path.dirname(filename)):
 		try:
 			os.makedirs(os.path.dirname(filename))
@@ -97,7 +97,7 @@ def esummary(uids):
 	# open new file in directory and save the data as json
 
 	print("Downlading esummary to json")
-	filename = "package/data/entrez/esummary.json"
+	filename = "python_app/data/entrez/esummary.json"
 	if not os.path.exists(os.path.dirname(filename)):
 		try:
 			os.makedirs(os.path.dirname(filename))

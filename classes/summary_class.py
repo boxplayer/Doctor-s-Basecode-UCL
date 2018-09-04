@@ -52,7 +52,7 @@ class Summary:
 		# now = now.replace(microsecond=0)
 
 		try:
-			os.makedirs(os.path.dirname("package/data/{}/".format(now)))
+			os.makedirs(os.path.dirname("python_app/data/{}/".format(now)))
 		except OSError as exc:
 			if exc.errno != errno.EEXIST:
 				raise
@@ -62,7 +62,7 @@ class Summary:
 		jsonFILE = json.dumps(main, default=lambda o: o.__dict__, 
 			sort_keys=True, indent=4)
 		print("Writing JSON")
-		json_file = open('package/data/{}/summary.json'.format(now), 'w+')
+		json_file = open('python_app/data/{}/summary.json'.format(now), 'w+')
 		json_file.write(jsonFILE)
 		json_file.close()
 		print("JSON saved!")
@@ -70,16 +70,16 @@ class Summary:
 	def to_txt(self, now):
 
 		try:
-			os.makedirs(os.path.dirname("package/data/{}/articles/".format(now)))
+			os.makedirs(os.path.dirname("python_app/data/{}/articles/".format(now)))
 		except OSError as exc:
 			if exc.errno != errno.EEXIST:
 				raise
 
-		medicine_articles = open("package/data/{}/articles/medicine_articles.txt".format(now), "w+")
-		symptom_articles = open("package/data/{}/articles/symptom_articles.txt".format(now), "w+")
-		anatomy_articles = open("package/data/{}/articles/anatomy_articles.txt".format(now), "w+")
-		procedure_articles = open("package/data/{}/articles/procedure_articles.txt".format(now), "w+")
-		disease_articles = open("package/data/{}/articles/disease_articles.txt".format(now), "w+")
+		medicine_articles = open("python_app/data/{}/articles/medicine_articles.txt".format(now), "w+")
+		symptom_articles = open("python_app/data/{}/articles/symptom_articles.txt".format(now), "w+")
+		anatomy_articles = open("python_app/data/{}/articles/anatomy_articles.txt".format(now), "w+")
+		procedure_articles = open("python_app/data/{}/articles/procedure_articles.txt".format(now), "w+")
+		disease_articles = open("python_app/data/{}/articles/disease_articles.txt".format(now), "w+")
 
 		# all_list = [self._medicine_list, self._symptom_list, self._anatomy_list, self._procedure_list, self._disease_list]
 

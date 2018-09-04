@@ -1,5 +1,5 @@
 import unittest
-from package.classes.entity_class import Entity
+from python_app.classes.entity_class import Entity
 
 class TestEntity(unittest.TestCase):
 

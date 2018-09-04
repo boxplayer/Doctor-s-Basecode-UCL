@@ -1,5 +1,5 @@
 import unittest
-import package.apis.snomed_api as snomed_api
+import python_app.apis.snomed_api as snomed_api
 
 class TestSnomed(unittest.TestCase):
 

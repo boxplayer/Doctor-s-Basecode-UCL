@@ -1,5 +1,5 @@
 import unittest
-import package.apis.wikipedia_api as wikipedia_api
+import python_app.apis.wikipedia_api as wikipedia_api
 
 class TestWiki(unittest.TestCase):
 

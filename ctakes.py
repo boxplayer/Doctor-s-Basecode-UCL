@@ -23,16 +23,16 @@ from functools import partial
 import os
 import datetime
 
-import package.apis.snomed_api
-import package.apis.wikipedia_api
-import package.apis.entrez_api
-import package.apis.cloudconvert_api as cc
+import python_app.apis.snomed_api
+import python_app.apis.wikipedia_api
+import python_app.apis.entrez_api
+import python_app.apis.cloudconvert_api as cc
 
-from package.classes.entity_class import Entity
-from package.classes.summary_class import Summary
+from python_app.classes.entity_class import Entity
+from python_app.classes.summary_class import Summary
 
 from PyQt5.QtWidgets import (QFileDialog, QPushButton, QWidget, QApplication, QVBoxLayout, QLabel)
-from package.gui.gui import (Button, UploadWindow, DisplayWindow)
+from python_app.gui.gui import (Button, UploadWindow, DisplayWindow)
 
 
 
@@ -66,7 +66,7 @@ def main():
 	cc.main(ex.fname)
 
 	# open text to be parsed
-	input_file = open("package/converted.txt", "r")
+	input_file = open("python_app/converted.txt", "r")
 	input_file = input_file.read()
 	
 
@@ -98,7 +98,7 @@ def main():
 
 	# open new file in directory and save the data as json
 	print("Writing to JSON file....")
-	json_file = open('package/data/data.json', 'w')
+	json_file = open('python_app/data/data.json', 'w')
 	json_file.write(json.dumps(req_list))
 	json_file.close()
 	print("JSON file saved!")

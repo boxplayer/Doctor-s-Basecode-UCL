@@ -1,7 +1,7 @@
-from package.tests.test_entity_class import TestEntity
-from package.tests.test_summary_class import TestSummary
-from package.tests.test_wikipedia_api import TestWiki
-from package.tests.test_snomed_api import TestSnomed
+from python_app.tests.test_entity_class import TestEntity
+from python_app.tests.test_summary_class import TestSummary
+from python_app.tests.test_wikipedia_api import TestWiki
+from python_app.tests.test_snomed_api import TestSnomed
 import unittest
 
 
