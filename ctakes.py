@@ -32,7 +32,7 @@ from package.classes.entity_class import Entity
 from package.classes.summary_class import Summary
 
 from PyQt5.QtWidgets import (QFileDialog, QPushButton, QWidget, QApplication, QVBoxLayout, QLabel)
-from package.gui import (Button, UploadWindow, DisplayWindow)
+from package.gui.gui import (Button, UploadWindow, DisplayWindow)
 
 
 
@@ -66,7 +66,7 @@ def main():
 	cc.main(ex.fname)
 
 	# open text to be parsed
-	input_file = open("package/output.txt", "r")
+	input_file = open("package/converted.txt", "r")
 	input_file = input_file.read()
 	
 

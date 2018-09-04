@@ -1,0 +1,136 @@
+---PUBMED ARTICLES: Cholesterol 
+ 
+ --UID: 30173373 
+--Date: 2018 Sep 1 
+--Last Author: Ali AE 
+--Title: Potential therapeutic roles of 10-dehydrogingerdione and/or pentoxifylline against calcium deposition in aortic tissues of high dietary cholesterol-fed rabbits. 
+--UID: 30173287 
+--Date: 2018 Sep 1 
+--Last Author: Roberts M 
+--Title: The effects of Montmorency tart cherry juice supplementation and FATMAX exercise on fat oxidation rates and cardio-metabolic markers in healthy humans. 
+--UID: 30173219 
+--Date: 2018 Aug 31 
+--Last Author: Dolatkhah N 
+--Title: Maternal and Neonatal Metabolic Outcomes of Vitamin D Supplementation in Gestational Diabetes Mellitus: A Systematic Review and Meta-Analysis. 
+--UID: 30173157 
+--Date: 2018 Sep 
+--Last Author:  
+--Title: Withdrawal: Regulation of the human prostacyclin receptor gene by the cholesterol-responsive SREBP1. 
+--UID: 30173079 
+--Date: 2018 Aug 27 
+--Last Author: Schütz GJ 
+--Title: Direct observation of cargo transfer from HDL particles to the plasma membrane. 
+--UID: 30173046 
+--Date: 2018 Aug 25 
+--Last Author: Croce Nanni R 
+--Title: Normal cholesterol levels in the immediate postpartum period: A risk factor for depressive and anxiety symptoms? 
+--UID: 30172994 
+--Date: 2018 Jun 19 
+--Last Author: Henry CJ 
+--Title: Android fat as a determinant of metabolic syndrome: Sex differences. 
+--UID: 30172659 
+--Date: 2018 Aug 17 
+--Last Author: Garbis SD 
+--Title: Marine omega-3 fatty acid supplementation in non-alcoholic fatty liver disease: Plasma proteomics in the randomized WELCOME* trial. 
+--UID: 30172478 
+--Date: 2018 Jun 28 
+--Last Author: De Bacquer D 
+--Title: Cost-effectiveness of optimized adherence to prevention guidelines in European patients with coronary heart disease: Results from the EUROASPIRE IV survey. 
+--UID: 30172470 
+--Date: 2018 Jul 31 
+--Last Author: Kluzek S 
+--Title: Association of metabolic syndrome with knee and hand osteoarthritis: A community-based study of women. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Clotrimazole 
+ 
+ --UID: 30144857 
+--Date: 2018 Sep 
+--Last Author: Narasimhan SR 
+--Title: Prevention of Prematurity: Advances and Opportunities. 
+--UID: 30134530 
+--Date: 2018 Aug 21 
+--Last Author: Radini IAM 
+--Title: Design, Synthesis, and Antimicrobial Evaluation of Novel Pyrazoles and Pyrazolyl 1,3,4-Thiadiazine Derivatives. 
+--UID: 30130753 
+--Date: 2018 Aug 21 
+--Last Author: Boonme P 
+--Title: Antidermatophytic Activity and Skin Retention of Clotrimazole Microemulsion and Microemulsion-Based Gel in Comparison to Conventional Cream. 
+--UID: 30120865 
+--Date: 2018 Aug 18 
+--Last Author: Razonable R 
+--Title: Effects of Clotrimazole Troches on Tacrolimus Dosing in Heart Transplant Recipients. 
+--UID: 30092625 
+--Date: 2018 Sep 1 
+--Last Author: Kim SH 
+--Title: Imidazole Antifungal Drugs Inhibit the Cell Proliferation and Invasion of Human Breast Cancer Cells. 
+--UID: 30050821 
+--Date: 2018 Jul-Aug 
+--Last Author: Matthapan L 
+--Title: Efficacy and Safety of 1% Clotrimazole Cream Occlusion with the Mechanical Reduction as an Adjuvant Therapy for the Treatment of Onychomycosis. 
+--UID: 30044750 
+--Date: 2018 Jul 
+--Last Author: Koenig S 
+--Title: A 61-Year-Old Caribbean Man With Thrush and Acute Respiratory Failure. 
+--UID: 30000270 
+--Date: 2006 
+--Last Author:  
+--Title: Clotrimazole 
+--UID: 29991575 
+--Date: 2018 Sep 
+--Last Author: Scott EE 
+--Title: Comparison of Antifungal Azole Interactions with Adult Cytochrome P450 3A4 versus Neonatal Cytochrome P450 3A7. 
+--UID: 29974311 
+--Date: 2018 Jul 5 
+--Last Author: Manilal A 
+--Title: Effective synthesis of some novel pyrazolidine-3,5-dione derivatives via Mg(II) catalyzed in water medium and their anticancer and antimicrobial activities. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Calcium 
+ 
+ --UID: 30173392 
+--Date: 2018 Sep 1 
+--Last Author: Chorro FJ 
+--Title: Effects of the Inhibition of Late Sodium Current by GS967 on Stretch-Induced Changes in Cardiac Electrophysiology. 
+--UID: 30173373 
+--Date: 2018 Sep 1 
+--Last Author: Ali AE 
+--Title: Potential therapeutic roles of 10-dehydrogingerdione and/or pentoxifylline against calcium deposition in aortic tissues of high dietary cholesterol-fed rabbits. 
+--UID: 30173372 
+--Date: 2018 Sep 1 
+--Last Author: Liao Y 
+--Title: TDCPP protects cardiomyocytes from H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;-induced injuries via activating PI3K/Akt/GSK3β signaling pathway. 
+--UID: 30173101 
+--Date: 2018 Aug 22 
+--Last Author: Barbeau B 
+--Title: Performance of thin-film composite hollow fiber nanofiltration for the removal of dissolved Mn, Fe and NOM from domestic groundwater supplies. 
+--UID: 30173080 
+--Date: 2018 Aug 25 
+--Last Author: Koh KK 
+--Title: Inflammatory and metabolic mechanisms underlying the calcific aortic valve disease. 
+--UID: 30172945 
+--Date: 2018 Aug 24 
+--Last Author: Chung WY 
+--Title: Platycarya strobilacea leaf extract inhibits tumor necrosis factor-α production and bone loss induced by Porphyromonas gingivalis-derived lipopolysaccharide. 
+--UID: 30172819 
+--Date: 2018 Aug 30 
+--Last Author: Ouyang XK 
+--Title: Fabrication of magnetic carboxyl-functionalized attapulgite/calcium alginate beads for lead ion removal from aqueous solutions. 
+--UID: 30172747 
+--Date: 2018 Aug 30 
+--Last Author: Busanello ENB 
+--Title: Mitochondrial calcium transport and the redox nature of the calcium-induced membrane permeability transition. 
+--UID: 30172735 
+--Date: 2018 Aug 30 
+--Last Author: Albritton-Ford A 
+--Title: The influence of salinity and water chemistry on acute toxicity of cadmium to two euryhaline fish species. 
+--UID: 30172667 
+--Date: 2018 Aug 29 
+--Last Author: Geny B 
+--Title: N-Acetyl Cysteine Restores Limb Function, Improves Mitochondrial Respiration, and Reduces Oxidative Stress in a Murine Model of Critical Limb Ischaemia. 
+ 
+ 
+ 
+ 

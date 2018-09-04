@@ -15,4 +15,4 @@ def main(input_file):
 	})
 	process.wait() # wait until conversion finished
 	print("downloading converted file....")
-	process.download("package/output.{}".format(outputformat)) # download output file
+	process.download("package/converted.{}".format(outputformat)) # download output file
