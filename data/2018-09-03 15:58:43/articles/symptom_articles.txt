@@ -1,0 +1,690 @@
+---PUBMED ARTICLES: PMH - past medical history 
+ 
+  
+ 
+ 
+ ---PUBMED ARTICLES: Medical History 
+ 
+ --UID: 30173414 
+--Date: 2018 Sep 2 
+--Last Author: Zhong ZX 
+--Title: A comparative study of three different forecasting methods for trial of labor after cesarean section. 
+--UID: 30173237 
+--Date: 2018 Aug 
+--Last Author: Romus I 
+--Title: Autopsy findings of SUDEP in adolescence. 
+--UID: 30173150 
+--Date: 2018 Sep 1 
+--Last Author: Fevang BS 
+--Title: Incidence and Predictive Factors for Orthopedic Surgery in Patients with Psoriatic Arthritis. 
+--UID: 30173048 
+--Date: 2018 Aug 25 
+--Last Author: Neider M 
+--Title: PTSD symptoms and overt attention to contextualized emotional faces: Evidence from eye tracking. 
+--UID: 30173046 
+--Date: 2018 Aug 25 
+--Last Author: Croce Nanni R 
+--Title: Normal cholesterol levels in the immediate postpartum period: A risk factor for depressive and anxiety symptoms? 
+--UID: 30172997 
+--Date: 2018 Aug 27 
+--Last Author: Wei CC 
+--Title: Trend of subsequent epilepsy in children with recurrent febrile seizures: A retrospective matched cohort study. 
+--UID: 30172978 
+--Date: 2018 Aug 30 
+--Last Author: Tubbs RS 
+--Title: Dominique Jean Larrey (1766-1842) and his Contributions to Military Medicine and Early Neurosurgery. 
+--UID: 30172965 
+--Date: 2018 Aug 16 
+--Last Author: Kaiser S 
+--Title: Perceptions of medical futility in clinical practice - A qualitative systematic review. 
+--UID: 30172946 
+--Date: 2018 Aug 30 
+--Last Author: Vaccarino V 
+--Title: Posttraumatic Stress Disorder is Associated with Enhanced Interleukin-6 Response to Mental Stress in Subjects with a Recent Myocardial Infarction. 
+--UID: 30172912 
+--Date: 2018 Aug 30 
+--Last Author: Mackinnon AC 
+--Title: Tubulo-papillary adrenocortical adenoma in a patient with familial adenomatous polyposis: A morphologic, ultrastructural and molecular study. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Infarction 
+ 
+ --UID: 30173401 
+--Date: 2018 Sep 2 
+--Last Author: Rosenblatt-Velin N 
+--Title: New Insights into the Role of Exosomes in the Heart After Myocardial Infarction. 
+--UID: 30173377 
+--Date: 2018 Sep 1 
+--Last Author: Brunelli C 
+--Title: Anorexia nervosa and heart disease: a systematic review. 
+--UID: 30173368 
+--Date: 2018 Sep 1 
+--Last Author: Abe Y 
+--Title: Super-early images of brain perfusion SPECT using &lt;sup&gt;123&lt;/sup&gt;I-IMP for the assessment of hyperperfusion in stroke patients. 
+--UID: 30173313 
+--Date: 2018 Sep 1 
+--Last Author: Zhang H 
+--Title: Complement Complex C5b-9 Levels Are Associated with the Clinical Outcomes of Acute Ischemic Stroke and Carotid Plaque Stability. 
+--UID: 30173298 
+--Date: 2018 Sep 1 
+--Last Author: He Y 
+--Title: Clinical effects of acute kidney injury after transcatheter aortic valve implantation: a systematic review and meta-analysis. 
+--UID: 30172946 
+--Date: 2018 Aug 30 
+--Last Author: Vaccarino V 
+--Title: Posttraumatic Stress Disorder is Associated with Enhanced Interleukin-6 Response to Mental Stress in Subjects with a Recent Myocardial Infarction. 
+--UID: 30172797 
+--Date: 2018 Aug 23 
+--Last Author: Räber L 
+--Title: ST-Segment Elevation Myocardial Infarction Due to OCT-Detected Coronary Artery Compression Following Supravalvular Pulmonary Artery Patchplasty 18 Years After Switch Procedure. 
+--UID: 30172795 
+--Date: 2018 Aug 23 
+--Last Author: Ko YL 
+--Title: Acute Myocardial Infarction Due to Prolapse of Covered Stent Into Coronary Artery Aneurysm. 
+--UID: 30172676 
+--Date: 2018 Jun 28 
+--Last Author: Yin H 
+--Title: Delirium in the Acute Phase of Ischemic Stroke: Incidence, Risk Factors, and Effects on Functional Outcome. 
+--UID: 30172578 
+--Date: 2018 Aug 22 
+--Last Author: Désaubry L 
+--Title: The role of GPCR signaling in cardiac Epithelial to Mesenchymal Transformation (EMT). 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: calcium channel activity 
+ 
+ --UID: 30169554 
+--Date: 2018 Aug 28 
+--Last Author: Antic SD 
+--Title: Mechanisms of Spontaneous Electrical Activity in the Developing Cerebral Cortex-Mouse Subplate Zone. 
+--UID: 30169422 
+--Date: 2018 Aug 28 
+--Last Author: Khanna R 
+--Title: Betulinic acid, derived from the desert lavender Hyptis emoryi, attenuates paclitaxel-, HIV-, and nerve injury-associated peripheral sensory neuropathy via block of N- and T-type calcium channels. 
+--UID: 30168855 
+--Date: 2018 Aug 31 
+--Last Author: Colwell CS 
+--Title: Pathophysiology in the suprachiasmatic nucleus in mouse models of Huntington's disease. 
+--UID: 30166973 
+--Date: 2018 
+--Last Author: Heijman J 
+--Title: The Subcellular Distribution of Ryanodine Receptors and L-Type Ca&lt;sup&gt;2+&lt;/sup&gt; Channels Modulates Ca&lt;sup&gt;2+&lt;/sup&gt;-Transient Properties and Spontaneous Ca&lt;sup&gt;2+&lt;/sup&gt;-Release Events in Atrial Cardiomyocytes. 
+--UID: 30161182 
+--Date: 2018 
+--Last Author: Calo' G 
+--Title: NOP receptor pharmacological profile - A dynamic mass redistribution study. 
+--UID: 30158242 
+--Date: 2018 Aug 29 
+--Last Author: Pierce JT 
+--Title: A novel peptide restricts ethanol modulation of the BK channel &lt;i&gt;in vitro&lt;/i&gt; and &lt;i&gt;in vivo&lt;/i&gt;. 
+--UID: 30156115 
+--Date: 2018 Aug 29 
+--Last Author: Pavenstadt HJ 
+--Title: Nephron-specific knockout of TMEM16A leads to reduced number of glomeruli and albuminuria. 
+--UID: 30155840 
+--Date: 2018 Aug 29 
+--Last Author: Yu BP 
+--Title: Colonic Hypermotility in a Rat Model of Irritable Bowel Syndrome Is Associated with Upregulation of TMEM16A in Myenteric Plexus. 
+--UID: 30154243 
+--Date: 2018 Aug 28 
+--Last Author: Amberg GC 
+--Title: Subplasmalemmal hydrogen peroxide triggers calcium influx in gonadotropes. 
+--UID: 30154101 
+--Date: 2018 Aug 28 
+--Last Author: Todorovic SM 
+--Title: Selective inhibition of Ca&lt;sub&gt;V&lt;/sub&gt;3.2 channels reverses hyperexcitability of peripheral nociceptors and alleviates postsurgical pain. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Obstruction 
+ 
+ --UID: 30173263 
+--Date: 2018 
+--Last Author: Dobru ED 
+--Title: Vanek's tumor: a rare cause of gastric outlet obstruction. Case report and literature review. 
+--UID: 30172665 
+--Date: 2018 Aug 29 
+--Last Author: de Graaf R 
+--Title: Illusory Angiographic Signs of Significant Iliac Vein Compression in Healthy Volunteers. 
+--UID: 30172353 
+--Date: 2018 Aug 29 
+--Last Author: Alouini R 
+--Title: [Contribution of pulmonary CT angiography in assessing the severity of acute pulmonary embolism]. 
+--UID: 30172052 
+--Date: 2018 Aug 19 
+--Last Author: Tanabe K 
+--Title: Living-related kidney transplantation with catheterizable urinary conduit in prune belly syndrome: A case report. 
+--UID: 30171749 
+--Date: 2018 Sep 1 
+--Last Author: Fearnhead NS 
+--Title: Optimising collaborator recruitment and maintaining engagement via social media during large multi-centre studies: lessons learned from the National Audit of Small Bowel Obstruction (NASBO). 
+--UID: 30171397 
+--Date: 2018 Aug 31 
+--Last Author: Yoshida H 
+--Title: Colonic stent-induced mechanical compression may suppress cancer cell proliferation in malignant large bowel obstruction. 
+--UID: 30170933 
+--Date: 2018 Aug 18 
+--Last Author: Delahanty LF 
+--Title: Peripheral neuropathic mimics of visceral abdominal pain: Can physical examination limit diagnostic testing? 
+--UID: 30170833 
+--Date: 2018 Aug 28 
+--Last Author: Contoli M 
+--Title: Is Peripheral Oxygen Saturation a Reliable Predictor of Upper Airways Air-Flow Limitation? 
+--UID: 30170804 
+--Date: 2018 Sep 
+--Last Author: Keogh KA 
+--Title: Severe/uncontrolled asthma and overall survival in atopic patients with eosinophilic granulomatosis with polyangiitis. 
+--UID: 30170799 
+--Date: 2018 Sep 
+--Last Author: Polivka BJ 
+--Title: Predicting asthma in older adults on the basis of clinical history. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Thinking, function 
+ 
+ --UID: 30173187 
+--Date: 2018 Sep 
+--Last Author: Fontana M 
+--Title: Longitudinal Assessment of Critical Thinking Skills Across a Dental Curriculum. 
+--UID: 30173186 
+--Date: 2018 Sep 
+--Last Author: Hendricson WD 
+--Title: Critical Thinking in Dental Students and Experienced Practitioners Assessed by the Health Sciences Reasoning Test. 
+--UID: 30173044 
+--Date: 2018 Aug 13 
+--Last Author: Miller JM 
+--Title: Neurocognitive performance predicts treatment outcome with cognitive behavioral therapy for major depressive disorder. 
+--UID: 30171684 
+--Date: 2018 Sep 1 
+--Last Author: Sidlow R 
+--Title: Diagnostic heuristics in dermatology, Part 2: Metacognition and other fixes. 
+--UID: 30166943 
+--Date: 2018 
+--Last Author: Gulati S 
+--Title: Transforming primary care: scoping review of research and practice. 
+--UID: 30166709 
+--Date: 2018 
+--Last Author: Grum C 
+--Title: THE ELECTRONIC HEALTH RECORD AND DEVELOPMENT OF MEDICAL STUDENTS' MENTAL PATIENT MODELS. 
+--UID: 30166683 
+--Date: 2018 Apr-Jun 
+--Last Author: Rautela U 
+--Title: Indianizing psychiatry - A critique. 
+--UID: 30166422 
+--Date: 2018 Aug 30 
+--Last Author: Wang D 
+--Title: The effect of acute morphine on obstructive sleep apnoea: a randomised double-blind placebo-controlled crossover trial. 
+--UID: 30165785 
+--Date: 2018 Aug 30 
+--Last Author: Skowronski JJ 
+--Title: Thinking About a Past Group Inclusion Experience or a Past Group Exclusion Experience Affects Memory Task Performance. 
+--UID: 30160870 
+--Date: 2018 Aug 
+--Last Author: Calam R 
+--Title:  
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Spasm 
+ 
+ --UID: 30172017 
+--Date: 2018 Aug 29 
+--Last Author: Benor S 
+--Title: Mepolizumab for the Treatment of Aspirin Exacerbated Respiratory Disease Associated with Coronary Spasm. 
+--UID: 30171078 
+--Date: 2018 Aug 31 
+--Last Author: Møller RS 
+--Title: The phenotype of &lt;i&gt;SCN8A&lt;/i&gt; developmental and epileptic encephalopathy. 
+--UID: 30161246 
+--Date: 2018 
+--Last Author: Zhang X 
+--Title: Perioperative diltiazem or nitroglycerin in on-pump coronary artery bypass: A systematic review and network meta-analysis. 
+--UID: 30158323 
+--Date: 2018 Sep 
+--Last Author: Inoue N 
+--Title: Transradial Intervention in Patients With Non-ST Elevation Acute Coronary Syndrome Using One 4.0 Fr Sheath and One Sheathless Guide Catheter Via a Single Puncture Site: The 1-1-1 Strategy. 
+--UID: 30157786 
+--Date: 2018 Aug 29 
+--Last Author: Shen Y 
+--Title: Eye damage due to cosmetic ultrasound treatment: a case report. 
+--UID: 30151201 
+--Date: 2018 Aug 
+--Last Author: Thota PN 
+--Title: Gender, medication use and other factors associated with esophageal motility disorders in non-obstructive dysphagia. 
+--UID: 30146803 
+--Date: 2018 Sep 
+--Last Author: Song JK 
+--Title: Coronary Artery Vasospasm. 
+--UID: 30146581 
+--Date: 2018 Aug 24 
+--Last Author: Ito M 
+--Title: Multiple Life-threatening Coronary Artery Spasms after Percutaneous Coronary Intervention for Acute Coronary Syndrome. 
+--UID: 30144608 
+--Date: 2018 Aug 22 
+--Last Author: Niu C 
+--Title: Microvascular Decompression for Hemifacial Spasm Associated with Vertebral Artery: a Biomedical Glue Coated Teflon Sling Transposition Technique. 
+--UID: 30142812 
+--Date: 2018 Aug 
+--Last Author: Gallagher J 
+--Title: Anterior and posterior diaphragm kinesio taping for intractable hiccups after ischemic stroke: A case report. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Stress 
+ 
+ --UID: 30173462 
+--Date: 2018 Jun 
+--Last Author: Liu ZW 
+--Title: [Effect of Erxian Decoction on cyclophosphamide-induced oligospermia in mice]. 
+--UID: 30173453 
+--Date: 2018 Jun 
+--Last Author: Liu J 
+--Title: [Resveratrol protects human sperm against cryopreservation-induced injury]. 
+--UID: 30173440 
+--Date: 2018 Jul 
+--Last Author: Duan P 
+--Title: [Antagonistic effect of vitamin E on di-2-ethylhexyl phthalate-induced reproductive toxicity in male rats]. 
+--UID: 30173408 
+--Date: 2018 Sep 1 
+--Last Author: Sánchez-Alcázar JA 
+--Title: Pantothenate Rescues Iron Accumulation in Pantothenate Kinase-Associated Neurodegeneration Depending on the Type of Mutation. 
+--UID: 30173406 
+--Date: 2018 Sep 1 
+--Last Author: Braun K 
+--Title: Early-Life Adversity Induces Epigenetically Regulated Changes in Hippocampal Dopaminergic Molecular Pathways. 
+--UID: 30173389 
+--Date: 2018 Sep 1 
+--Last Author: Saičić ZS 
+--Title: Prooxidant effects of chronic exposure to deltamethrin in green toad Bufotes viridis. 
+--UID: 30173378 
+--Date: 2018 Sep 1 
+--Last Author: de Kloet ER 
+--Title: Resetting the Stress System with a Mifepristone Challenge. 
+--UID: 30173372 
+--Date: 2018 Sep 1 
+--Last Author: Liao Y 
+--Title: TDCPP protects cardiomyocytes from H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;-induced injuries via activating PI3K/Akt/GSK3β signaling pathway. 
+--UID: 30173360 
+--Date: 2018 Sep 1 
+--Last Author: Segat D 
+--Title: Growth rate and myofibroblast differentiation of desmoid fibroblast-like cells are modulated by TGF-β signaling. 
+--UID: 30173356 
+--Date: 2018 Sep 1 
+--Last Author: Qiao GF 
+--Title: Anti-Hypertensive Action of Fenofibrate via UCP2 Upregulation Mediated by PPAR Activation in Baroreflex Afferent Pathway. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Chest Pain 
+ 
+ --UID: 30169645 
+--Date: 2018 Aug 30 
+--Last Author: Low DE 
+--Title: The 2018 ISDE achalasia guidelines. 
+--UID: 30169476 
+--Date: 2018 Aug 30 
+--Last Author: Elkassabany N 
+--Title: Rhomboid Intercostal and Subserratus Plane Block: A Cadaveric and Clinical Evaluation. 
+--UID: 30168458 
+--Date: 2018 Sep-Oct 
+--Last Author: Joshi JM 
+--Title: Use of pigtail catheter and urosac: Numero uno for ambulatory chest drainage! 
+--UID: 30168355 
+--Date: 2018 Jan-Dec 
+--Last Author: MacLaughlin K 
+--Title: Pulmonary Embolism While on Aspirin for Venous Thromboembolism Prophylaxis After Total Knee Arthroplasty. 
+--UID: 30167747 
+--Date: 2018 Aug 27 
+--Last Author: Pei Q 
+--Title: Prenatal Ultrasonic Diagnosis and Prognostic Analysis of Isolated Left Subclavian Artery (ILSCA) and Left Brachiocephalic Trunk (ILBCT) Malformation. 
+--UID: 30167630 
+--Date: 2018 Aug 29 
+--Last Author: Wilcox JE 
+--Title: Myocarditis in Duchenne Muscular Dystrophy After Changing Steroids. 
+--UID: 30167000 
+--Date: 2018 
+--Last Author: Singh S 
+--Title: ST segment elevation myocardial infarction with normal coronary arteries. 
+--UID: 30166885 
+--Date: 2018 Jun 
+--Last Author: Baraka M 
+--Title: Myocardial performance index as an echocardiographic predictor of early in-hospital heart failure during first acute anterior ST-elevation myocardial infarction. 
+--UID: 30165709 
+--Date: 2018 Aug 30 
+--Last Author: Wang J 
+--Title: Video-Assisted Thoracoscopic Surgery for Pulmonary Sequestrations: Series of 35 Consecutive Patients in a Single Center. 
+--UID: 30165613 
+--Date: 2018 Aug 25 
+--Last Author: Patel MR 
+--Title: Real-world clinical utility and impact on clinical decision-making of coronary computed tomography angiography-derived fractional flow reserve: lessons from the ADVANCE Registry. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Pain 
+ 
+ --UID: 30173459 
+--Date: 2018 Jun 
+--Last Author: Zhang XS 
+--Title: [Focused low-intensity extracorporeal shock wave therapy for erectile dysfunction: Preliminary observation of 32 cases]. 
+--UID: 30173458 
+--Date: 2018 Jun 
+--Last Author: An F 
+--Title: [F4.8 visual miniature nephroscope for the diagnosis and treatment of hematospermia]. 
+--UID: 30173415 
+--Date: 2018 Sep 2 
+--Last Author: Pinczewski LA 
+--Title: Inpatient rehabilitation did not positively affect 6-month patient-reported outcomes after hip or knee arthroplasty. 
+--UID: 30173369 
+--Date: 2018 Sep 1 
+--Last Author: Rasmussen CDN 
+--Title: Mechanisms for reducing low back pain: a mediation analysis of a multifaceted intervention in workers in elderly care. 
+--UID: 30173355 
+--Date: 2018 Sep 1 
+--Last Author: Nakano H 
+--Title: Chemical synthesis of 4-azido-β-galactosamine derivatives for inhibitors of N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase. 
+--UID: 30173337 
+--Date: 2018 Sep 1 
+--Last Author: Ben Simon GJ 
+--Title: Therapeutic contact lenses vs. tight bandage patching and pain following pterygium excision: a prospective randomized controlled study. 
+--UID: 30173321 
+--Date: 2018 Sep 1 
+--Last Author: Thomson M 
+--Title: Pediatric Endoscopic Procedure Complications. 
+--UID: 30173291 
+--Date: 2018 Sep 1 
+--Last Author: Khan IZ 
+--Title: Laparoscopic-assisted transversus abdominis plane block as an effective analgesic in total extraperitoneal inguinal hernia repair: a double-blind, randomized controlled trial. 
+--UID: 30173263 
+--Date: 2018 
+--Last Author: Dobru ED 
+--Title: Vanek's tumor: a rare cause of gastric outlet obstruction. Case report and literature review. 
+--UID: 30173262 
+--Date: 2018 
+--Last Author: Cozma RS 
+--Title: Cavernous liver hemangioma complicated with spontaneous intratumoral hemorrhage: a case report and literature review. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Dyspnea 
+ 
+ --UID: 30173269 
+--Date: 2018 
+--Last Author: Poenaru M 
+--Title: Tracheal enlargement or Mounier-Kuhn syndrome in giant cell arteritis: a possible causal association with therapeutic implications. 
+--UID: 30173131 
+--Date: 2018 Sep 1 
+--Last Author: Adhikari S 
+--Title: Mitotane-induced dyspnoea: an unusual side effect. 
+--UID: 30172785 
+--Date: 2018 Aug 30 
+--Last Author: von Leupoldt A 
+--Title: The impairing effect of dyspnea on response inhibition. 
+--UID: 30172475 
+--Date: 2018 Aug 15 
+--Last Author: Huang K 
+--Title: Clinical and imaging manifestations of Takayasu's arteritis with pulmonary hypertension: A retrospective cohort study in China. 
+--UID: 30172362 
+--Date: 2018 Aug 3 
+--Last Author: Patel CB 
+--Title: Relation of Volume Overload to Clinical Outcomes in Acute Heart Failure (From ASCEND-HF). 
+--UID: 30171472 
+--Date: 2018 Sep 1 
+--Last Author: Nelson MD 
+--Title: Diastolic Stress Testing Along the Heart Failure Continuum. 
+--UID: 30170833 
+--Date: 2018 Aug 28 
+--Last Author: Contoli M 
+--Title: Is Peripheral Oxygen Saturation a Reliable Predictor of Upper Airways Air-Flow Limitation? 
+--UID: 30170808 
+--Date: 2018 Sep 
+--Last Author: Celli BR 
+--Title: Supplementation with Qter&lt;sup&gt;®&lt;/sup&gt; and Creatine improves functional performance in COPD patients on long term oxygen therapy. 
+--UID: 30169464 
+--Date: 2018 Aug 30 
+--Last Author: Kelly AM 
+--Title: Epidemiology of patients presenting with dyspnea to emergency departments in Europe and the Asia-Pacific region. 
+--UID: 30168454 
+--Date: 2018 Sep-Oct 
+--Last Author: Pirompanich P 
+--Title: Incidence of chronic thromboembolic pulmonary hypertension in Thammasat University Hospital. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Ulcer 
+ 
+ --UID: 30171767 
+--Date: 2018 Sep 1 
+--Last Author: Riley RD 
+--Title: Protease activity as a prognostic factor for wound healing in venous leg ulcers. 
+--UID: 30171487 
+--Date: 2018 Aug 31 
+--Last Author: Kodama Y 
+--Title: Successful treatment of an esophageal perforation that occurred during endoscopic submucosal dissection for esophageal cancer using polyglycolic acid sheets and fibrin glue. 
+--UID: 30171278 
+--Date: 2018 Aug 31 
+--Last Author: Leese GP 
+--Title: Amputation-free survival in 17,353 people at high risk for foot ulceration in diabetes: a national observational study. 
+--UID: 30171196 
+--Date: 2018 Aug 31 
+--Last Author: De Luca F 
+--Title: Correction: Genetic and clinical aspects of Wolfram syndrome 1, a severe neurodegenerative disease. 
+--UID: 30170913 
+--Date: 2018 Aug 28 
+--Last Author: Rosen CA 
+--Title: Characteristics and Voice Outcomes of Ulcerative Laryngitis. 
+--UID: 30169983 
+--Date: 2018 Aug 31 
+--Last Author: Kim N 
+--Title: Prevalence and risk factors for upper gastrointestinal diseases in health check-up subjects: a nationwide multicenter study in Korea. 
+--UID: 30168876 
+--Date: 2018 Aug 31 
+--Last Author: Yeboah-Manu D 
+--Title: Challenges associated with the treatment of Buruli ulcer. 
+--UID: 30168518 
+--Date: 2018 
+--Last Author: Zaytseva TN 
+--Title: [The role and significance of the physical factors in the treatment and prevention of erosive-ulcerative lesions of the stomach and duodenum]. 
+--UID: 30168426 
+--Date: 2018 Nov 
+--Last Author: Mohammadianinejad SE 
+--Title: Risk factors associated with diabetic foot ulcer-free survival in patients with diabetes. 
+--UID: 30167955 
+--Date: 2018 Aug 30 
+--Last Author: Park CH 
+--Title: Comparative efficacy of various anti-ulcer medications after gastric endoscopic submucosal dissection: a systematic review and network meta-analysis. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Symptoms 
+ 
+ --UID: 30173458 
+--Date: 2018 Jun 
+--Last Author: An F 
+--Title: [F4.8 visual miniature nephroscope for the diagnosis and treatment of hematospermia]. 
+--UID: 30173457 
+--Date: 2018 Jun 
+--Last Author: Xie JX 
+--Title: [Penile erectile strength measurement band for differentiation and classification of erectile dysfunction]. 
+--UID: 30173446 
+--Date: 2018 Jul 
+--Last Author: Zhang CH 
+--Title: [Cell suspension examination versus histopathological technique in detecting sperm in the testis tissue of non-obstructive azoospermia patients undergoing testicular sperm aspiration]. 
+--UID: 30173442 
+--Date: 2018 Jul 
+--Last Author: Li CL 
+--Title: [Correlation of 41 loci of single nucleotide polymorphisms with testicular germ cell tumor]. 
+--UID: 30173437 
+--Date: 2018 Aug 
+--Last Author: Zhang SX 
+--Title: [Diagnosis and treatment of idiopathic hypogonadotropic hypogonadism in males]. 
+--UID: 30173435 
+--Date: 2018 Aug 
+--Last Author: Zhang YX 
+--Title: [Long non-coding RNAs in prostate cancer: An update]. 
+--UID: 30173434 
+--Date: 2018 Aug 
+--Last Author: Luo SY 
+--Title: [Efficacy of Kangshuailing Gao on benign prostatic hyperplasia in rats]. 
+--UID: 30173432 
+--Date: 2018 Aug 
+--Last Author: Cui YH 
+--Title: [Correlation between the genotypes and clinical symptoms of human papilloma virus in male outpatients at STD clinics]. 
+--UID: 30173425 
+--Date: 2018 Aug 
+--Last Author: Liao R 
+--Title: [Distribution of ejaculatory duct openings and the method of entering the vesiculoscope into the seminal vesicle]. 
+--UID: 30173423 
+--Date: 2018 Aug 
+--Last Author: Hu HB 
+--Title: [Considerations on priapism]. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Hemorrhage 
+ 
+ --UID: 30173338 
+--Date: 2018 Sep 1 
+--Last Author: Kadonosono K 
+--Title: Variable response of subretinal hyperreflective material to anti-vascular endothelial growth factor classified with optical coherence tomography angiography. 
+--UID: 30173334 
+--Date: 2018 Sep 1 
+--Last Author: Barth EJ 
+--Title: MR-conditional steerable needle robot for intracerebral hemorrhage removal. 
+--UID: 30173288 
+--Date: 2018 Sep 1 
+--Last Author: Anand A 
+--Title: Immunosuppressive therapy for aplastic anemia: a single-center experience from western India. 
+--UID: 30173270 
+--Date: 2018 
+--Last Author: Creţu OM 
+--Title: Left internal carotid artery agenesis associated with communicating arteries anomalies. A case report. 
+--UID: 30173262 
+--Date: 2018 
+--Last Author: Cozma RS 
+--Title: Cavernous liver hemangioma complicated with spontaneous intratumoral hemorrhage: a case report and literature review. 
+--UID: 30173174 
+--Date: 2018 Sep 
+--Last Author: Macey PM 
+--Title: Cerebral Autoregulation in Neonates With and Without Congenital Heart Disease. 
+--UID: 30172977 
+--Date: 2018 Aug 30 
+--Last Author: Shao-Hua L 
+--Title: Excessive hemostasis on scalp increases superficial surgical site infection rate in cranioplasty. 
+--UID: 30172677 
+--Date: 2018 Aug 30 
+--Last Author: Faine BA 
+--Title: Interhospital Transfer Delays Anticoagulation Reversal in Warfarin-Associated Intracranial Hemorrhage. 
+--UID: 30172662 
+--Date: 2018 Aug 29 
+--Last Author: Silber A 
+--Title: A Standardized Oxytocin Administration Protocol After Delivery to Reduce the Treatment of Postpartum Hemorrhage. 
+--UID: 30172088 
+--Date: 2018 Aug 23 
+--Last Author: Jahangiri M 
+--Title: Decompressive hemicraniectomy without clot evacuation in supratentorial deep-seated intracerebral hemorrhage. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Wound Healing 
+ 
+ --UID: 30173257 
+--Date: 2018 
+--Last Author: Andronescu E 
+--Title: Manufacturing nanostructured chitosan-based 2D sheets with prolonged antimicrobial activity. 
+--UID: 30172977 
+--Date: 2018 Aug 30 
+--Last Author: Shao-Hua L 
+--Title: Excessive hemostasis on scalp increases superficial surgical site infection rate in cranioplasty. 
+--UID: 30172924 
+--Date: 2018 Aug 30 
+--Last Author: Zeugolis DI 
+--Title: Current and upcoming therapies to modulate skin scarring and fibrosis. 
+--UID: 30172901 
+--Date: 2018 Aug 30 
+--Last Author: de Melo-Cavalcante AAC 
+--Title: Mutagenic, antioxidant and wound healing properties of Aloe vera. 
+--UID: 30172618 
+--Date: 2018 Aug 29 
+--Last Author: Perera DL 
+--Title: Use of Ayurveda and Sri Lankan traditional medicine for healing shaft of humerus fracture following nonunion. 
+--UID: 30172245 
+--Date: 2018 Aug 22 
+--Last Author: Kozai TD 
+--Title: The role of oligodendrocytes and their progenitors on neural interface technology: A novel perspective on tissue regeneration and repair. 
+--UID: 30172244 
+--Date: 2018 Aug 24 
+--Last Author: Guo B 
+--Title: Antibacterial adhesive injectable hydrogels with rapid self-healing, extensibility and compressibility as wound dressing for joints skin wound healing. 
+--UID: 30172204 
+--Date: 2018 Aug 18 
+--Last Author: Ciardelli G 
+--Title: Nanostructured scaffold with biomimetic and antibacterial properties for wound healing produced by 'green electrospinning'. 
+--UID: 30172200 
+--Date: 2018 Aug 20 
+--Last Author: Kang HW 
+--Title: Astaxanthin-alpha tocopherol nanoemulsion formulation by emulsification methods: Investigation on anticancer, wound healing, and antibacterial effects. 
+--UID: 30172114 
+--Date: 2018 Aug 29 
+--Last Author: Fukumoto Y 
+--Title: Hybrid training system-induced myokine secretion in healthy men. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Pain in buttock 
+ 
+ --UID: 30144827 
+--Date: 2018 Aug 26 
+--Last Author: Chong SJ 
+--Title: Biobrane™ for burns of the pubic region: minimizing dressing changes. 
+--UID: 30137781 
+--Date: 2018 Jan 
+--Last Author: Bhimji SS 
+--Title: Anatomy, Pelvis, Muscles, Piriformis 
+--UID: 30124538 
+--Date: 2018 Aug 17 
+--Last Author: Lioté F 
+--Title: Osteopenia and fractures associated with long-term therapy with MEK inhibitors. 
+--UID: 30095627 
+--Date: 2018 Aug 
+--Last Author: Salah ZB 
+--Title: Postpartum sacral stress fracture associated with mechanical sacroiliac joint disease: A case report. 
+--UID: 30092470 
+--Date: 2018 Aug 6 
+--Last Author: Oh SH 
+--Title: Transforaminal endoscopic excision of intradural lumbar disc herniation and dural repair: A case report. 
+--UID: 30064333 
+--Date: 2018 Aug 
+--Last Author: Peyton C 
+--Title: Delayed Infection in a Patient After Total Hip Arthroplasty. 
+--UID: 30013870 
+--Date: 2018 May 10 
+--Last Author: Siddiq MAB 
+--Title: Piriformis Syndrome and Wallet Neuritis: Are They the Same? 
+--UID: 29999145 
+--Date: 2018 Jun 
+--Last Author: Kramer H D 
+--Title: [Onychomadesis secondary to hand-foot-mouth disease: a frequent manifestation and cause of concern for parents]. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Chief complaint (finding) 
+ 
+ --UID: 30010472 
+--Date: 2018 Jul 16 
+--Last Author: Grafstein E 
+--Title: Sex Differences in Cardiac Troponin Testing in Patients Presenting to the Emergency Department with Chest Pain. 
+--UID: 29991348 
+--Date: 2018 Jul 11 
+--Last Author: Pineda A 
+--Title: Walking hyponatremia syndrome of inappropriate antidiuretic hormone secretion secondary to carbamazepine use: a case report. 
+--UID: 29980486 
+--Date: 2018 Jul 2 
+--Last Author: Liu KT 
+--Title: Spontaneous pneumocephalus and subdural hemorrhage after sneezing. 
+ 
+ 
+ 
+ 

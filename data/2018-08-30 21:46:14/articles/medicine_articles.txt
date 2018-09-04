@@ -1,0 +1,91 @@
+---PUBMED ARTICLES: Methamphetamine 
+ 
+ --UID: 30156433 
+--Date: 2018 Aug 29 
+--Last Author: McPherson SM 
+--Title: Contingency management intervention targeting co-addiction of alcohol and drugs among American Indian adults: Design, methodology, and baseline data. 
+--UID: 30154290 
+--Date: 2018 Jan 28 
+--Last Author: Kou Z 
+--Title: [Change of brain structure imaging of long-term withdrawal of methamphetamine-dependent patients]. 
+--UID: 30153607 
+--Date: 2018 Aug 22 
+--Last Author: Dietze P 
+--Title: Analysis of time of drug use according to needle and syringe program operating hours in Melbourne, Australia: Effects on individual-level needle and syringe coverage. 
+--UID: 30151340 
+--Date: 2018 Aug 10 
+--Last Author: Mandyam CD 
+--Title: The role of hippocampal adult neurogenesis in methamphetamine addiction. 
+--UID: 30150782 
+--Date: 2018 Aug 27 
+--Last Author: Harvey BH 
+--Title: Efavirenz exposure, alone and in combination with known drugs of abuse, engenders addictive-like bio-behavioural changes in rats. 
+--UID: 30148668 
+--Date: 2018 Aug 
+--Last Author: Fletcher JB 
+--Title: Elevated HIV and STI Prevalence and Incidence Among Methamphetamine-Using Men Who Have Sex With Men in Los Angeles County. 
+--UID: 30147655 
+--Date: 2018 
+--Last Author: Nitsche MA 
+--Title: Optimizing Electrode Montages of Transcranial Direct Current Stimulation for Attentional Bias Modification in Early Abstinent Methamphetamine Users. 
+--UID: 30146447 
+--Date: 2018 Aug 23 
+--Last Author: Musi M 
+--Title: Subarachnoid Mirage: A Case of Pseudosubarachnoid Hemorrhage. 
+--UID: 30143926 
+--Date: 2018 Aug 24 
+--Last Author: Zhao M 
+--Title: Variants in GABBR1 Gene Are Associated with Methamphetamine Dependence and Two Years' Relapse after Drug Rehabilitation. 
+--UID: 30143224 
+--Date: 2018 Nov 22 
+--Last Author: Luan T 
+--Title: Rapid and on-site analysis of amphetamine-type illicit drugs in whole blood and raw urine by slug-flow microextraction coupled with paper spray mass spectrometry. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Alcohols 
+ 
+ --UID: 30156850 
+--Date: 2018 Aug 29 
+--Last Author: Zhang Q 
+--Title: Copper-Catalyzed Cascade Aminoalkynylation-Oxidation of Propargylic Alcohols: Stereospecific Synthesis of ( Z)-2-Amino Conjugated Enynals/Enynones. 
+--UID: 30156404 
+--Date: 2018 Aug 29 
+--Last Author: Nagib DA 
+--Title: Catalytic Alkene Difunctionalization via Imidate Radicals. 
+--UID: 30155221 
+--Date: 2017 Jul 1 
+--Last Author: Lloret-Fillol J 
+--Title: Dual cobalt-copper light-driven catalytic reduction of aldehydes and aromatic ketones in aqueous media. 
+--UID: 30152147 
+--Date: 2018 Aug 27 
+--Last Author: Natalini B 
+--Title: Last ten years (2008-2018) of chiral ligand-exchange chromatography in HPLC: An updated review. 
+--UID: 30150797 
+--Date: 2018 Sep 
+--Last Author: Zhao S 
+--Title: Effects of drying methods on the nutritional aspects, flavor, and processing properties of Chinese chestnuts. 
+--UID: 30150578 
+--Date: 2018 Aug 27 
+--Last Author: Nuevo M 
+--Title: Monosaccharides and Their Derivatives in Carbonaceous Meteorites: A Scenario for Their Synthesis and Onset of Enantiomeric Excesses. 
+--UID: 30148643 
+--Date: 2018 Aug 27 
+--Last Author: Taylor MS 
+--Title: Borinic Acid-Catalyzed, Regioselective Ring Opening of 3,4-Epoxy Alcohols. 
+--UID: 30148602 
+--Date: 2018 Aug 27 
+--Last Author: Barbe JC 
+--Title: Static Headspace Analysis Using Low-Pressure Gas Chromatography and Mass Spectrometry, Application to Determining Multiple Partition Coefficients: A Practical Tool for Understanding Red Wine Fruity Volatile Perception and the Sensory Impact of Higher Alcohols. 
+--UID: 30148367 
+--Date: 2018 Aug 27 
+--Last Author: Ragains JR 
+--Title: Acid-Catalyzed O-Glycosylation with Stable Thioglycoside Donors. 
+--UID: 30148366 
+--Date: 2018 Aug 27 
+--Last Author: Ukaji Y 
+--Title: Low-Valent Titanium-Mediated Radical Conjugate Addition Using Benzyl Alcohols as Benzyl Radical Sources. 
+ 
+ 
+ 
+ 

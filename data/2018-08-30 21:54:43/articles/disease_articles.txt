@@ -1,0 +1,502 @@
+---PUBMED ARTICLES: Abuse 
+ 
+ --UID: 30157412 
+--Date: 2018 Aug 3 
+--Last Author: Farrell M 
+--Title: The challenges in providing safe, effective, affordable cannabis-based medicines for unapproved indications. 
+--UID: 30157172 
+--Date: 2018 Aug 29 
+--Last Author: Hejtmancik JF 
+--Title: Mutation in the intracellular chloride channel CLCC1 associated with autosomal recessive retinitis pigmentosa. 
+--UID: 30157097 
+--Date: 2018 Aug 27 
+--Last Author: Øiestad ÅML 
+--Title: Addressing the Fentanyl Analog Epidemic by Multiplex UHPLC-MS/MS Analysis of Whole Blood. 
+--UID: 30156951 
+--Date: 2018 Aug 27 
+--Last Author: Lamers-Winkelman F 
+--Title: Talking About Feelings: Mother-Child Emotion Dialogues Among Sexually Abused Children. 
+--UID: 30156943 
+--Date: 2018 Aug 27 
+--Last Author: Wilson NL 
+--Title: Violence Against Female Adolescents in Low- and Middle-Income Countries: Evidence From 36 National Household Surveys. 
+--UID: 30156648 
+--Date: 2018 Aug 23 
+--Last Author: Souza LDM 
+--Title: Suicide risk and childhood trauma in individuals diagnosed with posttraumatic stress disorder. 
+--UID: 30156463 
+--Date: 2018 Aug 29 
+--Last Author: Aebi M 
+--Title: [Mental disorders and criminal recidivism in male juvenile prisoners]. 
+--UID: 30156455 
+--Date: 2018 Sep 
+--Last Author: Perri M 
+--Title: Opioid Analgesics in Georgia Medicaid: Trends in Potential Inappropriate Prescribing Practices by Demographic Characteristics, 2009-2014. 
+--UID: 30156454 
+--Date: 2018 Sep 
+--Last Author: Donohue JM 
+--Title: Prescription Opioid Quality Measures Applied Among Pennsylvania Medicaid Enrollees. 
+--UID: 30156385 
+--Date: 2018 Aug 29 
+--Last Author: De Paoli G 
+--Title: Postmortem tissue distribution of morphine and its metabolites in a series of heroin related deaths. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Epidermodysplasia Verruciformis 
+ 
+ --UID: 30156265 
+--Date: 2018 Aug 29 
+--Last Author: Tyring SK 
+--Title: A novel approach to the classification of epidermodysplasia verruciformis. 
+--UID: 30147876 
+--Date: 2018 Aug 
+--Last Author: Uddin M 
+--Title: An &lt;i&gt;ANKRD26&lt;/i&gt; nonsense somatic mutation in a female with epidermodysplasia verruciformis (Tree Man Syndrome). 
+--UID: 30133564 
+--Date: 2018 Aug 20 
+--Last Author: Sichero L 
+--Title: Epidemiology and biology of cutaneous human papillomavirus. 
+--UID: 30068545 
+--Date: 2018 Aug 1 
+--Last Author: Notarangelo LD 
+--Title: HPV: CIB1 is for EVER and EVER. 
+--UID: 30068544 
+--Date: 2018 Aug 1 
+--Last Author: Casanova JL 
+--Title: The human CIB1-EVER1-EVER2 complex governs keratinocyte-intrinsic immunity to β-papillomaviruses. 
+--UID: 30036492 
+--Date: 2018 Jul 20 
+--Last Author: Uitto J 
+--Title: Epidermodysplasia verruciformis: Genetic heterogeneity and novel EVER1 and EVER2 mutations revealed by genome-wide analysis. 
+--UID: 30003126 
+--Date: 2018 Jul 
+--Last Author: Kovarik CL 
+--Title: Malignant degeneration of diffuse intertriginous flat warts in a patient with AIDS. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Marijuana Abuse 
+ 
+ --UID: 30157412 
+--Date: 2018 Aug 3 
+--Last Author: Farrell M 
+--Title: The challenges in providing safe, effective, affordable cannabis-based medicines for unapproved indications. 
+--UID: 30153174 
+--Date: 2018 Sep 
+--Last Author: Derman W 
+--Title: Cannabis and the Health and Performance of the Elite Athlete. 
+--UID: 30148142 
+--Date: 2018 
+--Last Author: Harris SK 
+--Title: Pilot randomized trial of MOMENT, a motivational counseling-plus-ecological momentary intervention to reduce marijuana use in youth. 
+--UID: 30146395 
+--Date: 2018 Aug 18 
+--Last Author: Goyal M 
+--Title: Clinical effects of reported synthetic cannabinoid exposure in patients admitted to the intensive care unit. 
+--UID: 30138016 
+--Date: 2018 Sep 
+--Last Author: Stein BD 
+--Title: Brief motivational interviewing intervention to reduce alcohol and marijuana use for at-risk adolescents in primary care. 
+--UID: 30122672 
+--Date: 2018 
+--Last Author: van den Berg JJ 
+--Title: Depression among Women Released from Prison or Jail in the United States. 
+--UID: 30117087 
+--Date: 2018 Aug 16 
+--Last Author: Cole V 
+--Title: Depressive Symptomology as a Moderator of Friend Selection and Influence on Substance Use Involvement: Estimates from Grades 6 to 12 in Six Longitudinal School-Based Social Networks. 
+--UID: 30115770 
+--Date: 2018 Sep 
+--Last Author: Gould TJ 
+--Title: The long-term cognitive consequences of adolescent exposure to recreational drugs of abuse. 
+--UID: 30115765 
+--Date: 2018 Sep 
+--Last Author: Hoffman AF 
+--Title: Cannabinoid disruption of learning mechanisms involved in reward processing. 
+--UID: 30086564 
+--Date: 2018 Aug 
+--Last Author: Hartmann D 
+--Title: [A Lot of Hot Steam: the Cannabinoid Hyperemesis Syndrome]. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Substance abuse problem 
+ 
+ --UID: 30152927 
+--Date: 2016 Autumn 
+--Last Author: Huston J 
+--Title: The Dangerous Specter of Addiction A Cautionary Tale. 
+--UID: 30146938 
+--Date: 2018 Aug 27 
+--Last Author: Weiss RD 
+--Title: Sensitivity analysis for non-monotone missing binary data in longitudinal studies: Application to the NIDA collaborative cocaine treatment study. 
+--UID: 30138306 
+--Date: 2018 Aug 24 
+--Last Author: Luckhaupt SE 
+--Title: Occupational Patterns in Unintentional and Undetermined Drug-Involved and Opioid-Involved Overdose Deaths - United States, 2007-2012. 
+--UID: 30133930 
+--Date: 2018 Aug 22 
+--Last Author: Verdejo-Garcia A 
+--Title: A transdiagnostic dimensional approach towards a neuropsychological assessment for addiction: an international Delphi consensus study. 
+--UID: 30131728 
+--Date: 2018 
+--Last Author: Potenza MN 
+--Title: Factors Statistically Predicting At-Risk/Problematic Internet Use in a Sample of Young Adolescent Boys and Girls in South Korea. 
+--UID: 30130472 
+--Date: 2018 Aug 21 
+--Last Author: Ziarati P 
+--Title: The Texture of Psychoactive Illicit Drugs in Iran: Adulteration with Lead and other Active Pharmaceutical Ingredients. 
+--UID: 30126541 
+--Date: 2018 Oct 
+--Last Author: Rehm J 
+--Title: Evaluating moderators of beneficial effects of severity-based assignment to substance use treatments in impaired drivers. 
+--UID: 30126452 
+--Date: 2018 Aug 21 
+--Last Author: Williams EC 
+--Title: Barriers to addiction treatment among formerly incarcerated adults with substance use disorders. 
+--UID: 30120474 
+--Date: 2018 Aug 14 
+--Last Author: Murray CJL 
+--Title: Variation in Deaths From Intentional Injury and Substance Use-Reply. 
+--UID: 30120467 
+--Date: 2018 Aug 14 
+--Last Author: Connery HS 
+--Title: Variation in Deaths From Intentional Injury and Substance Use. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Bipolar Disorder 
+ 
+ --UID: 30156658 
+--Date: 2018 Oct-Dec 
+--Last Author: McIntyre RS 
+--Title: Coronary calcium score as an expression of multisystemic progression of bipolar disorder. 
+--UID: 30156170 
+--Date: 2018 Aug 29 
+--Last Author: Uher R 
+--Title: Like father like daughter: sex-specific parent-of-origin effects in the transmission of liability for psychotic symptoms to offspring. 
+--UID: 30155393 
+--Date: 2018 Jul 
+--Last Author: Smith TL 
+--Title: Phenytoin-induced chronic liver enzyme elevation and hepatic fibrosis: A case report. 
+--UID: 30153871 
+--Date: 2018 Aug 29 
+--Last Author: DeSantis SM 
+--Title: Identification and initial validation of empirically derived bipolar symptom states from a large longitudinal dataset: an application of hidden Markov modeling to the Systematic Treatment Enhancement Program for Bipolar Disorder (STEP-BD) study. 
+--UID: 30153635 
+--Date: 2018 Aug 14 
+--Last Author: McIntyre RS 
+--Title: Applications of machine learning algorithms to predict therapeutic outcomes in depression: A meta-analysis and systematic review. 
+--UID: 30153563 
+--Date: 2018 Aug 13 
+--Last Author: Strakowski SM 
+--Title: Capacity to provide informed consent among adults with bipolar disorder. 
+--UID: 30153497 
+--Date: 2018 Aug 25 
+--Last Author: Boyer L 
+--Title: Prescription of potentially inappropriate psychotropic drugs in homeless people with schizophrenia and bipolar disorders. Results from the French Housing First (FHF) program. 
+--UID: 30153408 
+--Date: 2018 Aug 28 
+--Last Author: Rosenthal SJ 
+--Title: Single quantum dot imaging reveals PKCβ-dependent alterations in membrane diffusion and clustering of an ADHD/autism/bipolar disorder-associated dopamine transporter variant. 
+--UID: 30153402 
+--Date: 2018 Jul 17 
+--Last Author: Andrade C 
+--Title: Major Congenital Malformations Associated With Exposure to Antiepileptic Drugs During Pregnancy. 
+--UID: 30152644 
+--Date: 2018 Aug 23 
+--Last Author: Duncan EJ 
+--Title: Childhood Physical and Sexual Abuse Predicts Suicide Risk in a Large Cohort of Veterans. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Disease 
+ 
+ --UID: 30157584 
+--Date: 2018 Aug 29 
+--Last Author: Choi HJ 
+--Title: Factors Associated With Longer Postoperative Outpatient Follow-up Duration in Patients With Single Lumbar Disc Herniation: A Noncomplicated Patient Cohort Study. 
+--UID: 30157577 
+--Date: 2018 Sep 1 
+--Last Author: Xu ZY 
+--Title: [Analysis of blood flow energy characteristics of pulsatile and non-pulsatile flow during extracorporeal circulation]. 
+--UID: 30157567 
+--Date: 2018 Sep 1 
+--Last Author: Pancreatic Disease Committee of Chinese Research Hospital Association. 
+--Title: [A consensus statement on the diagnosis and treatment of pancreatic exocrine insufficiency after pancreatic surgery (2018)]. 
+--UID: 30157547 
+--Date: 2018 Aug 29 
+--Last Author: Park J 
+--Title: RNA-Binding Proteins in Amyotrophic Lateral Sclerosis. 
+--UID: 30157542 
+--Date: 2018 Aug 29 
+--Last Author: Soltesz EG 
+--Title: The impact of obesity on cardiac surgery outcomes. 
+--UID: 30157533 
+--Date: 2018 Aug 29 
+--Last Author: Filipovský J 
+--Title: The Prognostic Importance of Impaired Fasting Glycemia in Chronic Coronary Heart Disease Patients. 
+--UID: 30157525 
+--Date: 2018 Aug 
+--Last Author: Thiessard F 
+--Title: Artificial Intelligence in Public Health and Epidemiology. 
+--UID: 30157490 
+--Date: 2018 Aug 29 
+--Last Author: Xu Y 
+--Title: Integrated Analysis Reveals That Long Non-Coding RNA TUBA4B Can Be Used as a Prognostic Biomarker in Various Cancers. 
+--UID: 30157478 
+--Date: 2018 Aug 29 
+--Last Author: He Y 
+--Title: Down-Regulation of MicroRNA-214 Contributed to the Enhanced Mitochondrial Transcription Factor A and Inhibited Proliferation of Colorectal Cancer Cells. 
+--UID: 30157457 
+--Date: 2018 Aug 23 
+--Last Author: Maeng M 
+--Title: Coronary artery disease is independent risk factor for stroke among patients with atrial fibrillation. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Delinquent behavior 
+ 
+ --UID: 30151328 
+--Date: 2018 
+--Last Author: Espelage DL 
+--Title: Examining Within-Person and Between-Person Associations of Family Violence and Peer Deviance on Bullying Perpetration among Middle School Students. 
+--UID: 30119874 
+--Date: 2018 Aug 14 
+--Last Author: Tiemeier H 
+--Title: Structural Brain Connectivity in Childhood Disruptive Behavior Problems: A Multidimensional Approach. 
+--UID: 30089352 
+--Date: 2018 Aug 8 
+--Last Author: Han HH 
+--Title: Association Between Aggression and Internet Gaming Addiction in Adolescents: Mediation effect of Father-Adolescent Communication style in the Republic of Korea. 
+--UID: 30077548 
+--Date: 2018 Aug 1 
+--Last Author: Tolou-Shams M 
+--Title: Sexual Minority, Justice-Involved Youth: A Hidden Population in Need of Integrated Mental Health, Substance Use, and Sexual Health Services. 
+--UID: 30076595 
+--Date: 2018 Aug 3 
+--Last Author: Smith K 
+--Title: Midtreatment Problems Implementing Evidence-based Interventions in Community Settings. 
+--UID: 30071973 
+--Date: 2018 Aug 
+--Last Author: Hopfer CJ 
+--Title: Links Between Childhood Traits and Adult Criminal Behaviors. 
+--UID: 30071749 
+--Date: 2018 Aug 3 
+--Last Author: Goncy EA 
+--Title: Assessment of In-Person and Cyber Aggression and Victimization, Substance Use, and Delinquent Behavior During Early Adolescence. 
+--UID: 30036777 
+--Date: 2018 Sep 
+--Last Author: Mager R 
+--Title: Inhibition and attentional control in pedophilic child sexual offenders - An event-related potential study. 
+--UID: 30029849 
+--Date: 2018 Jul 17 
+--Last Author: Kilpatrick DG 
+--Title: Investigating Longitudinal Associations Between Sexual Assault, Substance Use, and Delinquency Among Female Adolescents: Results From a Nationally Representative Sample. 
+--UID: 30002637 
+--Date: 2018 
+--Last Author: Zhang W 
+--Title: Peer Victimization and Aggressive Behavior Among Chinese Adolescents: Delinquent Peer Affiliation as a Mediator and Parental Knowledge as a Moderator. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Alcoholic Intoxication 
+ 
+ --UID: 30154499 
+--Date: 2018 Aug 28 
+--Last Author: Abuja PM 
+--Title: The PPARα Agonist Fenofibrate Prevents Formation of Protein Aggregates (Mallory-Denk bodies) in a Murine Model of Steatohepatitis-like Hepatotoxicity. 
+--UID: 30130465 
+--Date: 2018 Aug 21 
+--Last Author: Lang CH 
+--Title: Mechanisms Underlying Muscle Protein Imbalance Induced by Alcohol. 
+--UID: 30093798 
+--Date: 2018 
+--Last Author: Tustin K 
+--Title: Students Who Limit Their Drinking, as Recommended by National Guidelines, Are Stigmatized, Ostracized, or the Subject of Peer Pressure: Limiting Consumption Is All But Prohibited in a Culture of Intoxication. 
+--UID: 30071976 
+--Date: 2018 Aug 
+--Last Author: Williamson DE 
+--Title: Trajectories of Alcohol Initiation and Use During Adolescence: The Role of Stress and Amygdala Reactivity. 
+--UID: 30024663 
+--Date: 2018 
+--Last Author: Beck JD 
+--Title: Recent Developments in Workers' Compensation and Employers' Liability Law. 
+--UID: 29981506 
+--Date: 2018 Aug 
+--Last Author: Kelly MC 
+--Title: Male sexual assault: Physical injury and vulnerability in 103 presentations. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Butting 
+ 
+ --UID: 30124092 
+--Date: 2018 Aug 19 
+--Last Author: Lin MR 
+--Title: Risk Factors for Violent Injuries and Their Severity Among Men in The Gambia. 
+--UID: 30096636 
+--Date: 2018 Jul 31 
+--Last Author: Brewer NT 
+--Title: Why smokers avoid cigarette pack risk messages: Two randomized clinical trials in the United States. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Emotional distress 
+ 
+ --UID: 30153984 
+--Date: 2018 Aug 25 
+--Last Author: Bilardi J 
+--Title: "The loss was traumatic… some healthcare providers added to that": Women's experiences of miscarriage. 
+--UID: 30153600 
+--Date: 2018 Aug 18 
+--Last Author: Faravelli C 
+--Title: Parental style and Cloninger's model in psychosis. 
+--UID: 30152867 
+--Date: 2018 Aug 28 
+--Last Author: Leeds WM 
+--Title: Chronic fatigue syndrome and the somatic expression of emotional distress: Applying the concept of illusory mental health to address the controversy. 
+--UID: 30145213 
+--Date: 2018 Aug 23 
+--Last Author: Berendsen AJ 
+--Title: Effects of shared decision making on distress and healthcare utilization among patients with lung cancer: a systematic review. 
+--UID: 30144537 
+--Date: 2018 Aug 22 
+--Last Author: Schwarze ML 
+--Title: Third-Year Medical Students' Reactions to Surgical Patients in Pain: Doubt, Distress and Depersonalization. 
+--UID: 30144490 
+--Date: 2018 Aug 23 
+--Last Author: Griffiths S 
+--Title: Cheat meals: A benign or ominous variant of binge eating behavior? 
+--UID: 30142755 
+--Date: 2018 Aug 
+--Last Author: Ugwu U 
+--Title: Effect of music therapy combined with cognitive restructuring therapy on emotional distress in a sample of Nigerian married couples. 
+--UID: 30142691 
+--Date: 2018 Aug 24 
+--Last Author: DeVylder JE 
+--Title: Fixity of thinking and the foundations of identity: An argument for the evolutionary adaptiveness of delusions. 
+--UID: 30142609 
+--Date: 2018 Aug 8 
+--Last Author: Begley C 
+--Title: Prognostic factors for pregnancy-related pelvic girdle pain, a systematic review. 
+--UID: 30141376 
+--Date: 2018 Aug 24 
+--Last Author: Goicolea I 
+--Title: An asymmetric burden: Experiences of men and women as caregivers of people with psycho-social disabilities in rural North India. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Hallucinations 
+ 
+ --UID: 30156330 
+--Date: 2018 Aug 29 
+--Last Author: Soysal P 
+--Title: Role of physical activity in ameliorating neuropsychiatric symptoms in Alzheimer disease: A narrative review. 
+--UID: 30150021 
+--Date: 2018 Aug 24 
+--Last Author: Chen EYH 
+--Title: Efficacy of transcranial direct current stimulation (tDCS) as a treatment for persistent hallucinations in patients with schizophrenia: A systematic review and meta-analysis. 
+--UID: 30145302 
+--Date: 2018 Aug 16 
+--Last Author: Bentall RP 
+--Title: The role of social isolation and social cognition in thought disorder. 
+--UID: 30145297 
+--Date: 2018 Aug 13 
+--Last Author: Collerton D 
+--Title: Prevalence and characteristics of multi-modal hallucinations in people with psychosis who experience visual hallucinations. 
+--UID: 30140115 
+--Date: 2017 Dec 
+--Last Author: Black KJ 
+--Title: Treatment of Parkinson's disease psychosis. 
+--UID: 30137803 
+--Date: 2018 Jan 
+--Last Author: Luther EE 
+--Title: Retinitis Pigmentosa 
+--UID: 30128479 
+--Date: 2018 Aug 16 
+--Last Author: Suh JD 
+--Title: Prevalence and Risk Factors for Olfactory Hallucinations: The Phantom Menace. 
+--UID: 30127324 
+--Date: 2018 Aug 20 
+--Last Author: Kaczor AA 
+--Title: Current Concepts and Treatments of Schizophrenia. 
+--UID: 30124451 
+--Date: 2018 Aug 13 
+--Last Author: Hershey LA 
+--Title: Importance of Balance-Gait Disorder as a Risk Factor for Cognitive Impairment, Dementia and Related Non-Motor Symptoms in Parkinson's Disease. 
+--UID: 30122454 
+--Date: 2018 Aug 16 
+--Last Author: Egerod I 
+--Title: Nurses' and physicians' approaches to delirium management in the intensive care unit: A focus group investigation. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Burn injury 
+ 
+ --UID: 30157566 
+--Date: 2018 Aug 20 
+--Last Author: Liu DW 
+--Title: [Advances in the research of the application of induced pluripotent stem cells in tissue engineering skin as seed cells]. 
+--UID: 30157565 
+--Date: 2018 Aug 20 
+--Last Author: Zhu SH 
+--Title: [Advances in the research of delivery system of growth factor and the gene for promoting wound healing]. 
+--UID: 30157564 
+--Date: 2018 Aug 20 
+--Last Author: Chen F 
+--Title: [One case of elderly patient with extremely severe burn complicated by ventricular tachycardia]. 
+--UID: 30157563 
+--Date: 2018 Aug 20 
+--Last Author: Liu B 
+--Title: [One case of severely burned patient complicated by acute hemorrhagic necrotizing enteritis and fungal infection]. 
+--UID: 30157562 
+--Date: 2018 Aug 20 
+--Last Author: Cheng J 
+--Title: [Repair of pressure ulcers in ischial tuberosity of 15 patients by partially de-epithelialized posterior femoral bilobed flaps]. 
+--UID: 30157560 
+--Date: 2018 Aug 20 
+--Last Author: Zhang GA 
+--Title: [Morphological and pathological changes of larynx after severe laryngeal burn in dogs and their relationship with laryngostenosis]. 
+--UID: 30157559 
+--Date: 2018 Aug 20 
+--Last Author: Wang DL 
+--Title: [Effects of local transplantation of autologous adipose-derived stromal vascular fraction on the hyperplastic scar formation in rabbit ears and the mechanism]. 
+--UID: 30157558 
+--Date: 2018 Aug 20 
+--Last Author: Wang H 
+--Title: [Effects of allogeneic skin fibroblasts on promoting wound healing of diabetic mice and the mechanism]. 
+--UID: 30157557 
+--Date: 2018 Aug 20 
+--Last Author: Li M 
+--Title: [Experience of transportation of mass severe burn patients for long distance by air ambulance with fixed wing]. 
+--UID: 30157556 
+--Date: 2018 Aug 20 
+--Last Author: Chen P 
+--Title: [Design and manufacture of a utility artificial hand for a burned child by three-dimensional printing technology and its application]. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Sirenomelia 
+ 
+ --UID: 30124195 
+--Date: 2018 Sep 
+--Last Author: Elia G 
+--Title: Novel Orthopoxvirus and Lethal Disease in Cat, Italy. 
+--UID: 30079256 
+--Date: 2018 
+--Last Author: Al Shafouri NST 
+--Title: A Case of Sirenomelia Associated with Hypoplastic Left Heart with a Healthy Co-Twin: A Rare Entity. 
+--UID: 29972776 
+--Date: 2018 Jul 3 
+--Last Author: Sigal LJ 
+--Title: Migratory Dendritic Cells, Group 1 Innate Lymphoid Cells, and Inflammatory Monocytes Collaborate to Recruit NK Cells to the Virus-Infected Lymph Node. 
+--UID: 29963044 
+--Date: 2018 
+--Last Author: Jing ZZ 
+--Title: The cGas-Sting Signaling Pathway Is Required for the Innate Immune Response Against Ectromelia Virus. 
+ 
+ 
+ 
+ 

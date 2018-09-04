@@ -1,0 +1,427 @@
+---PUBMED ARTICLES: Primary operation 
+ 
+ --UID: 30157530 
+--Date: 2018 Aug 29 
+--Last Author: Mont MA 
+--Title: Operative Time, Length of Stay, Short-Term Readmission, and Complications after Hinged Primary Total Knee Arthroplasty: A Propensity Score Matched Analysis. 
+--UID: 30157139 
+--Date: 2018 Aug 28 
+--Last Author: Edizer DT 
+--Title: Outcomes of Endoscopic Powered Revision Dacryocystorhinostomy. 
+--UID: 30156983 
+--Date: 2018 Aug 29 
+--Last Author: Cary C 
+--Title: Risk of Bleomycin-Related Pulmonary Toxicities and Operative Morbidity After Postchemotherapy Retroperitoneal Lymph Node Dissection in Patients With Good-Risk Germ Cell Tumors. 
+--UID: 30154709 
+--Date: 2018 
+--Last Author: Ray S 
+--Title: Effect of Stimulus Contrast and Visual Attention on Spike-Gamma Phase Relationship in Macaque Primary Visual Cortex. 
+--UID: 30153957 
+--Date: 2018 Aug 7 
+--Last Author: Tang Y 
+--Title: Serum miR-130b level, an ideal marker for monitoring the recurrence and prognosis of primary hepatocellular carcinoma after radiofrequency ablation treatment. 
+--UID: 30153781 
+--Date: 2018 Sep 
+--Last Author: McGuinness S 
+--Title: Design and statistical analysis plan for a trial comparing a conservative fluid management strategy with usual care in patients after cardiac surgery: the FAB study. 
+--UID: 30153696 
+--Date: 2018 Aug 28 
+--Last Author: Mair R 
+--Title: External Prosthetic Reinforcement of the Pulmonary Autograft. 
+--UID: 30152767 
+--Date: 2018 Feb 27 
+--Last Author: Pitera T 
+--Title: Surgical Treatment Outcomes in Metastatic Tumours Located at the Craniocervical Junction. 
+--UID: 30149779 
+--Date: 2018 Aug 28 
+--Last Author: Woo SH 
+--Title: Transoral Dermoid Cyst Excision: A Multicenter Prospective Observational Study. 
+--UID: 30148748 
+--Date: 2018 Aug 23 
+--Last Author: Noosorn N 
+--Title: Tobacco Retailers Near Schools and the Violations of Tobacco Retailing Laws in Thailand. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Serum total cholesterol measurement 
+ 
+ --UID: 30088482 
+--Date: 2018 Aug 
+--Last Author: Meng W 
+--Title: Effect of inflammation on the biomechanical strength of involved aorta in type A aortic dissection and ascending thoracic aortic aneurysm: An initial research. 
+--UID: 30086941 
+--Date: 2018 Nov 1 
+--Last Author: Adeloju SB 
+--Title: A single step electrochemical integration of gold nanoparticles, cholesterol oxidase, cholesterol esterase and mediator with polypyrrole films for fabrication of free and total cholesterol nanobiosensors. 
+--UID: 29980094 
+--Date: 2018 Apr 20 
+--Last Author: Henry CJ 
+--Title: Ultrasound measurement of intraabdominal fat thickness as a predictor of insulin resistance and low HDL cholesterol in Asians. 
+--UID: 29972118 
+--Date: 2018 Jun 
+--Last Author: Yang Y 
+--Title: [Association of blood lipids with childhood asthma]. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Catheterization 
+ 
+ --UID: 30157094 
+--Date: 2018 Aug 28 
+--Last Author: Abbara S 
+--Title: Growing Evidence for Coronary Computed Tomography Angiography as a First-line Test in Stable Chest Pain. 
+--UID: 30156072 
+--Date: 2018 Feb 
+--Last Author: Wang Z 
+--Title: [Shovel-shaped electrode transurethral plasmakinetic enucleation versus plasmakinetic resection of the prostate in the treatment of benign prostatic hyperplasia]. 
+--UID: 30155860 
+--Date: 2018 Aug 29 
+--Last Author: Sahni S 
+--Title: Pulmonary arterial hypertension in the elderly: Clinical perspectives. 
+--UID: 30155388 
+--Date: 2018 Jun 26 
+--Last Author: Andukuri V 
+--Title: A Rare Case of Isolated Left Ventricular Non-compaction in an Elderly Patient. 
+--UID: 30154912 
+--Date: 2018 
+--Last Author: Zhuang J 
+--Title: Large-Deformation Image Registration of CT-TEE for Surgical Navigation of Congenital Heart Disease. 
+--UID: 30152306 
+--Date: 2018 Aug 28 
+--Last Author: Breinholt JP 
+--Title: No difference found in safety or efficacy of balloon atrial septostomy performed at the bedside versus the catheterisation laboratory. 
+--UID: 30151836 
+--Date: 2018 Aug 27 
+--Last Author: Law IH 
+--Title: Cost Analysis of Combining Congenital Cardiac Catheterization and Electrophysiology Procedures in an Outpatient Setting. 
+--UID: 30150000 
+--Date: 2018 Aug 24 
+--Last Author: Witzke C 
+--Title: Pericardium: The Forgotten Space During Acute Myocardial Infarction. 
+--UID: 30148982 
+--Date: 2018 Aug 24 
+--Last Author: Brittain EL 
+--Title: Features Associated with Discordance between Pulmonary Arterial Wedge Pressure and Left Ventricular End Diastolic Pressure in Clinical Practice: Implications for Pulmonary Hypertension Classification. 
+--UID: 30148008 
+--Date: 2018 Jun 21 
+--Last Author: Feldman B 
+--Title: The Disappearing Murmur: Systolic Anterior Motion of the Mitral Valve Leaflet in a Non-hypertrophic Cardiomyopathy Patient. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Calcium measurement 
+ 
+ --UID: 30154051 
+--Date: 2018 Aug 25 
+--Last Author: Matcha G 
+--Title: Distribution of Cervicocephalic Atherosclerotic Lesions and Their Correlation with Cardiovascular Risk Factors in a Population of Amerindians. The Atahualpa Project. 
+--UID: 30151603 
+--Date: 2018 Aug 28 
+--Last Author: Bilgin A 
+--Title: Evaluation of surface water quality by using Canadian Council of Ministers of the Environment Water Quality Index (CCME WQI) method and discriminant analysis method: a case study Coruh River Basin. 
+--UID: 30146772 
+--Date: 2018 Aug 26 
+--Last Author: Leite HP 
+--Title: Is arterial calcification in children and adolescents with end stage renal disease a rare finding? 
+--UID: 30144073 
+--Date: 2018 Aug 24 
+--Last Author: Wang RQ 
+--Title: Gastrin-releasing peptide receptor gene silencing inhibits the development of the epithelial-mesenchymal transition and formation of a calcium oxalate crystal in renal tubular epithelial cells in mice with kidney stones via the PI3K/Akt signaling pathway. 
+--UID: 30141985 
+--Date: 2018 Aug 24 
+--Last Author: Hu S 
+--Title: Facilitated Ca&lt;sup&gt;2+&lt;/sup&gt; homeostasis and attenuated myocardial autophagy contribute to alleviation of diabetic cardiomyopathy after bariatric surgery. 
+--UID: 30127424 
+--Date: 2018 Aug 20 
+--Last Author: Tian L 
+--Title: In vivo measurement of afferent activity with axon-specific calcium imaging. 
+--UID: 30122867 
+--Date: 2018 Jan-Apr 
+--Last Author: Rajan ST 
+--Title: Estimation of time since death based on light microscopic, electron microscopic, and electrolyte analysis in the gingival tissue. 
+--UID: 30112543 
+--Date: 2018 Aug 16 
+--Last Author: Easley CJ 
+--Title: Automated microfluidic droplet sampling with integrated, mix-and-read immunoassays to resolve endocrine tissue secretion dynamics. 
+--UID: 30108510 
+--Date: 2018 
+--Last Author: Nishimura N 
+--Title: &lt;i&gt;In Vivo&lt;/i&gt; Calcium Imaging of Cardiomyocytes in the Beating Mouse Heart With Multiphoton Microscopy. 
+--UID: 30095611 
+--Date: 2018 Aug 
+--Last Author: Rowe SP 
+--Title: Adding value to myocardial perfusion SPECT/CT studies that include coronary calcium CT: Detection of incidental pulmonary arterial dilatation. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Exercise stress test 
+ 
+ --UID: 30157307 
+--Date: 2018 Aug 29 
+--Last Author: Hatasaki K 
+--Title: Catecholaminergic polymorphic ventricular tachycardia managed as orthostatic dysregulation and epilepsy in 11- and 15-year-old sisters. 
+--UID: 30157271 
+--Date: 2018 
+--Last Author: Hernando B 
+--Title: Establishing cut-points for physical activity classification using triaxial accelerometer in middle-aged recreational marathoners. 
+--UID: 30157058 
+--Date: 2018 Aug 28 
+--Last Author: de Rezende MU 
+--Title: Physical activity prevents blood pressure increases in individuals under treatment for knee osteoarthritis. 
+--UID: 30156941 
+--Date: 2018 Aug 29 
+--Last Author: Porszasz J 
+--Title: Oxygen Uptake and Lactate Kinetics in Patients with Chronic Obstructive Pulmonary Disease during Heavy Intensity Exercise: Role of Pedaling Cadence. 
+--UID: 30156084 
+--Date: 2018 Aug 27 
+--Last Author: Juul-Kristensen B 
+--Title: Pain extent is more strongly associated with disability, psychological factors, and neck muscle function in people with non-traumatic versus traumatic chronic neck pain: a cross sectional study. 
+--UID: 30155903 
+--Date: 2018 Aug 28 
+--Last Author: Moscato F 
+--Title: LVAD pump flow does not adequately increase with exercise. 
+--UID: 30155567 
+--Date: 2018 Aug 28 
+--Last Author: Liu M 
+--Title: Factors affecting lower limb muscle strength and cardiopulmonary fitness after allogeneic hematopoietic stem cell transplantation. 
+--UID: 30155275 
+--Date: 2018 
+--Last Author: Valent LJ 
+--Title: Effect of self-guided training for the HandbikeBattle on body composition in people with spinal cord injury. 
+--UID: 30154736 
+--Date: 2018 
+--Last Author: Rodríguez-Marroyo JA 
+--Title: Fractional Contribution of Wildland Firefighters' Personal Protective Equipment on Physiological Strain. 
+--UID: 30154731 
+--Date: 2018 
+--Last Author: Mündermann A 
+--Title: Inertial Sensor-Based Gait and Attractor Analysis as Clinical Measurement Tool: Functionality and Sensitivity in Healthy Subjects and Patients With Symptomatic Lumbar Spinal Stenosis. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Laboratory Procedures 
+ 
+ --UID: 30157576 
+--Date: 2018 Sep 1 
+--Last Author: Xu GL 
+--Title: [Influential factors for failure of enhanced recovery after surgery from hepatectomy for hepatocellular carcinoma and the establishment of risk prediction model]. 
+--UID: 30157531 
+--Date: 2018 Aug 29 
+--Last Author: Lammert A 
+--Title: Dietary Intervention with Oatmeal in Patients with uncontrolled Type 2 Diabetes Mellitus - A Crossover Study. 
+--UID: 30157516 
+--Date: 2018 Aug 
+--Last Author: Vreeman DJ 
+--Title: Recent Developments in Clinical Terminologies - SNOMED CT, LOINC, and RxNorm. 
+--UID: 30157482 
+--Date: 2018 Aug 29 
+--Last Author: Saussez S 
+--Title: The Effect of the Speech Task Characteristics on Perceptual Judgment of Mild to Moderate Dysphonia: A Methodological Study. 
+--UID: 30157477 
+--Date: 2018 Aug 29 
+--Last Author: Liu H 
+--Title: Dipeptide (Methionyl-Methionine) Transport and Its Effect on β-Casein Synthesis in Bovine Mammary Epithelial Cells. 
+--UID: 30157391 
+--Date: 2018 Aug 30 
+--Last Author: Alland D 
+--Title: Bacterial Factors That Predict Relapse after Tuberculosis Therapy. 
+--UID: 30157389 
+--Date: 2018 Aug 30 
+--Last Author: Kruse-Jarres R 
+--Title: Emicizumab Prophylaxis in Patients Who Have Hemophilia A without Inhibitors. 
+--UID: 30157358 
+--Date: 2018 Janurary 
+--Last Author: Liu XD 
+--Title: [Pre-implantation genetic screening in intracytoplasmic sperm injection for infertile patients with high sperm DNA fragmentation index]. 
+--UID: 30157353 
+--Date: 2018 Janurary 
+--Last Author: Cui YG 
+--Title: [Differentiation of embryonic stem cells from the embryos of the couples with male asthenozoospermia and Robertsonian translocation into germ cells]. 
+--UID: 30157275 
+--Date: 2018 
+--Last Author: Mikasa K 
+--Title: Molecular epidemiology and clinical features of extended-spectrum beta-lactamase- or carbapenemase-producing Escherichia coli bacteremia in Japan. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Herniorrhaphy 
+ 
+ --UID: 30155571 
+--Date: 2018 Aug 28 
+--Last Author: Pulido J 
+--Title: Preventative laparoscopic repair of Petersen's space following gastric bypass surgery reduces the incidence of Petersen's hernia: a comparative study. 
+--UID: 30145622 
+--Date: 2018 Aug 25 
+--Last Author: Memon MA 
+--Title: Causes of recurrence in laparoscopic inguinal hernia repair. 
+--UID: 30145499 
+--Date: 2018 Aug 9 
+--Last Author: Pillay Y 
+--Title: A case report of a double port site hernia and their laparoscopic repair with intra corporeal suturing of the hernia necks and an underlay mesh repair. 
+--UID: 30140515 
+--Date: 2018 Jun 
+--Last Author: Kvolik S 
+--Title: Effect of Pre-Emptive Paracetamol Infusion on Postoperative Analgesic Consumption in Children Undergoing Elective Herniorrhaphy. 
+--UID: 30113494 
+--Date: 2018 Aug 
+--Last Author: Liu L 
+--Title: Surgical approach towards Grynfelt hernia: A single center experience. 
+--UID: 30106640 
+--Date: 2018 Aug 14 
+--Last Author: Park PJ 
+--Title: Novel Transabdominal Preperitoneal Hernioplasty Technique for Recurrent Inguinal Hernia: Overlapping of Whole Posterior Wall with Newly Added Mesh and Pre-existing Mesh by Closing Hernia Defect. 
+--UID: 30072277 
+--Date: 2018 Jul 30 
+--Last Author: Tekin İ 
+--Title: Effect of Transcutaneous Electrical Nerve Stimulation on Postoperative Pain and Patient Satisfaction. 
+--UID: 30064578 
+--Date: 2018 Jul 1 
+--Last Author: Warren JA 
+--Title: Antibiotic Irrigation of the Surgical Site Decreases Incidence of Surgical Site Infection after Open Ventral Hernia Repair. 
+--UID: 30064577 
+--Date: 2018 Jul 1 
+--Last Author: Heniford BT 
+--Title: One More Time: Redo Paraesophageal Hernia Repair Results in Safe, Durable Outcomes Compared with Primary Repairs. 
+--UID: 30061041 
+--Date: 2018 Jul 27 
+--Last Author: Yang GP 
+--Title: Lost in translation: Informed consent in the medical mission setting. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Surgical repair 
+ 
+ --UID: 30157562 
+--Date: 2018 Aug 20 
+--Last Author: Cheng J 
+--Title: [Repair of pressure ulcers in ischial tuberosity of 15 patients by partially de-epithelialized posterior femoral bilobed flaps]. 
+--UID: 30157553 
+--Date: 2018 Aug 20 
+--Last Author: Jia WB 
+--Title: [Effects of ultrathin abdomen flap on repairing deep electric burn wounds in finger of pediatric patients]. 
+--UID: 30157542 
+--Date: 2018 Aug 29 
+--Last Author: Soltesz EG 
+--Title: The impact of obesity on cardiac surgery outcomes. 
+--UID: 30157479 
+--Date: 2018 Aug 29 
+--Last Author: Wood C 
+--Title: Indomethacin Dosing and Constriction of the Ductus Arteriosus During Open Fetal Surgery for Myelomeningocele Repair. 
+--UID: 30156624 
+--Date: 2018 Sep-Oct 
+--Last Author: Cerci FB 
+--Title: Versatility of advancement flaps for nasal reconstruction following Mohs` micrographic surgery. 
+--UID: 30155782 
+--Date: 2018 Aug 29 
+--Last Author: Bonfield CM 
+--Title: Caregiver stress in children with craniosynostosis: a systematic literature review. 
+--UID: 30155571 
+--Date: 2018 Aug 28 
+--Last Author: Pulido J 
+--Title: Preventative laparoscopic repair of Petersen's space following gastric bypass surgery reduces the incidence of Petersen's hernia: a comparative study. 
+--UID: 30155570 
+--Date: 2018 Aug 28 
+--Last Author: Elrouby A 
+--Title: Pediatric inguinal hernias, are they all the same? A proposed pediatric hernia classification and tailored treatment. 
+--UID: 30155453 
+--Date: 2018 
+--Last Author: Wang Y 
+--Title: Levosimendan for Pediatric Anomalous Left Coronary Artery From the Pulmonary Artery Undergoing Repair: A Single-Center Experience. 
+--UID: 30155417 
+--Date: 2018 May 
+--Last Author: Kölbel T 
+--Title: Endovascular total arch replacement techniques and early results. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Operative Surgical Procedures 
+ 
+ --UID: 30157582 
+--Date: 2018 Aug 29 
+--Last Author: Ha Y 
+--Title: Diversity in Surgical Decision Strategies for Adult Spine Deformity Treatment: The Effects of Neurosurgery or Orthopedic Training Background and Surgical Experience. 
+--UID: 30157575 
+--Date: 2018 Sep 1 
+--Last Author: Kong R 
+--Title: [Clinical analysis of small incision minimally invasive approach in treatment of infected pancreatic necrosis]. 
+--UID: 30157570 
+--Date: 2018 Sep 1 
+--Last Author: Zhao Y 
+--Title: [How to restore the proper lumbar lordosis in spine surgery]. 
+--UID: 30157530 
+--Date: 2018 Aug 29 
+--Last Author: Mont MA 
+--Title: Operative Time, Length of Stay, Short-Term Readmission, and Complications after Hinged Primary Total Knee Arthroplasty: A Propensity Score Matched Analysis. 
+--UID: 30156983 
+--Date: 2018 Aug 29 
+--Last Author: Cary C 
+--Title: Risk of Bleomycin-Related Pulmonary Toxicities and Operative Morbidity After Postchemotherapy Retroperitoneal Lymph Node Dissection in Patients With Good-Risk Germ Cell Tumors. 
+--UID: 30155570 
+--Date: 2018 Aug 28 
+--Last Author: Elrouby A 
+--Title: Pediatric inguinal hernias, are they all the same? A proposed pediatric hernia classification and tailored treatment. 
+--UID: 30154632 
+--Date: 2018 Sep 
+--Last Author: Ramaiah C 
+--Title: Reoperations on Thoracic Aorta and Aortic Root: Surgical Technique and Pitfalls. 
+--UID: 30154573 
+--Date: 2018 Aug 28 
+--Last Author: Sa HS 
+--Title: Generation of customized orbital implant templates using 3-dimensional printing for orbital wall reconstruction. 
+--UID: 30153781 
+--Date: 2018 Sep 
+--Last Author: McGuinness S 
+--Title: Design and statistical analysis plan for a trial comparing a conservative fluid management strategy with usual care in patients after cardiac surgery: the FAB study. 
+--UID: 30152955 
+--Date: 2016 Aug 
+--Last Author: Abdellatif W 
+--Title: EVALUATION OF PACKING THE RESIDUAL CAVITY AFTER TOTAL OR PARTIAL CYST RESECTION IN MANAGEMENT OF HEPATIC HYDATID CYSTIC DISEASE. 
+ 
+ 
+ 
+ ---PUBMED ARTICLES: Stretching exercises 
+ 
+ --UID: 30144180 
+--Date: 2018 Aug 24 
+--Last Author: Cyrino ES 
+--Title: The data does not seem to support the effect of stretch training on increasing muscle thickness. 
+--UID: 30139422 
+--Date: 2018 Sep 15 
+--Last Author: Behm DG 
+--Title: Effects of Static Versus Ballistic Stretching on Hamstring:Quadriceps Strength Ratio and Jump Performance in Ballet Dancers and Resistance Trained Women. 
+--UID: 30135909 
+--Date: 2017 
+--Last Author: Brink Y 
+--Title: Effectiveness of exercise in office workers with neck pain: A systematic review and meta-analysis. 
+--UID: 30132688 
+--Date: 2018 Aug 22 
+--Last Author: Hvaal K 
+--Title: Proximal Medial Gastrocnemius Recession and Stretching Versus Stretching as Treatment of Chronic Plantar Heel Pain. 
+--UID: 30111310 
+--Date: 2018 Aug 16 
+--Last Author: Shin HI 
+--Title: Lower extremity joint contracture according to ambulatory status in children with Duchenne muscular dystrophy. 
+--UID: 30103358 
+--Date: 2018 Jul 28 
+--Last Author: Rhi SY 
+--Title: The effects of instrument-assisted soft tissue mobilization on active range of motion, functional fitness, flexibility, and isokinetic strength in high school basketball players. 
+--UID: 30096269 
+--Date: 2018 Aug 10 
+--Last Author: Lopes-Martins RAB 
+--Title: Characterization of Skeletal Muscle Strain Lesion Induced by Stretching in Rats: Effects of Laser Photobiomodulation. 
+--UID: 30091806 
+--Date: 2018 Aug 9 
+--Last Author: O'Brien TD 
+--Title: Muscle and tendon lengthening behaviour of the medial gastrocnemius during ankle joint rotation in children with cerebral palsy. 
+--UID: 30088029 
+--Date: 2018 Aug 7 
+--Last Author: Vera-Garcia FJ 
+--Title: Different neuromuscular parameters influence dynamic balance in male and female football players. 
+--UID: 30085995 
+--Date: 2018 Aug 6 
+--Last Author: Izumi T 
+--Title: The baseline speed of 10-m gait predicts ambulatory discharge for hospitalized frail elderly after DOPPO rehabilitation. 
+ 
+ 
+ 
+ 
